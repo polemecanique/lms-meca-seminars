@@ -10,8 +10,7 @@ format:
 ::::: {.talk-card}
 ### 14th of March 2025
 
-**Title:** Role of melting and solidification in the spreading of a water drop.
-
+**Title:** Role of melting and solidification in the spreading of a water drop. <br>
 **Author:** Wladimir Sarlin (LadHyX)
 
 :::: {.columns}
