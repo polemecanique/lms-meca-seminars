@@ -19,7 +19,7 @@ This wiki serves as a central hub for all the Pôle Méca seminar series. This s
 
 Here, you will find:
 
-* [**Schedule**](Schedule.qmd): The schedule of the internal seminar series.
-* [**Past Seminars Archive**](PastSeminarsArchive.qmd): The list of past seminars with the associated decks of slides.
-* [**Registration page**](Registration.qmd): A page to register as a speaker.
+* [**Schedule**](Schedule.qmd): View the upcoming seminar schedule.
+* [**Past Seminars Archive**](PastSeminarsArchive.qmd): Access previous seminar presentations and slide decks.
+* [**Registration page**](Registration.qmd): Register to present your work at an upcoming seminar.
 
