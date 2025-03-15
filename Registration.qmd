@@ -13,7 +13,7 @@ format:
 * Please indicate your
   * Name
   * Lab
-  * The title of yout presentation
+  * The title of your presentation
   * The format 
     * Short (around 20 minutes)
     * Long(around 40-45 minutes)
