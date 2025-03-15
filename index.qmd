@@ -15,7 +15,7 @@ format:
 
 ## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome to the internal Pôle Méca seminar series webapge!
 
-This wiki serves as a central hub for all the Pôle Méca seminar series. This series consists of **weekly seminars** co-organised by all labs from the **Pôle Mécanique**. Anyone (PhD students, postdocs and permanent faculty memebers) are welcom to present their work!
+This wiki serves as a central hub for all the Pôle Méca seminar series. This series consists of **weekly seminars** co-organised by all labs from the **Pôle Mécanique**. Anyone (PhD students, postdocs and permanent faculty memebers) are welcome to present their work!
 
 Here, you will find:
 
