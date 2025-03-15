@@ -1,6 +1,5 @@
 ---
 # title: Junior researchers - WIKI
-image: Resources/Images/PoleMeca.png
 toc: false
 about:
   template: marquee
@@ -23,4 +22,6 @@ Here, you will find:
 * [**Past Seminars Archive**](PastSeminarsArchive.qmd): Access previous seminar presentations and slide decks.
 * [**Registration page**](Registration.qmd): Register to present your work at an upcoming seminar.
 * [**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.
+
+![](Resources/Images/PoleMeca.png)
 
