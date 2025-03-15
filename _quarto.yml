@@ -24,9 +24,10 @@ website:
         text: Schedule
       - href: Registration.qmd
         text: Register
-
       - href: PastSeminarsArchive.qmd
         text: Archive
+      - href: AdditionalResources.qmd
+        text: Miscellaneous
 
   announcement: 
     icon: info-circle

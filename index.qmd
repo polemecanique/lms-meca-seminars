@@ -22,4 +22,5 @@ Here, you will find:
 * [**Schedule**](Schedule.qmd): View the upcoming seminar schedule.
 * [**Past Seminars Archive**](PastSeminarsArchive.qmd): Access previous seminar presentations and slide decks.
 * [**Registration page**](Registration.qmd): Register to present your work at an upcoming seminar.
+* [**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.
 
