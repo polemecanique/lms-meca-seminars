@@ -1,0 +1,17 @@
+---
+# title: Schedule
+format:
+  html:
+    page-layout: full
+---
+
+:::: {style='margin-top: 3em;'}
+::::
+
+## {{< iconify fa6-solid:calendar-days >}} &nbsp; Pôle Méca internal seminars schedule
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=cG9sZS5tZWNhLnNlbWluYWlyZUBnbWFpbC5jb20&amp;ctz=Europe%2FParis;color=%233F51B5&amp;mode=AGENDA&amp;hl=en&amp;showTitle=0&amp;showCalendars=0"
+        style="border:0" scrolling="no" height="500" frameborder="0" width="100%"></iframe>
+
+- **Time:** Friday, 11:00 a.m. – 12:00 a.m. 
+- **Venue:** Amphi 104 (Pôle Mécanique)

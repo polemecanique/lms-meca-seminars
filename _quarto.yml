@@ -1,0 +1,47 @@
+################################################################################
+###                                                                          ###
+### Created by Alexandre Daby-Seesaram                                       ###
+###                                                                          ###
+### École Polytechnique, Palaiseau, France                                   ###
+###                                                                          ###
+################################################################################
+
+project:
+  resources:
+    - "Resources/Documents"
+    - "style_LMS.scss"
+    - "style_LMS_dark.scss"
+  type: website
+  output-dir: public
+website:
+  title: "Pôle Méca seminar series"
+  description: "Pôle Méca seminar series website"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: Schedule.qmd
+        text: Schedule
+      - href: Registration.qmd
+        text: Register
+
+      - href: PastSeminarsArchive.qmd
+        text: Archive
+
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**New webpage** - The new internal seminar series's wiki is online ! "
+    type: light
+    position: below-navbar
+
+format:
+  html:
+    theme:
+      light: [flatly,style_LMS.scss]
+      dark: [darkly,style_LMS_dark.scss]
+    css: styles.css
+    toc: true
+
+
+

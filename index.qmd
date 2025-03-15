@@ -1,0 +1,25 @@
+---
+# title: Junior researchers - WIKI
+image: Resources/Images/PoleMeca.png
+toc: false
+about:
+  template: marquee
+  links:
+    - icon: github
+      text: Github
+      href: https://https://github.com/polemecanique/internal_seminars
+format:
+  html:
+    page-layout: full
+---
+
+## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome to the internal Pôle Méca seminar series webapge!
+
+This wiki serves as a central hub for all the Pôle Méca seminar series. This series consists of **weekly seminars** co-organised by all labs from the **Pôle Mécanique**. Anyone (PhD students, postdocs and permanent faculty memebers) are welcom to present their work!
+
+Here, you will find:
+
+* [**Schedule**](Schedule.qmd): The schedule of the internal seminar series.
+* [**Past Seminars Archive**](PastSeminarsArchive.qmd): The list of past seminars with the associated decks of slides.
+* [**Registration page**](Registration.qmd): A page to register as a speaker.
+
