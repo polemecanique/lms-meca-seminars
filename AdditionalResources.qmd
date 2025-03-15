@@ -24,7 +24,7 @@ format:
 
 
 
-## {{< iconify fa-solid:compass-drafting >}} &nbsp; Figures editing
+## {{< iconify fa6-solid:compass-drafting >}} &nbsp; Figures editing
 
 ::: {.talk-card}
 
