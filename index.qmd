@@ -7,7 +7,7 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://https://github.com/polemecanique/internal_seminars
+      href: https://github.com/polemecanique/internal_seminars
 format:
   html:
     page-layout: full
