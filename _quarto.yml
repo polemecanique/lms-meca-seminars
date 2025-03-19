@@ -32,7 +32,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**New webpage** - The new internal seminar series's wiki is online ! "
+    content: "**Next speaker** - The next speaker will be Flavien Loisau from ENSTA! "
     type: light
     position: below-navbar
 
