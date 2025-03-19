@@ -32,7 +32,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Next speaker** - The next speaker will be Flavien Loisau from ENSTA! "
+    content: "**Next speaker** - The next speaker will be Flavien Loiseau from ENSTA! "
     type: light
     position: below-navbar
 
