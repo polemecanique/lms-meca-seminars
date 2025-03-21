@@ -1,12 +1,13 @@
 ---
 # title: Junior researchers - WIKI
 toc: false
+aliases:
+  - internal_seminars
 about:
   template: marquee
   links:
     - icon: github
       text: Github
-      href: https://github.com/polemecanique/internal_seminars
 format:
   html:
     page-layout: full
