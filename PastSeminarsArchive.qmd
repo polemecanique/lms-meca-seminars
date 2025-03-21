@@ -8,24 +8,26 @@ format:
 ## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past talks
 
 ::::: {.talk-card}
+### 21st of March 2025
+
+**Title:** Formulation of anisotropic damage in quasi-brittle materials and structures based on discrete element simulation.
+ <br>
+**Author:** Flavien Loiseau (IMSIA)
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](https://floiseau.github.io/resources/documents/PhD_Defense.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:book" aria-label="Associated thesis"></iconify-icon> Associated thesis](https://theses.hal.science/tel-04602381){.button target="_blank"}
+:::
+:::::
+
+::::: {.talk-card}
 ### 14th of March 2025
 
 **Title:** Role of melting and solidification in the spreading of a water drop. <br>
 **Author:** Wladimir Sarlin (LadHyX)
 
-:::: {.columns}
-
-::: {.column width="80pt"}
-
 ::: {.button}
-
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](TODO){.button target="_blank"}
-
 :::
-
-:::
-
-
-::::
-
 :::::
