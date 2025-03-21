@@ -28,6 +28,6 @@ format:
 **Author:** Wladimir Sarlin (LadHyX)
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](TODO){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](https://seminaris.polytechnique.fr/share/s/tK5J9TMtKF3iHPP){.button target="_blank"}
 :::
 :::::
