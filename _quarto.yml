@@ -15,6 +15,7 @@ project:
   output-dir: public
 website:
   title: "Pôle Méca seminar series"
+  site-url: https://polemecanique.github.io/
   description: "Pôle Méca seminar series website"
   navbar:
     right:
