@@ -1,8 +1,6 @@
 ---
 # title: Junior researchers - WIKI
 toc: false
-aliases:
-  - internal_seminars
 about:
   template: marquee
   links:
