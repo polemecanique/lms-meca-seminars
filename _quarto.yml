@@ -33,7 +33,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Next speaker** - The speaker on the 21st of March will be Flavien Loiseau from ENSTA! "
+    content: "**Next speaker** - The speaker on the 28th of March will be Alexandre Daby-Seesaran from LMS! "
     type: light
     position: below-navbar
 
