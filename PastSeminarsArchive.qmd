@@ -8,6 +8,22 @@ format:
 ## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past talks
 
 ::::: {.talk-card}
+### 28st of March 2025
+
+**Title:** Digital Twin of Human Lungs: Towards Real-Time Simulation and Registration of Soft Organs.
+ <br>
+**Author:** Alexandre Daby-seesaram (LMS)
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](https://polemecanique.github.io/internal_seminars/Resources/Documents/Presentations/2025/20250328-daby/main.html){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:code" aria-label="Associated thesis"></iconify-icon> Code](https://pypi.org/project/NeuROM-Py/){.button target="_blank"}
+:::
+:::::
+
+::::: {.talk-card}
+
+::::: {.talk-card}
 ### 21st of March 2025
 
 **Title:** Formulation of anisotropic damage in quasi-brittle materials and structures based on discrete element simulation.
