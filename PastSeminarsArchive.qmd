@@ -8,7 +8,7 @@ format:
 ## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past talks
 
 ::::: {.talk-card}
-### 28st of March 2025
+### 28th of March 2025
 
 **Title:** Digital Twin of Human Lungs: Towards Real-Time Simulation and Registration of Soft Organs.
  <br>
