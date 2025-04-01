@@ -21,7 +21,6 @@ format:
 :::
 :::::
 
-::::: {.talk-card}
 
 ::::: {.talk-card}
 ### 21st of March 2025
