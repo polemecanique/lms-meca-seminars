@@ -33,7 +33,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Next speaker** - The speaker on the 28th of March will be Alexandre Daby-Seesaran from LMS! "
+    content: "**Next speaker** - The speaker on the 11th of April will be Xinyuan Zhai from IMSIA! "
     type: light
     position: below-navbar
 
