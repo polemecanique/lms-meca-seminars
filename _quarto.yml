@@ -35,7 +35,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Next speaker** - The speaker on the 25th of April will be Daniel Papa from LadHyX! "
+    content: "**Next speakers** - The speakers on the 16th of May will be Alicia Amari, Zoé Bourgain, and Khalil El Ouni from ENSTA! "
     type: light
     position: below-navbar
 
