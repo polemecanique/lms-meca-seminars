@@ -35,7 +35,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Next speakers** - The speakers on the 16th of May will be Alicia Amari, Zoé Bourgain, and Khalil El Ouni from ENSTA! "
+    content: "**Next speaker** - The speaker on the 23rd of May will be Damien Artières from LMS !"
     type: light
     position: below-navbar
 
