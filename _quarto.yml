@@ -35,7 +35,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Next speaker** - The speaker on the 23rd of May will be Damien Artières from LMS !"
+    content: "**Next speaker** - The speaker on the 6th of June will be Agathe Schmider from LadHyX !"
     type: light
     position: below-navbar
 
