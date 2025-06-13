@@ -7,6 +7,72 @@ format:
 
 ## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past talks
 
+
+::::: {.talk-card}
+### 13th of June 2025
+
+**Title:** Analysis of fatigue crack propagation with overload effects
+ <br>
+**Author:** Ghita Bahaj-Filali (ENSTA)
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](https://polemecanique.github.io/internal_seminars/Resources/Documents/Presentations/2025/TODO){.button target="_blank"}
+
+
+:::
+
+:::::
+
+
+::::: {.talk-card}
+### 23rd of May 2025
+
+**Title:** Microstructure and properties of 316L steel produced by additive manufacturing using wire deposition (WAAM & WLAM): experimental characterisation and modelling
+ <br>
+**Author:** Damien Artières (LMS)
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](https://polemecanique.github.io/internal_seminars/Resources/Documents/Presentations/2025/TODO){.button target="_blank"}
+
+
+:::
+
+:::::
+
+
+::::: {.talk-card}
+### 25th of April 2025
+
+**Title:** 
+ <br>
+**Author:** Daniel Papa (LadHyX)
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](https://polemecanique.github.io/internal_seminars/Resources/Documents/Presentations/2025/TODO){.button target="_blank"}
+
+
+:::
+
+:::::
+
+
+::::: {.talk-card}
+### 11th of April 2025
+
+**Title:** 
+ <br>
+**Author:** Xinyuan Zhai (IMSIA)
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](https://polemecanique.github.io/internal_seminars/Resources/Documents/Presentations/2025/TODO){.button target="_blank"}
+
+
+:::
+
+:::::
+
+
+
 ::::: {.talk-card}
 ### 28th of March 2025
 
