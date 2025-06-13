@@ -35,7 +35,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Next speaker** - The speaker on the 6th of June will be Agathe Schmider from LadHyX !"
+    content: "**Next speaker** - The speaker on the 20th of June will be Felipe Ignacio Álvarez barrientos & Haotian Xiao from LMS !"
     type: light
     position: below-navbar
 
