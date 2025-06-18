@@ -43,12 +43,12 @@ format:
 ::::: {.talk-card}
 ### 25th of April 2025
 
-**Title:** 
+**Title:** Growth and shape of ice stalagmites
  <br>
 **Author:** Daniel Papa (LadHyX)
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](https://polemecanique.github.io/internal_seminars/Resources/Documents/Presentations/2025/TODO){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](https://seminaris.polytechnique.fr/share/s/F339pkwB3aF7WZJ){.button target="_blank"}
 
 
 :::
