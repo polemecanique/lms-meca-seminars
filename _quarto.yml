@@ -22,7 +22,7 @@ website:
     logo: "Resources/Images/Logotype_IPP_X_ENSTA.svg"
     right:
       - href: "https://polemecanique.github.io"
-        text: Home
+        text: Pôle Mécanique
       - href: Schedule.qmd
         text: Schedule
       - href: Registration.qmd
@@ -32,12 +32,12 @@ website:
       - href: AdditionalResources.qmd
         text: Miscellaneous
 
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "**Next speakers** - The speaker on the 20th of June will be **Felipe Ignacio Álvarez barrientos** & **Haotian Xiao** from **LMS** !"
-    type: light
-    position: below-navbar
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "**Next speakers** - The speaker on the 20th of June will be **Felipe Ignacio Álvarez barrientos** & **Haotian Xiao** from **LMS** !"
+  #   type: light
+  #   position: below-navbar
 
 format:
   html:
