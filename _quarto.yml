@@ -14,7 +14,7 @@ project:
   type: website
   output-dir: public
 website:
-  title: "Pôle Méca seminar series"
+  title: "Solid Mechanics Lab seminar series"
   site-url: https://polemecanique.github.io/
   description: "Solid Mechanics Lab seminar series website"
   navbar:
