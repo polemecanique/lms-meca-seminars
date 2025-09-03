@@ -6,15 +6,15 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com/polemecanique/internal_seminars
+      href: https://github.com/polemecanique/lms-meca-seminars
 format:
   html:
     page-layout: full
 ---
 
-## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome to the internal Pôle Méca internal seminar series webpage!
+## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome to the Solid Mechanics Laboratory (LMS) seminar series webpage!
 
-This wiki serves as a central hub for the Pôle Méca internal seminar series. This series consists of **weekly seminars** co-organized by all labs from the **Pôle Mécanique**. Anyone (PhD students, postdocs, and permanent faculty members) are welcome to present their work!
+This wiki serves as a central hub for the seminar series of the Laboratoire de Mècanique des Solides/Solid Mechanics Laboratory (more commonly referred to as LMS). This series consists of **weekly seminars** by esteemed researchers from across the world in the broad area of mechanics of solids, structures and materials. 
 
 Here, you will find:
 

@@ -16,13 +16,13 @@ project:
 website:
   title: "Pôle Méca seminar series"
   site-url: https://polemecanique.github.io/
-  description: "Pôle Méca seminar series website"
+  description: "Solid Mechanics Lab seminar series website"
   navbar:
     # logo: "Resources/Images/Logotype-X_ENSTA-Ecoles-Horizontal-Blanc.png"
     logo: "Resources/Images/Logotype_IPP_X_ENSTA.svg"
     right:
       - href: "https://polemecanique.github.io"
-        text: Pôle Mécanique
+        text: Solid Mechanics Lab (LMS)
       - href: Schedule.qmd
         text: Schedule
       - href: Registration.qmd
