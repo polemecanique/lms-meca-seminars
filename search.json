@@ -1,38 +1,17 @@
 [
   {
-    "objectID": "Schedule.html#pôle-méca-internal-seminars-schedule",
-    "href": "Schedule.html#pôle-méca-internal-seminars-schedule",
+    "objectID": "Registration.html#register-as-a-speaker",
+    "href": "Registration.html#register-as-a-speaker",
     "title": "Solid Mechanics Lab seminar series",
-    "section": "   Pôle Méca internal seminars schedule",
-    "text": "Pôle Méca internal seminars schedule\n\n\nThe internal seminars usually take place at :\n\nTime: Friday, 11:00 a.m. – 12:00 a.m.\nVenue: Amphi 104 (Pôle Mécanique)\n\nYou can subscribe to the internal seminars schedule using the ICS link in your favorite calendar app:\n\nhttps://raw.githubusercontent.com/polemecanique/internal_seminars/refs/heads/main/Resources/internal_seminars_pole_mecanique.ics"
+    "section": "   Register as a speaker",
+    "text": "Register as a speaker\nPlease indicate in the sheet below your:\n\nName\nLab\nPresentation title\nFormat\n\nShort (around 20 minutes)\nLong (around 40-45 minutes)\n\nAny other remarks (schedule constraints, other format, etc.)\n\nThe sheet can also be directly accessed from: https://docs.google.com/spreadsheets/d/1U3RrbkfuEJfEymMEQy5uzr9ZSJeeTyjdcvFXVCh01B8/edit?gid=2037295576#gid=2037295576."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "Invitations 2.html#solicitations-for-speakers",
+    "href": "Invitations 2.html#solicitations-for-speakers",
     "title": "Solid Mechanics Lab seminar series",
-    "section": "",
-    "text": "This wiki serves as a central hub for the seminar series of the Laboratoire de Mècanique des Solides/Solid Mechanics Laboratory (more commonly referred to as LMS). This series consists of weekly seminars by esteemed researchers from across the world in the broad area of mechanics of solids, structures and materials.\nHere, you will find:\n\nSchedule: View the upcoming seminar schedule.\nPast Seminars Archive: Access previous seminar presentations and slide decks.\nRegistration page: Register to present your work at an upcoming seminar.\nMiscellaneous: Additional information and tools to support your daily scientific activities."
-  },
-  {
-    "objectID": "index.html#welcome-to-the-solid-mechanics-laboratory-lms-seminar-series-webpage",
-    "href": "index.html#welcome-to-the-solid-mechanics-laboratory-lms-seminar-series-webpage",
-    "title": "Solid Mechanics Lab seminar series",
-    "section": "",
-    "text": "This wiki serves as a central hub for the seminar series of the Laboratoire de Mècanique des Solides/Solid Mechanics Laboratory (more commonly referred to as LMS). This series consists of weekly seminars by esteemed researchers from across the world in the broad area of mechanics of solids, structures and materials.\nHere, you will find:\n\nSchedule: View the upcoming seminar schedule.\nPast Seminars Archive: Access previous seminar presentations and slide decks.\nRegistration page: Register to present your work at an upcoming seminar.\nMiscellaneous: Additional information and tools to support your daily scientific activities."
-  },
-  {
-    "objectID": "PastSeminarsArchive.html",
-    "href": "PastSeminarsArchive.html",
-    "title": "Solid Mechanics Lab seminar series",
-    "section": "",
-    "text": "Title: Analysis of fatigue crack propagation with overload effects  Author: Ghita Bahaj-Filali (ENSTA)\n\n Slides\n\n\n\n\nTitle: Microstructure and properties of 316L steel produced by additive manufacturing using wire deposition (WAAM & WLAM): experimental characterisation and modelling  Author: Damien Artières (LMS)\n\n Slides\n\n\n\n\nTitle: Growth and shape of ice stalagmites  Author: Daniel Papa (LadHyX)\n\n Slides\n\n\n\n\nTitle:  Author: Xinyuan Zhai (IMSIA)\n\n Slides\n\n\n\n\nTitle: Digital Twin of Human Lungs: Towards Real-Time Simulation and Registration of Soft Organs.  Author: Alexandre Daby-seesaram (LMS)\n\n Slides\n Code\n\n\n\n\nTitle: Formulation of anisotropic damage in quasi-brittle materials and structures based on discrete element simulation.  Author: Flavien Loiseau (IMSIA)\n\n Slides\n Associated thesis\n\n\n\n\nTitle: Role of melting and solidification in the spreading of a water drop.  Author: Wladimir Sarlin (LadHyX)\n\n Slides"
-  },
-  {
-    "objectID": "PastSeminarsArchive.html#archive-of-past-talks",
-    "href": "PastSeminarsArchive.html#archive-of-past-talks",
-    "title": "Solid Mechanics Lab seminar series",
-    "section": "",
-    "text": "Title: Analysis of fatigue crack propagation with overload effects  Author: Ghita Bahaj-Filali (ENSTA)\n\n Slides\n\n\n\n\nTitle: Microstructure and properties of 316L steel produced by additive manufacturing using wire deposition (WAAM & WLAM): experimental characterisation and modelling  Author: Damien Artières (LMS)\n\n Slides\n\n\n\n\nTitle: Growth and shape of ice stalagmites  Author: Daniel Papa (LadHyX)\n\n Slides\n\n\n\n\nTitle:  Author: Xinyuan Zhai (IMSIA)\n\n Slides\n\n\n\n\nTitle: Digital Twin of Human Lungs: Towards Real-Time Simulation and Registration of Soft Organs.  Author: Alexandre Daby-seesaram (LMS)\n\n Slides\n Code\n\n\n\n\nTitle: Formulation of anisotropic damage in quasi-brittle materials and structures based on discrete element simulation.  Author: Flavien Loiseau (IMSIA)\n\n Slides\n Associated thesis\n\n\n\n\nTitle: Role of melting and solidification in the spreading of a water drop.  Author: Wladimir Sarlin (LadHyX)\n\n Slides"
+    "section": "   Solicitations for speakers",
+    "text": "Solicitations for speakers\n(For members of the mechanics labs of IP Paris only)\nIf you would like to invite a speaker, please fill the sheet at this link: https://sdrive.cnrs.fr/s/FPx6nDNHM9dkJz5.\nAccess password for the file has been sent to all internal members of the mechanics labs of IP Paris. If you fall into this category and have not received the password, please send an email to vignesh.kannan@polytechnique.edu.\nOr simply send me the following details.\n\nSeminar series (Would you like the guest to give the LMS/Meca seminar?)\nName of the guest speaker\nLaboratory and institution/university\nYour name, lab (as the host)\nScheduling constraints"
   },
   {
     "objectID": "AdditionalResources.html",
@@ -56,10 +35,45 @@
     "text": "Figures editing\n\nMiscellaneous\n\nScientific drawing with inkscape monthly letter here.\nGood practices regarding figure formating\n\nColour science (Crameri, Shephard, and Heron 2020) and colour map choices\n10 rules for better figures in scientific writting (Rougier, Droettboom, and Bourne 2014)\nNice tool for plotting data in latex: PGFplot"
   },
   {
-    "objectID": "Registration.html#register-as-a-speaker",
-    "href": "Registration.html#register-as-a-speaker",
+    "objectID": "Invitations.html#solicitations-for-speakers",
+    "href": "Invitations.html#solicitations-for-speakers",
     "title": "Solid Mechanics Lab seminar series",
-    "section": "   Register as a speaker",
-    "text": "Register as a speaker\nPlease indicate in the sheet below your:\n\nName\nLab\nPresentation title\nFormat\n\nShort (around 20 minutes)\nLong (around 40-45 minutes)\n\nAny other remarks (schedule constraints, other format, etc.)\n\nThe sheet can also be directly accessed from: https://docs.google.com/spreadsheets/d/1U3RrbkfuEJfEymMEQy5uzr9ZSJeeTyjdcvFXVCh01B8/edit?gid=2037295576#gid=2037295576."
+    "section": "   Solicitations for speakers",
+    "text": "Solicitations for speakers\n(For members of the mechanics labs of IP Paris only)\nIf you would like to invite a speaker, please fill the sheet at this link: https://sdrive.cnrs.fr/s/FPx6nDNHM9dkJz5.\nAccess password for the file has been sent to all internal members of the mechanics labs of IP Paris. If you fall into this category and have not received the password, please send an email to vignesh.kannan@polytechnique.edu.\nOr simply send me the following details.\n\nSeminar series (Would you like the guest to give the LMS/Meca seminar?)\nName of the guest speaker\nLaboratory and institution/university\nYour name, lab (as the host)\nScheduling constraints"
+  },
+  {
+    "objectID": "Schedule.html#lms-seminar-series-schedule",
+    "href": "Schedule.html#lms-seminar-series-schedule",
+    "title": "Solid Mechanics Lab seminar series",
+    "section": "   LMS seminar series schedule",
+    "text": "LMS seminar series schedule\nThe LMS seminars usually take place every week.\n\nDate and Time: Thursday, 2:00 p.m. – 3:00 p.m.\nVenue: Amphi 104 (Pôle Mécanique)\n\n\nSchedule for the autumn semester 2025\n\n\n\n\nGoogle calendar\n\n\nYou can subscribe to the calendar using this link."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Solid Mechanics Lab seminar series",
+    "section": "",
+    "text": "This wiki serves as a central hub for the seminar series of the Laboratoire de Mècanique des Solides/Solid Mechanics Laboratory (LMS). This series consists of weekly seminars by esteemed researchers from across the world in the broad area of mechanics of solids, structures and materials.\nOrganizer: Vignesh Kannan (vignesh.kannan@polytechnique.edu)\nHere, you will find:\n\nSchedule: View the upcoming seminar schedule.\nPast Seminars Archive: Access previous seminar presentations and slide decks.\nInvitations: (For internal memebers only) If you wish to invite a guest, please enter their information here.\nMiscellaneous: Additional information and tools to support your daily scientific activities.\n\n\n\n\n\n\n\nThere will be no regular LMS seminar next week. Instead, we will have a special 3-day conference in tribute to Prof. Laurent Jacquin.\nLink: https://conf-ljacquin.sciencesconf.org/\n\n Announcement"
+  },
+  {
+    "objectID": "index.html#welcome-to-the-solid-mechanics-laboratory-lms-seminar-series-webpage",
+    "href": "index.html#welcome-to-the-solid-mechanics-laboratory-lms-seminar-series-webpage",
+    "title": "Solid Mechanics Lab seminar series",
+    "section": "",
+    "text": "This wiki serves as a central hub for the seminar series of the Laboratoire de Mècanique des Solides/Solid Mechanics Laboratory (LMS). This series consists of weekly seminars by esteemed researchers from across the world in the broad area of mechanics of solids, structures and materials.\nOrganizer: Vignesh Kannan (vignesh.kannan@polytechnique.edu)\nHere, you will find:\n\nSchedule: View the upcoming seminar schedule.\nPast Seminars Archive: Access previous seminar presentations and slide decks.\nInvitations: (For internal memebers only) If you wish to invite a guest, please enter their information here.\nMiscellaneous: Additional information and tools to support your daily scientific activities.\n\n\n\n\n\n\n\nThere will be no regular LMS seminar next week. Instead, we will have a special 3-day conference in tribute to Prof. Laurent Jacquin.\nLink: https://conf-ljacquin.sciencesconf.org/\n\n Announcement"
+  },
+  {
+    "objectID": "PastSeminarsArchive.html",
+    "href": "PastSeminarsArchive.html",
+    "title": "Solid Mechanics Lab seminar series",
+    "section": "",
+    "text": "…under construction\n\n\nDate: September 4, 2025  Title: Adjoint variable method and applications: from design optimization to force computation\n\n Announcement\n Recording"
+  },
+  {
+    "objectID": "PastSeminarsArchive.html#archive-of-past-talks",
+    "href": "PastSeminarsArchive.html#archive-of-past-talks",
+    "title": "Solid Mechanics Lab seminar series",
+    "section": "",
+    "text": "…under construction\n\n\nDate: September 4, 2025  Title: Adjoint variable method and applications: from design optimization to force computation\n\n Announcement\n Recording"
   }
 ]
