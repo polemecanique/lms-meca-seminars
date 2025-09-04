@@ -8,21 +8,24 @@ format:
 :::: {style='margin-top: 3em;'}
 ::::
 
-## {{< iconify fa6-solid:calendar-days >}} &nbsp; Pôle Méca internal seminars schedule
+## {{< iconify fa6-solid:calendar-days >}} &nbsp; LMS seminar series schedule
+
+The LMS seminars usually take place every week.
+
+- **Date and Time:** Thursday, 2:00 p.m. – 3:00 p.m. 
+- **Venue:** Amphi 104 (Pôle Mécanique)
+
+### Schedule for the autumn semester 2025
+
+<iframe src="Resources/lms-seminar-docs/docs/schedule/25_09_12/25_09_12_seminar_schedule.pdf" width="100%" height="600px" style="border:none;"> </iframe>
+
+### Google calendar
 
 <iframe id="open-web-calendar" 
     style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
-    src="https://icsviewer.ecam.fr/calendar.html?css=.CALENDAR-INDEX-0%20%7B%20background-color%3A%20%231c71d8%3B%20%7D&amp;tab=agenda&amp;tabs=agenda&amp;title=Internal%20Seminar%20P%C3%B4le%20M%C3%A9canique&amp;url=https%3A%2F%2Fraw.githubusercontent.com%2Fpolemecanique%2Finternal_seminars%2Frefs%2Fheads%2Fmain%2FResources%2Finternal_seminars_pole_mecanique.ics"
+    src="https://calendar.google.com/calendar/embed?src=lms.seminaires%40gmail.com&ctz=Europe%2FZurich"
     sandbox="allow-scripts allow-same-origin allow-top-navigation"
     allowTransparency="true" scrolling="no" 
     frameborder="0" height="600px" width="100%"></iframe>
 
-The internal seminars usually take place at :
-
-- **Time:** Friday, 11:00 a.m. – 12:00 a.m. 
-- **Venue:** Amphi 104 (Pôle Mécanique)
-
-
-You can subscribe to the internal seminars schedule using the ICS link in your favorite calendar app:
-
-- [https://raw.githubusercontent.com/polemecanique/internal_seminars/refs/heads/main/Resources/internal_seminars_pole_mecanique.ics](https://raw.githubusercontent.com/polemecanique/internal_seminars/refs/heads/main/Resources/internal_seminars_pole_mecanique.ics)
+You can subscribe to the calendar using this [link](https://calendar.google.com/calendar/ical/lms.seminaires%40gmail.com/public/basic.ics).

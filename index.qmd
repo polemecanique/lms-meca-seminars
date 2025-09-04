@@ -14,14 +14,32 @@ format:
 
 ## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome to the Solid Mechanics Laboratory (LMS) seminar series webpage!
 
-This wiki serves as a central hub for the seminar series of the Laboratoire de Mècanique des Solides/Solid Mechanics Laboratory (more commonly referred to as LMS). This series consists of **weekly seminars** by esteemed researchers from across the world in the broad area of mechanics of solids, structures and materials. 
+This wiki serves as a central hub for the seminar series of the [Laboratoire de Mècanique des Solides/Solid Mechanics Laboratory](https://lms.ip-paris.fr/) (LMS). This series consists of **weekly seminars** by esteemed researchers from across the world in the broad area of mechanics of solids, structures and materials. 
+
+**Organizer:** Vignesh Kannan ([vignesh.kannan@polytechnique.edu](mailto:vignesh.kannan@polytechnique.edu))
 
 Here, you will find:
 
 * [**Schedule**](Schedule.qmd): View the upcoming seminar schedule.
 * [**Past Seminars Archive**](PastSeminarsArchive.qmd): Access previous seminar presentations and slide decks.
-* [**Registration page**](Registration.qmd): Register to present your work at an upcoming seminar.
+* [**Invitations**](Invitations.qmd): (For internal memebers only) If you wish to invite a guest, please enter their information here.
 * [**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.
 
 ![](Resources/Images/PoleMeca.png)
 
+### Upcoming seminars
+
+::::: {.talk-card}
+
+### September 11, 2025: Conference in tribute to Prof. Laurent Jacquin
+
+There will be no regular LMS seminar next week. Instead, we will have a special 3-day conference in tribute to Prof. Laurent Jacquin. 
+
+**Link:** [https://conf-ljacquin.sciencesconf.org/](https://conf-ljacquin.sciencesconf.org/)
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](https://conf-ljacquin.sciencesconf.org/){.button target="_blank"}
+
+
+:::

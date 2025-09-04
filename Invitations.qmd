@@ -1,0 +1,26 @@
+---
+# title: Invitations form
+format:
+  html:
+    page-layout: full
+---
+
+:::: {style='margin-top: 3em;'}
+::::
+
+## {{< iconify fa6-solid:person-chalkboard >}} &nbsp; Solicitations for speakers
+
+(For members of the mechanics labs of IP Paris only) 
+
+If you would like to invite a speaker, please fill the sheet at this link: [https://sdrive.cnrs.fr/s/FPx6nDNHM9dkJz5](https://sdrive.cnrs.fr/s/FPx6nDNHM9dkJz5). 
+
+Access password for the file has been sent to all internal members of the mechanics labs of IP Paris. If you fall into this category and have not received the password, please send an email to [vignesh.kannan@polytechnique.edu](mailto:vignesh.kannan@polytechnique.edu). 
+
+Or simply send me the following details.
+
+* Seminar series (Would you like the guest to give the LMS/Meca seminar?)
+* Name of the guest speaker
+* Laboratory and institution/university
+* Your name, lab (as the host)
+* Scheduling constraints
+

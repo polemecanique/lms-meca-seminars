@@ -1,0 +1,156 @@
+% !TeX spellcheck = en_us
+\documentclass[a4paper,11pt,fleqn]{article}
+
+\usepackage[left=1.50cm, right=1.50cm, top=4cm, bottom=1cm, 
+headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
+\usepackage{fancyhdr}
+\usepackage{lmodern}
+\usepackage[table]{xcolor}
+\usepackage{amssymb,amstext,amsmath}
+\usepackage{booktabs}
+\usepackage{bm}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage[colorlinks]{hyperref}
+\setlength{\parindent}{0mm}
+\setlength{\parskip}{2mm}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{gensymb}
+\usepackage{pgfgantt}
+\usepackage{lscape}
+\usepackage[absolute]{textpos}
+\usepackage{comment}
+\usepackage{cite}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usetikzlibrary{shapes.geometric}
+\usepackage{array}
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\usepackage{longtable}
+\usepackage[font={small}]{caption}
+\usepackage[most]{tcolorbox}
+\usepackage{tikz}
+\usepackage{stmaryrd}
+%\usepackage[none]{hyphenat}
+\usepackage{ctable}
+\usepackage{ragged2e}
+\usepackage[official]{eurosym}
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+		\node[shape=circle,draw,inner sep=1pt] (char) {#1};}}
+\usepackage[symbol]{footmisc}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\renewcommand{\thempfootnote}{\fnsymbol{mpfootnote}}
+\renewcommand*\footnoterule{}
+
+\usepackage{xcolor}
+\definecolor{docColor}{cmyk}{1.00	, 1.00  , 0   , 0.40}  % 0.90\% of black
+\color{docColor}
+
+\newtcolorbox{myhlbox}[2][]{colback=white, colframe=docColor, width=1.0\linewidth,
+	boxrule=2.0pt, left=0.0pt, right=0.0pt, top=3pt, bottom=0.0pt,
+	colbacktitle=docColor!20, coltitle=black, enhanced, attach boxed title to top left={xshift=3mm, yshift=-1mm},
+	title=#2, #1}
+
+\hypersetup{
+	colorlinks=true,
+	citecolor=blue,
+	filecolor=magenta,
+	linkcolor=blue,
+	urlcolor=blue,
+	pdftitle={SeminarAnnouncements},
+	%bookmarks=true,,
+}
+
+\graphicspath{{./figs/}}
+
+\definecolor{dgreen}{rgb}{0.0, 0.5, 0.0}
+
+\allowdisplaybreaks
+
+\newcommand*\mystrut[1]{\vrule width0pt height0pt depth#1\relax}
+\renewcommand{\thesection}{\arabic{section}.}
+\renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}
+\titleformat{\section}{\sffamily\large\bfseries}{\thesection}{1.0em}{}
+\titleformat{\subsection}{\sffamily\large\bfseries}{\thesubsection}{1.0em}{}
+\titleformat{\subsubsection}{\sffamily\normalsize\bfseries}{\thesubsubsection}{1.0em}{}
+\titlespacing\section{0pt}{0pt plus 2pt minus 2pt}{0pt plus 2pt minus 2pt}
+\renewcommand{\baselinestretch}{1.50}
+
+\input{format/defs}
+
+\fancypagestyle{titlepage}{
+	\fancyhf{}
+	\insertLXheader
+}
+
+\fancypagestyle{plain}{%
+	\fancyhf{}
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}
+	\insertnormalpage
+}
+
+\pagestyle{plain}
+
+\setlength\arrayrulewidth{2pt}
+
+\begin{document}
+	\sffamily
+	\thispagestyle{titlepage}
+	\vspace*{-3em}
+	\begin{center}
+		\huge \textbf{LMS Seminar series 2024 -- 25}
+	\end{center}
+	\vspace*{-3em}
+	\begin{center}
+		\Large 
+		\begin{tabular}{| p{3.5cm} p{14cm} |}
+			\hline
+			\rowcolor{docColor!99}
+			\textcolor{white}{January 08} & \textcolor{white}{MECA seminar: Thao (Vicky) Nguyen (Johns Hopkins University)} \\
+			January 15 & Sebastien Merkel (University of Lille) \\
+			January 22 & Samuel Hemery (ISAE-ENSMA) \\
+			\rowcolor{cyan}
+			January 29 & LMS thematic discussion:~ \\
+			February 05 & Kathy Christofidou (U. Sheffield)  \\
+			February 19 & Anne Tanguy (INSA Lyon) \\
+			\textcolor{black}{February 26} & {vacances scolaires} \\
+			{March 05} & {vacances scolaires} \\
+			\rowcolor{cyan}
+			March 12 & LMS thematic discussion:~  \\
+			\rowcolor{white}
+			March 19 & R{\'e}my Gauthier (MateIS, INSA Lyon) \\
+			March 26 & Jaime Mairan (UCLA)  \\
+			\rowcolor{cyan}
+			April 2 & LMS thematic discussion:~ \\
+			\rowcolor{docColor!99}
+			\textcolor{white}{April 09} & \textcolor{white}{MECA seminar: } \\
+			April 16 & Tom Shearer (University of Manchester) \\
+			\rowcolor{cyan}
+			May 07 &  LMS thematic discussion:~ \\
+			\rowcolor{docColor!99}
+			\textcolor{white}{May 21} & \textcolor{white}{MECA seminar: } \\
+			May 28 & \\
+			June 04 &  \\
+			June 11 & \\
+			June 18 &  \textbf{Jean-Mandel Seminar}:\\ 
+			\rowcolor{cyan}
+			June 25 & LMS thematic discussion:~\\
+			\hline
+		\end{tabular}
+	\end{center}
+	
+	\begin{center}
+		\Large
+		\begin{tabular}{p{4cm} p{15cm} }
+			\raggedleft\textbf{Day and time:~} & Every Thursday, 1400 -- 1500 hrs (unless otherwise specified)\\ 
+			\raggedleft\textbf{Venue:~} & Amphi 104 (P{\^o}le M{\'e}canique)\\
+		\end{tabular}
+		\vfill
+		\textbullet \hspace*{0.5em} \href{https://calendar.google.com/calendar/embed?src=lms.seminaires%40gmail.com&ctz=Europe%2FZurich}{Google calendar link} \hspace*{0.5em} \textbullet \hspace*{0.5em} \href{https://portail.polytechnique.edu/lms/fr/seminaires-0}{Seminar webpage link} \hspace*{0.5em} \textbullet
+	\end{center}
+	
+	
+\end{document}

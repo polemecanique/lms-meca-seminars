@@ -21,16 +21,18 @@ website:
     # logo: "Resources/Images/Logotype-X_ENSTA-Ecoles-Horizontal-Blanc.png"
     logo: "Resources/Images/Logotype_IPP_X_ENSTA.svg"
     right:
-      - href: "https://polemecanique.github.io"
-        text: Solid Mechanics Lab (LMS)
+      - href: index.qmd
+        text: Home
       - href: Schedule.qmd
         text: Schedule
-      - href: Registration.qmd
-        text: Register
       - href: PastSeminarsArchive.qmd
         text: Archive
+      - href: Invitations.qmd
+        text: Invitations
       - href: AdditionalResources.qmd
         text: Miscellaneous
+      - href: "https://polemecanique.github.io"
+        text: Pôle Mécanique
 
   # announcement: 
   #   icon: info-circle
