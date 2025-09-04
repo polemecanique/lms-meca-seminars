@@ -23,6 +23,286 @@ format:
 
 :::
 
+::::
+
+::::: {.talk-card}
+### Robert Style (ETH Zurich, Switzerland)
+
+**Date:** July 3, 2025 <br>
+**Title:** How freezing breaks soft, wet materials
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0703_RobStyle/style.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
 
 :::::
 
+::::: {.talk-card}
+### Konstantinos Karapiperis (EPFL Lausanne, Switzerland)
+
+**Date:** June 26, 2025 <br>
+**Title:** Physics-informed data-driven modeling for the mechanics of soils and structures
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0626_Kostas/kostas.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+### Francois Barthelat (University of Colorado, Boulder, U.S.A.)
+
+**Date:** June 19, 2025 <br>
+**Title:** Two examples of granular materials “engineered” for strength: Granular crystals, entangled matter
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0619_FrancoisBarthelat/barthelat.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+### Antonio Somma (Ecole Polytechnique, France)
+
+**Date:** June 12, 2025 <br>
+**Title:** Haptics and music
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+### Samuel Forest (Centre de Matèriaux, Mines Paris PSL, France)
+
+**Date:** June 05, 2025 <br>
+**Title:** Stored energy vs dissipation in gradient crystal plasticity: Application to cyclic plasticity and recrystallization
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0605_SamuelForest/forest.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+### Christos Vassilicos (LFML, Lille, France)
+
+**Date:** May 22, 2025 <br>
+**Title:** A certain prediction of production of uncertainty
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0522_ChristosVassilicos/vassilicos.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+### Min Wu (Worcester Polytechnic Institute, U.S.A.)
+
+**Date:** May 15, 2025 <br>
+**Title:** Continuum Modeling of Mechanical Feedback and Stress Relaxation in Growth-Elasticity: Theory and Applications
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0515_MinWu/wu.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+### Christian Franck (University of Wisconsin-Madison, U.S.A.)
+
+**Date:** May 15, 2025 <br>
+**Title:** Inertial cavitation in Soft Matter – Friend or Foe?
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0408_ChristianFranck/franck.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+
+### Francois Hild (Laboratoire de Mècanique Paris-Saclay, France)
+
+**Date:** March 20, 2025 <br>
+**Title:** Contributions of 4D imaging in mechanics of materials
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0320_FrancoisHild/hild.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+
+### Maria Teresa Pèrez Prado (IMDEA Materials Institute, Spain)
+
+**Date:** March 13, 2025 <br>
+**Title:** Metallurgy meets architecture: Unlocking the potential of 3D-printed metamaterials
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0313_MariaTeresa/teresa.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+
+### Marc Geers (TU Eindhoven, Netherlands)
+
+**Date:** March 06, 2025 <br>
+**Title:** A continuum consistent particle method for discrete fracture events and phase transformations in silicon
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0306_MarcGeers/geers.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+
+### John Kolinski (EPFL Lausanne, Switzerland)
+
+**Date:** February 27, 2025 <br>
+**Title:** Make it and break it: Contact and Cracks at soft interfaces
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0227_JohnKolinski/kolinski.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+
+### Harsha Bhat (Ecole Normale Supèrieure, France)
+
+**Date:** February 13, 2025 <br>
+**Title:** Fault Volume:  A paradigm for  Reconciling Modern Observations of Active Faults
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+
+### Arthur Lebèe (Ecole nationale des ponts et chaussées, France)
+
+**Date:** February 06, 2025 <br>
+**Title:** Characterization of rolling and longitudinal shear creep for cross-laminated timber panels
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0206_ArthurLebee/lebee.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+
+### Gwennou Coupier (University of Grenoble-Alpes, France)
+
+**Date:** January 23, 2025 <br>
+**Title:** Flow generation through buckling instability: from beach balls to microswimmers
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0123_GwennouCoupier/coupier.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+
+### Antony Beris (University of Delaware, U.S.A.)
+
+**Date:** January 16, 2025 <br>
+**Title:** On the use of the Single Generator Bracket Formalism of Non-Equilibrium Thermodynamics for the development of the equations of Continuum Mechanics
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0113_AntonyBeris/beris.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+
+### Laurent Stainier (Ecole Centrale Nantes, France)
+
+**Date:** January 09, 2025 <br>
+**Title:** Data-driven computational mechanics and physics of materials
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0109_LaurentStainier/stainier.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
