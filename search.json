@@ -1,52 +1,17 @@
 [
   {
-    "objectID": "Registration.html#register-as-a-speaker",
-    "href": "Registration.html#register-as-a-speaker",
-    "title": "Solid Mechanics Lab seminar series",
-    "section": "   Register as a speaker",
-    "text": "Register as a speaker\nPlease indicate in the sheet below your:\n\nName\nLab\nPresentation title\nFormat\n\nShort (around 20 minutes)\nLong (around 40-45 minutes)\n\nAny other remarks (schedule constraints, other format, etc.)\n\nThe sheet can also be directly accessed from: https://docs.google.com/spreadsheets/d/1U3RrbkfuEJfEymMEQy5uzr9ZSJeeTyjdcvFXVCh01B8/edit?gid=2037295576#gid=2037295576."
-  },
-  {
-    "objectID": "Invitations 2.html#solicitations-for-speakers",
-    "href": "Invitations 2.html#solicitations-for-speakers",
-    "title": "Solid Mechanics Lab seminar series",
-    "section": "   Solicitations for speakers",
-    "text": "Solicitations for speakers\n(For members of the mechanics labs of IP Paris only)\nIf you would like to invite a speaker, please fill the sheet at this link: https://sdrive.cnrs.fr/s/FPx6nDNHM9dkJz5.\nAccess password for the file has been sent to all internal members of the mechanics labs of IP Paris. If you fall into this category and have not received the password, please send an email to vignesh.kannan@polytechnique.edu.\nOr simply send me the following details.\n\nSeminar series (Would you like the guest to give the LMS/Meca seminar?)\nName of the guest speaker\nLaboratory and institution/university\nYour name, lab (as the host)\nScheduling constraints"
-  },
-  {
-    "objectID": "AdditionalResources.html",
-    "href": "AdditionalResources.html",
-    "title": "Additional resources",
-    "section": "",
-    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
-  },
-  {
-    "objectID": "AdditionalResources.html#scientific-writing",
-    "href": "AdditionalResources.html#scientific-writing",
-    "title": "Additional resources",
-    "section": "",
-    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
-  },
-  {
-    "objectID": "AdditionalResources.html#figures-editing",
-    "href": "AdditionalResources.html#figures-editing",
-    "title": "Additional resources",
-    "section": "   Figures editing",
-    "text": "Figures editing\n\nMiscellaneous\n\nScientific drawing with inkscape monthly letter here.\nGood practices regarding figure formating\n\nColour science (Crameri, Shephard, and Heron 2020) and colour map choices\n10 rules for better figures in scientific writting (Rougier, Droettboom, and Bourne 2014)\nNice tool for plotting data in latex: PGFplot"
-  },
-  {
-    "objectID": "Invitations.html#solicitations-for-speakers",
-    "href": "Invitations.html#solicitations-for-speakers",
-    "title": "Solid Mechanics Lab seminar series",
-    "section": "   Solicitations for speakers",
-    "text": "Solicitations for speakers\n(For members of the mechanics labs of IP Paris only)\nIf you would like to invite a speaker, please fill the sheet at this link: https://sdrive.cnrs.fr/s/FPx6nDNHM9dkJz5.\nAccess password for the file has been sent to all internal members of the mechanics labs of IP Paris. If you fall into this category and have not received the password, please send an email to vignesh.kannan@polytechnique.edu.\nOr simply send me the following details.\n\nSeminar series (Would you like the guest to give the LMS/Meca seminar?)\nName of the guest speaker\nLaboratory and institution/university\nYour name, lab (as the host)\nScheduling constraints"
-  },
-  {
     "objectID": "Schedule.html#lms-seminar-series-schedule",
     "href": "Schedule.html#lms-seminar-series-schedule",
     "title": "Solid Mechanics Lab seminar series",
     "section": "   LMS seminar series schedule",
     "text": "LMS seminar series schedule\nThe LMS seminars usually take place every week.\n\nDate and Time: Thursday, 2:00 p.m. – 3:00 p.m.\nVenue: Amphi 104 (Pôle Mécanique)\n\n\nSchedule for the autumn semester 2025\n\n\n\n\nGoogle calendar\n\n\nYou can subscribe to the calendar using this link."
+  },
+  {
+    "objectID": "Registration.html#register-as-a-speaker",
+    "href": "Registration.html#register-as-a-speaker",
+    "title": "Solid Mechanics Lab seminar series",
+    "section": "   Register as a speaker",
+    "text": "Register as a speaker\nPlease indicate in the sheet below your:\n\nName\nLab\nPresentation title\nFormat\n\nShort (around 20 minutes)\nLong (around 40-45 minutes)\n\nAny other remarks (schedule constraints, other format, etc.)\n\nThe sheet can also be directly accessed from: https://docs.google.com/spreadsheets/d/1U3RrbkfuEJfEymMEQy5uzr9ZSJeeTyjdcvFXVCh01B8/edit?gid=2037295576#gid=2037295576."
   },
   {
     "objectID": "index.html",
@@ -75,5 +40,40 @@
     "title": "Solid Mechanics Lab seminar series",
     "section": "",
     "text": "…under construction\n\n\nDate: September 4, 2025  Title: Adjoint variable method and applications: from design optimization to force computation\n\n Announcement\n Recording"
+  },
+  {
+    "objectID": "AdditionalResources.html",
+    "href": "AdditionalResources.html",
+    "title": "Additional resources",
+    "section": "",
+    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
+  },
+  {
+    "objectID": "AdditionalResources.html#scientific-writing",
+    "href": "AdditionalResources.html#scientific-writing",
+    "title": "Additional resources",
+    "section": "",
+    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source librairy that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\nThe html presentations can then be translated into pdfs using decktape.\n\ninstall node brew install node\ninstall decktape npm install -g decktape\nreveal --size=1600x1000 presentation.html presentation.pdf"
+  },
+  {
+    "objectID": "AdditionalResources.html#figures-editing",
+    "href": "AdditionalResources.html#figures-editing",
+    "title": "Additional resources",
+    "section": "   Figures editing",
+    "text": "Figures editing\n\nMiscellaneous\n\nScientific drawing with inkscape monthly letter here.\nGood practices regarding figure formating\n\nColour science (Crameri, Shephard, and Heron 2020) and colour map choices\n10 rules for better figures in scientific writting (Rougier, Droettboom, and Bourne 2014)\nNice tool for plotting data in latex: PGFplot"
+  },
+  {
+    "objectID": "Invitations 2.html#solicitations-for-speakers",
+    "href": "Invitations 2.html#solicitations-for-speakers",
+    "title": "Solid Mechanics Lab seminar series",
+    "section": "   Solicitations for speakers",
+    "text": "Solicitations for speakers\n(For members of the mechanics labs of IP Paris only)\nIf you would like to invite a speaker, please fill the sheet at this link: https://sdrive.cnrs.fr/s/FPx6nDNHM9dkJz5.\nAccess password for the file has been sent to all internal members of the mechanics labs of IP Paris. If you fall into this category and have not received the password, please send an email to vignesh.kannan@polytechnique.edu.\nOr simply send me the following details.\n\nSeminar series (Would you like the guest to give the LMS/Meca seminar?)\nName of the guest speaker\nLaboratory and institution/university\nYour name, lab (as the host)\nScheduling constraints"
+  },
+  {
+    "objectID": "Invitations.html#solicitations-for-speakers",
+    "href": "Invitations.html#solicitations-for-speakers",
+    "title": "Solid Mechanics Lab seminar series",
+    "section": "   Solicitations for speakers",
+    "text": "Solicitations for speakers\n(For members of the mechanics labs of IP Paris only)\nIf you would like to invite a speaker, please fill the sheet at this link: https://sdrive.cnrs.fr/s/FPx6nDNHM9dkJz5.\nAccess password for the file has been sent to all internal members of the mechanics labs of IP Paris. If you fall into this category and have not received the password, please send an email to vignesh.kannan@polytechnique.edu.\nOr simply send me the following details.\n\nSeminar series (Would you like the guest to give the LMS/Meca seminar?)\nName of the guest speaker\nLaboratory and institution/university\nYour name, lab (as the host)\nScheduling constraints"
   }
 ]
