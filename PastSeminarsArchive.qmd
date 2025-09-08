@@ -7,8 +7,6 @@ format:
 
 ## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past talks
 
-...under construction
-
 ::::: {.talk-card}
 ### Thèodore Cherrière (Centrale Supèlec, France)
 
@@ -19,7 +17,7 @@ format:
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-0904-TheodoreCherriere/cherriere.pdf){.button target="_blank"}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/pEPm3rjLwFrZe97){.button target="_blank"}
 
 :::
 
@@ -34,8 +32,6 @@ format:
 ::: {.button}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0703_RobStyle/style.pdf){.button target="_blank"}
-
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
 
 :::
 
@@ -52,8 +48,6 @@ format:
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0626_Kostas/kostas.pdf){.button target="_blank"}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
-
 :::
 
 :::::
@@ -67,8 +61,6 @@ format:
 ::: {.button}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0619_FrancoisBarthelat/barthelat.pdf){.button target="_blank"}
-
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
 
 :::
 
@@ -84,8 +76,6 @@ format:
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](){.button target="_blank"}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
-
 :::
 
 :::::
@@ -99,8 +89,6 @@ format:
 ::: {.button}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0605_SamuelForest/forest.pdf){.button target="_blank"}
-
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
 
 :::
 
@@ -116,8 +104,6 @@ format:
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0522_ChristosVassilicos/vassilicos.pdf){.button target="_blank"}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
-
 :::
 
 :::::
@@ -131,8 +117,6 @@ format:
 ::: {.button}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0515_MinWu/wu.pdf){.button target="_blank"}
-
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
 
 :::
 
@@ -148,7 +132,7 @@ format:
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0408_ChristianFranck/franck.pdf){.button target="_blank"}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/3Sr4SYF7KWCW5xE){.button target="_blank"}
 
 :::
 
@@ -165,7 +149,7 @@ format:
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0320_FrancoisHild/hild.pdf){.button target="_blank"}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/fWfTiXfT2sid4WW){.button target="_blank"}
 
 :::
 
@@ -182,7 +166,7 @@ format:
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0313_MariaTeresa/teresa.pdf){.button target="_blank"}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/6P8LBtENDWjcKyA){.button target="_blank"}
 
 :::
 
@@ -199,8 +183,6 @@ format:
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0306_MarcGeers/geers.pdf){.button target="_blank"}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
-
 :::
 
 :::::
@@ -215,8 +197,6 @@ format:
 ::: {.button}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0227_JohnKolinski/kolinski.pdf){.button target="_blank"}
-
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
 
 :::
 
@@ -233,7 +213,7 @@ format:
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](){.button target="_blank"}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/KSLepEsCJyeRxof){.button target="_blank"}
 
 :::
 
@@ -250,8 +230,6 @@ format:
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0206_ArthurLebee/lebee.pdf){.button target="_blank"}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
-
 :::
 
 :::::
@@ -266,8 +244,6 @@ format:
 ::: {.button}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0123_GwennouCoupier/coupier.pdf){.button target="_blank"}
-
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
 
 :::
 
@@ -284,7 +260,7 @@ format:
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0113_AntonyBeris/beris.pdf){.button target="_blank"}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/XkS27xSAR86TKf7){.button target="_blank"}
 
 :::
 
@@ -301,7 +277,53 @@ format:
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0109_LaurentStainier/stainier.pdf){.button target="_blank"}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+
+### Marie A. Charpagne (University of Illinois at Urbana-Champaign, U.S.A.)
+
+**Date:** December 19, 2024 <br>
+**Title:** Grain boundary engineering in metal additive manufacturing
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/24_1912_MarieACharpagne/charpagne.pdf){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+
+### Triona Lally (Trinity College Dublin)
+
+**Date:** December 11, 2024 <br>
+**Title:** Made to measure: Designing and optimising 3D printed patient specific stents
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/24_1211_MECA_TrionaLally/lally.pdf){.button target="_blank"}
+
+:::
+
+:::::
+
+::::: {.talk-card}
+
+### Joint talk: John Hutchinson (Harvard University, U.S.A.) and Pedro Reis (EPFL, Lausanne, Switzerland)
+
+**Date:** December 05, 2024 <br>
+**Title:** Imperfection Sensitivity in Shell Buckling: Longstanding Questions and New Answers
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/24_1205_PedroReis/24_1205_PedroResiJohnHutchinson.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/cKtDLKt4idGCRzY){.button target="_blank"}
 
 :::
 
