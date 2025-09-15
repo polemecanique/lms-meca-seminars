@@ -31,15 +31,13 @@ Here, you will find:
 
 ::::: {.talk-card}
 
-### September 11, 2025: Conference in tribute to Prof. Laurent Jacquin
+### September 18, 2025: Thomas Cornelius (IM2NP, Aix-Marseilles University)
 
-There will be no regular LMS seminar next week. Instead, we will have a special 3-day conference in tribute to Prof. Laurent Jacquin. 
-
-**Link:** [https://conf-ljacquin.sciencesconf.org/](https://conf-ljacquin.sciencesconf.org/)
+**Date and Place:** September 18, 2025 at the Pole Mecanique amphitheatre<br>
+**Title:** Mechanical behavior at the nanoscale in the light of synchrotron X-ray diffraction 
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](https://conf-ljacquin.sciencesconf.org/){.button target="_blank"}
-
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-0918-ThomasCornelius/cornelius.pdf){.button target="_blank"}
 
 :::

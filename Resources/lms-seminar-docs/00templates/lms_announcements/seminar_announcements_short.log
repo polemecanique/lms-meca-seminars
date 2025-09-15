@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  3 SEP 2025 14:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  15 SEP 2025 12:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1417,11 +1417,11 @@ LaTeX Font Info:    Trying to load font information for OT1+lmss on input line
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<images/cherriere.jpg, id=43, 1287.00826pt x 1308.087pt>
-File: images/cherriere.jpg Graphic file (type jpg)
-<use images/cherriere.jpg>
-Package pdftex.def Info: images/cherriere.jpg  used on input line 124.
-(pdftex.def)             Requested size: 1287.00511pt x 1308.08382pt.
+<images/cornelius.jpg, id=43, 1202.69325pt x 1254.48676pt>
+File: images/cornelius.jpg Graphic file (type jpg)
+<use images/cornelius.jpg>
+Package pdftex.def Info: images/cornelius.jpg  used on input line 124.
+(pdftex.def)             Requested size: 1202.69032pt x 1254.4837pt.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
 25.
 
@@ -1490,22 +1490,22 @@ File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/202
 3/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./format/lxipparis2.png> <./format
-/lms.png> <./images/cherriere.jpg>] (./seminar_announcements_short.aux)
+/lms.png> <./images/cornelius.jpg>] (./seminar_announcements_short.aux)
 Package rerunfilecheck Info: File `seminar_announcements_short.out' has not cha
 nged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 44928 strings out of 476025
- 1043318 string characters out of 5790018
+ 44927 strings out of 476025
+ 1043310 string characters out of 5790018
  1859388 words of memory out of 5000000
- 64585 multiletter control sequences out of 15000+600000
+ 64584 multiletter control sequences out of 15000+600000
  552987 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,117p,756b,1090s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/lo
 cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on seminar_announcements_short.pdf (1 page, 1123108 bytes).
+Output written on seminar_announcements_short.pdf (1 page, 1810631 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
