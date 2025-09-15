@@ -31,7 +31,7 @@ Here, you will find:
 
 ::::: {.talk-card}
 
-### September 18, 2025: Thomas Cornelius (IM2NP, Aix-Marseilles University)
+### September 18, 2025: Thomas Cornèlius (IM2NP, Aix-Marseilles University)
 
 **Date and Place:** September 18, 2025 at the Pole Mecanique amphitheatre<br>
 **Title:** Mechanical behavior at the nanoscale in the light of synchrotron X-ray diffraction 
