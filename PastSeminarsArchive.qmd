@@ -8,6 +8,23 @@ format:
 ## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past talks
 
 ::::: {.talk-card}
+
+### September 18, 2025: Thomas Cornèlius (IM2NP, Aix-Marseilles University)
+
+**Date and Place:** September 18, 2025 at the Pole Mecanique amphitheatre<br>
+**Title:** Mechanical behavior at the nanoscale in the light of synchrotron X-ray diffraction 
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-0918-ThomasCornelius/cornelius.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/H7FDm7mdjr37dzD){.button target="_blank"}
+
+:::
+
+::::
+
+::::: {.talk-card}
 ### Thèodore Cherrière (Centrale Supèlec, France)
 
 **Date:** September 4, 2025 <br>
