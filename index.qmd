@@ -31,14 +31,14 @@ Here, you will find:
 
 ::::: {.talk-card}
 
-### September 25, 2025: LMS internal discussion (Moderator: Laurent Guin)
+### October 02, 2025: Jonathan Cormier (ISAE-ENSMA)
 
-**Date and Place:** September 25, 2025 at the Pole Mecanique amphitheatre<br>
-**Title:** Multi-physical coupling in mechanics
+**Date and Place:** October 02, 2025 at the Pole Mecanique amphitheatre<br>
+**Title:** Factors controlling VHCF life of Ni-based single crystal superalloys
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-0924-lms-internal-multiphysics/lms-internal-multiphysics.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1002-JonathanCormier/01lms-seminar-external.pdf){.button target="_blank"}
 
 :::
 

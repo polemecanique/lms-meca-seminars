@@ -9,6 +9,21 @@ format:
 
 ::::: {.talk-card}
 
+### September 25, 2025: LMS internal discussion (Moderator: Laurent Guin)
+
+**Date and Place:** September 25, 2025 at the Pole Mecanique amphitheatre<br>
+**Title:** Multi-physical coupling in mechanics
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-0924-lms-internal-multiphysics/lms-internal-multiphysics.pdf){.button target="_blank"}
+
+:::
+
+::::
+
+::::: {.talk-card}
+
 ### September 18, 2025: Thomas Cornèlius (IM2NP, Aix-Marseilles University)
 
 **Date and Place:** September 18, 2025 at the Pole Mecanique amphitheatre<br>
