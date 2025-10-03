@@ -45,12 +45,12 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 \renewcommand*\footnoterule{}
 
 \usepackage{xcolor}
-\definecolor{docColor}{cmyk}{1.00	, 1.00  , 0   , 0.40}  % 0.90\% of black
+\definecolor{docColor}{cmyk}{1.00,1.00,0, 0.40}  % 0.90\% of black
 \color{docColor}
 
-\newtcolorbox{myhlbox}[2][]{colback=white, colframe=docColor, width=1.0\linewidth,
-	boxrule=1.0pt, left=0.0pt, right=0.0pt, top=4pt, bottom=2.0pt,
-	colbacktitle=docColor!20, coltitle=black, enhanced, attach boxed title to top left={xshift=3mm, yshift=-1mm},
+\newtcolorbox{myhlbox}[2][]{colback=docColor!05, colframe=docColor!20, width=1.0\linewidth,
+	boxrule=0pt, left=1em, right=1em, top=1em, bottom=1em,
+	colbacktitle=docColor!20, coltitle=docColor,enhanced, attach boxed title to top left={xshift=2mm, yshift=-1mm},
 	title=#2, #1}
 
 \hypersetup{
@@ -80,7 +80,7 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 \renewcommand{\baselinestretch}{1.00}
 
 \newcommand\CircledImage[1]{%
-	\tikz\path[fill overzoom image={#1}, draw=docColor, line width=0mm]circle[radius=0.5\linewidth];%
+	\tikz\path[fill overzoom image={#1}, line width=0mm]circle[radius=0.5\linewidth];%
 }
 
 \input{format/defs}
@@ -108,36 +108,30 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 \end{center}
 \begin{center}
 	\Large 
-	\textbf{Factors controlling VHCF life of Ni-based single crystal superalloys} 
+	\textbf{Operator learning in mechanics and materials} 
 \end{center}
 \begin{center}
 	\Large
-	Jonathan Cormier \\
-	{\large Institut PPRIME, CNRS \\ 
-	Universit{\'e} de Poitiers, ISAE-ENSMA} \\
+	Burigede Liu \\
+	{\large University of Cambridge} \\
 	\vspace*{1em}
 	{\Large
-	\textbf{Date and Time}:~October 02, 2025 (2 -- 3 pm)
+	\textbf{Date and Time}:~October 09, 2025 (2 -- 3 pm)
 	
 	\textbf{Venue}:~Amphi 104 (Pole Meca) }
 \end{center}
 \vspace*{-1em}
-\begin{myhlbox}{{\large Abstract}}
-	Ni-based single crystal superalloys (SX) are widely used in gas turbine engines for the manufacturing of high pressure turbine blades due to their exceptional mechanical properties at high temperature. Service operations of blades may lead to fatigue controlled failure mechanisms due to the vibrations introduced by the gas flow in addition to the centrifugal forces. These failures are difficult to forecast, as up to 90\% of the fatigue life is spent in the crack initiation phase. Typical frequencies of vibrations of airfoils are in between 1 and 10 kHz, requiring specific experimental facilities to achieve the very high cycle fatigue (VHCF) domain at high temperature.
-	
-	In this presentation, a critical analysis of the VHCF life sensitivity at 1,000 deg. C/20 kHz, R = -1 and R $>$ 0.3 to the processing parameters (dendritic chemical homogeneity, casting pore size, introduction of a prior plastic deformation and $\gamma/\gamma$’ microstructure degradation - i.e. $\gamma$’ rafting) will be performed. For this, 10 different Ni-based SX alloys have been investigated, with different chemical compositions and/or processing parameters. A special attention will be paid in this presentation on the fine scale crack initiation mechanisms, involving deformation mechanisms far from being the usually observed ones at slow strain rates at this temperature (strain rates $<$ 10-2 s-1). By varying the casting process or the oxidation resistance among the different alloys studied, a map of crack initiation mechanisms in VHCF will finally be proposed for Ni-based SX alloys. Finally, some insights on the role of a coating will also be presented.
-	
-	
+\begin{myhlbox}{{Abstract}}
+	Mechanics and materials are gradually becoming data-rich due to rapid advances in experimental science and high-performance multiscale computing. There has been a growing interest in the field of solid mechanics for developing data-driven and learning-based methods to characterize, understand, model, and design material/structural systems. With data-driven approaches, it is possible to remove/relax the need for ad hoc constitutive models for describing the material behavior, to achieve fast multi-scale computation for structures as well as to generate optimal designs. This talk will survey operator-learning methods developed for mechanics and materials, including (i) data-driven surrogate models for classes of PDEs, (ii) discovery of constitutive relations for materials with complex, history-dependent behavior, and (iii) hybrid computational frameworks that couple learning with physics for complex geometries.
 \end{myhlbox}
 
 \vspace*{1em}
 
-\begin{myhlbox}{{\large About the speaker}}
+\begin{myhlbox}{{About the speaker}}
 	\begin{wrapfigure}{r}{0.30\textwidth}
-		\vspace*{0em}
-		\CircledImage{images/cormier}
+		\vspace*{-2em}
+		\CircledImage{images/liu}
 	\end{wrapfigure}
-	Jonathan Cormier is a professor in the Physics and Mechanics of Materials department at ISAE-ENSMA. He received his Engineering diploma and PhD degree at the same institute in 2003 and 2006, respectively. Prof. Cormier is an expert on a wide range of problems related to the high-temperature behavior and durability of materials with specific interests in superalloys, thermal barrier coatings and ceramic matrix composites among others. He holds the EMERAUDE chair, a large research program between  Safran and ISAE-ENSMA focusing on processing-microstructure-properties relationships of Ni-based superalloys. He is the recipient of multiple awards e.g., the Jean-Rist medal for metallurgy, FEMS lecturer award for excellence in materials science and engineering, to name a couple. He also serves as editor-in-chief of the journal Metallurgical and Materials Transactions A.
-	
+	Burigede Liu is the Granta Design Assistant Professor at the University of Cambridge. He received his Ph.D. in Engineering at University of Cambridge in 2019. He was a postdoc in Department of Mechanical and Process Engineering at ETH Zurich (2019) and a postdoctoral fellow in Mechanical and Civil Engineering at California Institute of Technology (2019-2021). Prof Liu's research interest includes data-driven mechanics; uncertainty quantification of materials; micro-mechanics of metals, composites and mechanical meta-materials as well as quantum computing.
 \end{myhlbox}
 \end{document}

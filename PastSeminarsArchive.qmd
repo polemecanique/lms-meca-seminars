@@ -7,6 +7,23 @@ format:
 
 ## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past talks
 
+:::: {.talk-card}
+
+### October 02, 2025: Jonathan Cormier (ISAE-ENSMA)
+
+**Date and Place:** October 02, 2025 at the Pole Mecanique amphitheatre<br>
+**Title:** Factors controlling VHCF life of Ni-based single crystal superalloys
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1002-JonathanCormier/01lms-seminar-external.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/byzeBfe2EBkoDaq){.button target="_blank"}
+
+:::
+
+::::
+
 ::::: {.talk-card}
 
 ### September 25, 2025: LMS internal discussion (Moderator: Laurent Guin)
@@ -17,6 +34,8 @@ format:
 ::: {.button}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-0924-lms-internal-multiphysics/lms-internal-multiphysics.pdf){.button target="_blank"}
+
+<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/H7FDm7mdjr37dzD){.button target="_blank"} -->
 
 :::
 

@@ -29,16 +29,19 @@ Here, you will find:
 
 ### Upcoming seminars
 
-::::: {.talk-card}
 
-### October 02, 2025: Jonathan Cormier (ISAE-ENSMA)
+:::: {.talk-card}
 
-**Date and Place:** October 02, 2025 at the Pole Mecanique amphitheatre<br>
-**Title:** Factors controlling VHCF life of Ni-based single crystal superalloys
+### October 09, 2025: Burigede Liu (University of Cambridge)
+
+**Date and Place:** October 09, 2025 at the Pole Mecanique amphitheatre<br>
+**Title:** Operator learning in mechanics and aterials
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1002-JonathanCormier/01lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1009-BurigedeLiu/01lms-seminar-external.pdf){.button target="_blank"}
+
+<!--[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/byzeBfe2EBkoDaq){.button target="_blank"} -->
 
 :::
 
