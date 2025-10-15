@@ -1518,10 +1518,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmss17.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmss12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
-INPUT ./images/liu.png
-INPUT images/liu.png
-INPUT ./images/liu.png
-INPUT ./images/liu.png
+INPUT ./images/seghir.jpg
+INPUT images/seghir.jpg
+INPUT ./images/seghir.jpg
+INPUT ./images/seghir.jpg
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmr8.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmr6.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd

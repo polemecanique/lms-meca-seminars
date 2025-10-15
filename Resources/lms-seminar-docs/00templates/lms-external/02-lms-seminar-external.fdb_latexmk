@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1759500669 "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-external/02-lms-seminar-external.tex" "02-lms-seminar-external.pdf" "02-lms-seminar-external" 1759500671 0
-  "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-external/02-lms-seminar-external.tex" 1759500667 3894 5eededbac92585f193b0899362b9c635 ""
+["pdflatex"] 1760532896 "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-external/02-lms-seminar-external.tex" "02-lms-seminar-external.pdf" "02-lms-seminar-external" 1760532898 0
+  "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-external/02-lms-seminar-external.tex" 1760532891 4013 0e0c3bdf6c43a5d2effe47f0641f7833 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -293,13 +293,13 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1709642366 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1709642352 7883459 5194da3746845faa08b00b0b5777d268 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "02-lms-seminar-external.aux" 1759500670 676 1450362fc2fd17d3e44cd77bab9a385e "pdflatex"
-  "02-lms-seminar-external.out" 1759500670 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "02-lms-seminar-external.tex" 1759500667 3894 5eededbac92585f193b0899362b9c635 ""
+  "02-lms-seminar-external.aux" 1760532898 676 87fa511d0e4b099fd9893bf562f92f26 "pdflatex"
+  "02-lms-seminar-external.out" 1760532897 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "02-lms-seminar-external.tex" 1760532891 4013 0e0c3bdf6c43a5d2effe47f0641f7833 ""
   "format/defs.tex" 1757930410 12869 b8f6c24b6b741495127b2907ac965ef5 ""
   "format/lms.png" 1707727288 494003 a695269bf4bc8ff6dd70d9a49a2e225b ""
   "format/lxipparis2.png" 1689060894 166793 f912f53ed4d474868076b6d9c3aeea34 ""
-  "images/liu.png" 1759499245 126905 e2cf5b934c9df561e2da24e949c782fc ""
+  "images/seghir.jpg" 1756390735 138673 fa0b8e85ba43d2f4b43d9cc941378ca0 ""
   (generated)
   "02-lms-seminar-external.aux"
   "02-lms-seminar-external.log"
