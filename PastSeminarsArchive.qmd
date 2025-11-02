@@ -9,6 +9,23 @@ format:
 
 :::: {.talk-card}
 
+### October 16, 2025: Rian Seghir (Ecole Centrale Nantes)
+
+**Date and Place:** October 16, 2025 at the Pole Mecanique amphitheatre<br>
+**Title:** If images could talk: An image-based approach for characterizing dynamic responses in solid mechanics
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1016-RianSeghir/01lms-seminar-external.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/bpbnsH2NrYD4sn7){.button target="_blank"}
+
+:::
+
+::::
+
+:::: {.talk-card}
+
 ### October 09, 2025: Burigede Liu (University of Cambridge)
 
 **Date and Place:** October 09, 2025 at the Pole Mecanique amphitheatre<br>

@@ -32,16 +32,16 @@ Here, you will find:
 
 :::: {.talk-card}
 
-### October 16, 2025: Rian Seghir (Ecole Centrale Nantes)
+### November 06, 2025: LMS internal seminar -- Microstructures
 
-**Date and Place:** October 16, 2025 at the Pole Mecanique amphitheatre<br>
-**Title:** If images could talk: An image-based approach for characterizing dynamic responses in solid mechanics
+**Date and Place:** November 06, 2025 at the Pole Mecanique amphitheatre<br>
+**Title:** Microstructures
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1016-RianSeghir/01lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1106-internal-microstructures/01lms-seminar-internal.pdf){.button target="_blank"}
 
-<!--[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/byzeBfe2EBkoDaq){.button target="_blank"} -->
+<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/bpbnsH2NrYD4sn7){.button target="_blank"} -->
 
 :::
 
