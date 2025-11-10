@@ -35,11 +35,11 @@ Here, you will find:
 ### November 20, 2025: Vito Rubino (Ecole Centrale Nantes)
 
 **Date and Place:** November 20, 2025 at the Pole Mecanique amphitheatre<br>
-**Title:** 
+**Title:** Dynamic rupture behavior and friction evolution revealed by laboratory experiments using ultra high-speed digital image correlation 
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1120-VitoRubino/01-lms-seminar-external.pdf){.button target="_blank"}
 
 <!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/Xiszf9rxsFZ8KzP){.button target="_blank"} -->
 
