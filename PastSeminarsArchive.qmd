@@ -442,7 +442,7 @@ format:
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/24_1205_PedroReis/24_1205_PedroResiJohnHutchinson.pdf){.button target="_blank"}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/cKtDLKt4idGCRzY){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/tErLGesFbNraARg){.button target="_blank"}
 
 :::
 
