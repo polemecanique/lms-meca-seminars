@@ -9,6 +9,23 @@ format:
 
 :::: {.talk-card}
 
+### November 20, 2025: Vito Rubino (Ecole Centrale Nantes)
+
+**Date and Place:** November 20, 2025 at the Pole Mecanique amphitheatre<br>
+**Title:** Dynamic rupture behavior and friction evolution revealed by laboratory experiments using ultra high-speed digital image correlation 
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1120-VitoRubino/01-lms-seminar-external.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Slides](https://sdrive.cnrs.fr/s/Dpy3qaj3A5NggXN){.button target="_blank"}
+
+:::
+
+::::
+
+:::: {.talk-card}
+
 ### November 06, 2025: LMS internal seminar -- Microstructures
 
 **Date and Place:** November 06, 2025 at the Pole Mecanique amphitheatre<br>

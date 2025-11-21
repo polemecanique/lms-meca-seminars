@@ -32,16 +32,16 @@ Here, you will find:
 
 :::: {.talk-card}
 
-### November 20, 2025: Vito Rubino (Ecole Centrale Nantes)
+### December 4, 2025: LMS Internal seminar (Architected materials)
 
-**Date and Place:** November 20, 2025 at the Pole Mecanique amphitheatre<br>
-**Title:** Dynamic rupture behavior and friction evolution revealed by laboratory experiments using ultra high-speed digital image correlation 
+**Date and Place:** December 4, 2025 at the Pole Mecanique amphitheatre<br>
+**Title:** Architected materials (Moderator: Kostas Danas)
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1120-VitoRubino/01-lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](){.button target="_blank"}
 
-<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/Xiszf9rxsFZ8KzP){.button target="_blank"} -->
+<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Slides](https://sdrive.cnrs.fr/s/Dpy3qaj3A5NggXN){.button target="_blank"} -->
 
 :::
 
