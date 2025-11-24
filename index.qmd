@@ -25,7 +25,7 @@ Here, you will find:
 * [**Invitations**](Invitations.qmd): (For internal memebers only) If you wish to invite a guest, please enter their information here.
 * [**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.
 
-![](Resources/Images/PoleMeca.png)
+![](Resources/Images/burigede.jpeg)
 
 ### Upcoming seminars
 
