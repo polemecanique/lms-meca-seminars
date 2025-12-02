@@ -39,7 +39,7 @@ Here, you will find:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1204-internal-architected/01lms-seminar-internal.pdf){.button target="_blank"}
 
 <!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Slides](https://sdrive.cnrs.fr/s/Dpy3qaj3A5NggXN){.button target="_blank"} -->
 
