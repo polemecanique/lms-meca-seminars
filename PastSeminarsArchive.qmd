@@ -9,6 +9,23 @@ format:
 
 :::: {.talk-card}
 
+### December 4, 2025: LMS Internal seminar (Architected materials)
+
+**Date and Place:** December 4, 2025 at the Pole Mecanique amphitheatre<br>
+**Title:** Architected materials (Moderator: Kostas Danas)
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1204-internal-architected/01lms-seminar-internal.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/xZ7CanJt3itTNQf){.button target="_blank"}
+
+:::
+
+::::
+
+:::: {.talk-card}
+
 ### November 20, 2025: Vito Rubino (Ecole Centrale Nantes)
 
 **Date and Place:** November 20, 2025 at the Pole Mecanique amphitheatre<br>

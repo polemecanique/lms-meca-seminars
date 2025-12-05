@@ -15,9 +15,9 @@ The LMS seminars usually take place every week.
 - **Date and Time:** Thursday, 2:00 p.m. – 3:00 p.m. 
 - **Venue:** Amphi 104 (Pôle Mécanique)
 
-### Schedule for the autumn semester 2025
+### Schedule for the spring semester 2026
 
-<iframe src="Resources/lms-seminar-docs/docs/schedule/25_09_12/25_09_12_seminar_schedule.pdf" width="100%" height="600px" style="border:none;"> </iframe>
+<iframe src="Resources/lms-seminar-docs/docs/schedule/26_01_06/26_01_06_lms_seminar_schedule.pdf" width="100%" height="600px" style="border:none;"> </iframe>
 
 ### Google calendar
 
