@@ -1,9 +1,9 @@
 % !TeX spellcheck = en_us
 \documentclass[11pt,fleqn]{article}
 \usepackage[
-	paperheight=15cm, paperwidth=21cm,
-	left=1.50cm, right=1.50cm, top=4cm, bottom=2cm, 
-	headheight= 2.5cm, headsep= 4pt, footskip=25pt
+	paperheight=13cm, paperwidth=21cm,
+	left=1.50cm, right=1.50cm, top=3cm, bottom=2cm, 
+	headheight= 3cm, headsep= 4pt, footskip=25pt
 	]{geometry}
 
 \usepackage{fancyhdr}
@@ -81,7 +81,7 @@
 \titleformat{\subsection}{\sffamily\large\bfseries}{\thesubsection}{1.0em}{}
 \titleformat{\subsubsection}{\sffamily\normalsize\bfseries}{\thesubsubsection}{1.0em}{}
 \titlespacing\section{0pt}{0pt plus 2pt minus 2pt}{0pt plus 2pt minus 2pt}
-\renewcommand{\baselinestretch}{1.00}
+\renewcommand{\baselinestretch}{1.25}
 
 \newcommand\CircledImage[1]{%
 	\tikz\path[fill overzoom image={#1}, draw=docColor, line width=0mm]circle[radius=0.5\linewidth];%
@@ -106,9 +106,9 @@
 \begin{document}
 	\sffamily
 \thispagestyle{titlepage}
-\vspace*{-2em}
+\vspace*{-3em}
 \begin{center}
-	\huge \textbf{Mechanics Seminar series 2024 -- 25}
+	\huge \textbf{Mechanics seminar series 2024 -- 25}
 \end{center}
 
 \begin{center}
@@ -119,7 +119,7 @@
 \begin{tikzpicture}[remember picture, overlay]
 	\begin{scope}
 		%\clip (8.5em,-10em) circle[radius = 6.25em]; 
-		\node[anchor=west] (image) at (current page.west) [xshift=4em, yshift=-8em] {
+		\node[anchor=west] (image) at (current page.west) [xshift=4em, yshift=-5em] {
 				\begin{minipage}{0.25\linewidth}
 					\CircledImage{images/franck}
 				\end{minipage}
@@ -131,13 +131,12 @@
 			\raggedright \large
 			\vspace*{0em}
 			{\Large \textbf{Christian Franck}} \\ 
-			\vspace*{1em}
 			Department of Mechanical Engineering \\
 			University of Wisconsin-Madison \\
 			\vspace*{1em}
 			{\Large \textbf{Date and Time}:~April 08, 2025 (2 -- 3 pm) \\ 
 				\vspace*{0.25em}
-			\textbf{Venue}:~Amphi 104 (Pole Meca) }
+			\textbf{Venue}:~Amphithéâtre Pole Mecanique}
 		\end{minipage}
 	};
 	

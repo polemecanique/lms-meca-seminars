@@ -18,15 +18,6 @@ This wiki serves as a central hub for the seminar series of the [Laboratoire de 
 
 **Organizer:** Vignesh Kannan ([vignesh.kannan@polytechnique.edu](mailto:vignesh.kannan@polytechnique.edu))
 
-Here, you will find:
-
-* [**Schedule**](Schedule.qmd): View the upcoming seminar schedule.
-* [**Past Seminars Archive**](PastSeminarsArchive.qmd): Access previous seminar presentations and slide decks.
-* [**Invitations**](Invitations.qmd): (For internal memebers only) If you wish to invite a guest, please enter their information here.
-* [**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.
-
-![](Resources/Images/burigede.jpeg)
-
 ### Upcoming seminars
 
 :::: {.talk-card}
@@ -45,3 +36,13 @@ Here, you will find:
 :::
 
 ::::
+
+Access the full schedule for the current semester here -> [**Schedule**](Schedule.qmd)
+
+Access the previous seminars and recordings here -> [**Archive**](PastSeminarsArchive.qmd)
+
+<div style="width: full; aspect-ratio: 16 / 9; overflow: hidden;">
+  <img src="Resources/Images/burigede.jpeg" style="width: 100%; object-fit: cover;">
+</div>
+<br>
+[**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.

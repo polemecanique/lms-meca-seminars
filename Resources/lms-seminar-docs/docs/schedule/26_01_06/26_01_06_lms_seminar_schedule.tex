@@ -1,12 +1,13 @@
 % !TeX spellcheck = en_us
 \documentclass[a4paper,11pt,fleqn]{article}
 
-\usepackage[left=1.50cm, right=1.50cm, top=4cm, bottom=1cm, 
+\usepackage[left=1.50cm, right=1.50cm, top=3cm, bottom=1cm, 
 headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 \usepackage{fancyhdr}
 \usepackage{lmodern}
 \usepackage[table]{xcolor}
 \usepackage{amssymb,amstext,amsmath}
+\usepackage{eso-pic}
 \usepackage{booktabs}
 \usepackage{bm}
 \usepackage{setspace}
@@ -94,14 +95,25 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 
 \pagestyle{plain}
 
+\newcommand\TitleBackground{%
+	\AddToShipoutPictureBG*{
+		\begin{tikzpicture}[remember picture,overlay]
+			\node[opacity=0.20, anchor=center] 
+			at (current page.center) [xshift=0em, yshift=0em]
+			{\includegraphics[height=1.1\paperheight,keepaspectratio]{/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-external/format/lms-bg.jpg}};
+		\end{tikzpicture}
+	}
+}
+
 \setlength\arrayrulewidth{2pt}
 
 \begin{document}
 	\sffamily
 	\thispagestyle{titlepage}
+	\TitleBackground
 	\vspace*{-3em}
 	\begin{center}
-		\huge \textbf{LMS Seminar series 2024 -- 25}
+		\huge \textbf{Seminar series 2025 -- 26}
 	\end{center}
 	\vspace*{-3em}
 	\begin{center}
@@ -110,17 +122,16 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 			\hline
 			\rowcolor{docColor!99}
 			\textcolor{white}{January 08} & \textcolor{white}{MECA seminar: Thao (Vicky) Nguyen (Johns Hopkins University)} \\
-			January 15 & Sebastien Merkel (University of Lille) \\
+			January 15 & Sébastien Merkel (Université de Lille) \\
 			January 22 & Samuel Hemery (ISAE-ENSMA) \\
 			\rowcolor{cyan}
 			January 29 & LMS internal:~Sustainable processing (Manas) \\
-			February 05 & Felicity Freeman (U. Sheffield)  \\
-			February 19 & Anne Tanguy (INSA Lyon) \\
+			February 05 & Felicity Freeman (University of Sheffield)  \\
+			February 19 & Anne Tanguy (INSA Lyon/LMS) \\
 			\textcolor{black}{February 26} & {vacances scolaires} \\
 			{March 05} & {vacances scolaires} \\
 			\rowcolor{docColor!99}
-			\textcolor{white}{March 12} & \textcolor{white}{MECA seminar:~Claude Delangle (Conservatoire de Paris) (t)} \\
-			\rowcolor{white}
+			\textcolor{white}{March 12} & \textcolor{white}{MECA seminar:~Claude Delangle (Conservatoire de Paris) (tbd)} \\
 			March 19 & R{\'e}my Gauthier (MateIS, INSA Lyon) \\
 			March 26 & Jaime Mairan (UCLA)  \\
 			\rowcolor{cyan}
@@ -146,7 +157,7 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 		\Large
 		\begin{tabular}{p{4cm} p{15cm} }
 			\raggedleft\textbf{Day and time:~} & Every Thursday, 1400 -- 1500 hrs (unless otherwise specified)\\ 
-			\raggedleft\textbf{Venue:~} & Amphi 104 (P{\^o}le M{\'e}canique)\\
+			\raggedleft\textbf{Venue:~} & Amphithéâtre Pole Mecanique\\
 		\end{tabular}
 		\vfill
 		\textbullet \hspace*{0.5em} \href{https://calendar.google.com/calendar/embed?src=lms.seminaires%40gmail.com&ctz=Europe%2FZurich}{Google calendar link} \hspace*{0.5em} \textbullet \hspace*{0.5em} \href{https://polemecanique.github.io/lms-meca-seminars/}{Seminar webpage link} \hspace*{0.5em} \textbullet

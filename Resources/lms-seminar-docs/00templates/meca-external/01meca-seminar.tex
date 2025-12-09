@@ -1,7 +1,7 @@
 % !TeX spellcheck = en_us
 \documentclass[a4paper,12pt,fleqn]{article}
 
-\usepackage[left=1.50cm, right=1.50cm, top=4cm, bottom=2cm, 
+\usepackage[left=1.50cm, right=1.50cm, top=3cm, bottom=2cm, 
 headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 \usepackage{fancyhdr}
 \usepackage{lmodern}
@@ -45,12 +45,12 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 \renewcommand*\footnoterule{}
 
 \usepackage{xcolor}
-\definecolor{docColor}{cmyk}{1.00	, 1.00  , 0   , 0.40}  % 0.90\% of black
+\definecolor{docColor}{cmyk}{1.00,1.00,0, 0.40}  % 0.90\% of black
 \color{docColor}
 
-\newtcolorbox{myhlbox}[2][]{colback=white, colframe=docColor, width=1.0\linewidth,
-	boxrule=1.0pt, left=0.0pt, right=0.0pt, top=4pt, bottom=2.0pt,
-	colbacktitle=docColor!20, coltitle=black, enhanced, attach boxed title to top left={xshift=3mm, yshift=-1mm},
+\newtcolorbox{myhlbox}[2][]{colback=docColor!05, colframe=docColor!20, width=1.0\linewidth,
+	boxrule=0pt, left=1em, right=1em, top=1em, bottom=1em,
+	colbacktitle=docColor!20, coltitle=docColor,enhanced, attach boxed title to top left={xshift=2mm, yshift=-1mm},
 	title=#2, #1}
 
 \hypersetup{
@@ -80,7 +80,7 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 \renewcommand{\baselinestretch}{1.00}
 
 \newcommand\CircledImage[1]{%
-	\tikz\path[fill overzoom image={#1}, draw=docColor, line width=0mm]circle[radius=0.5\linewidth];%
+	\tikz\path[fill overzoom image={#1}, line width=0mm]circle[radius=0.5\linewidth];%
 }
 
 \input{format/defs}
@@ -104,7 +104,7 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 \thispagestyle{titlepage}
 \vspace*{-2em}
 \begin{center}
-	\huge \textbf{Mechanics Seminar series 2024 -- 25}
+	\huge \textbf{Mechanics Seminar series 2025 -- 26}
 \end{center}
 
 \begin{center}
@@ -113,13 +113,13 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 \end{center}
 \begin{center}
 	\large
-	Christian Franck \\ 
+	Thao (Vicky) Nguyen \\ 
 	{\large Department of Mechanical Engineering \\
-		University of Wisconsin-Madison
+		Johns Hopkins University
 	} \\
 	\vspace*{1em}
-	\textbf{Date and Time}:~April 08, 2025 (2 -- 3 pm) \\
-	\textbf{Venue}:~Amphi 104 (Pole Meca) 
+	\textbf{Date, time, and venue }\\
+	January 08, 2026 (2 -- 3 pm), Amphithéâtre Pole Mecanique
 \end{center}
 
 \begin{myhlbox}{{\large Abstract}}
@@ -131,17 +131,15 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 \vspace*{1em}
 
 \begin{myhlbox}{{\large About the speaker}}
-	\begin{wrapfigure}{r}{0.30\textwidth}
+	\begin{wrapfigure}{r}{0.25\textwidth}
+		\vspace*{-2em}
 		\CircledImage{images/franck}
 	\end{wrapfigure}
-	\vspace*{0.5em}
+
 	Christian Franck is the H.I. Romnes Faculty Fellow and Bjorn Borgen Professor in Mechanical Engineering at the University of Wisconsin-Madison. 
 	He is the acting director of the Center for Traumatic Brain Injury at the University of Wisconsin-Madison and the ONR-funded "Physics-based Neutralization of Threats to Human Tissues and Organs" (PANTHER) program, which consists of over 30 PIs nationwide. Key objectives of Dr. Franck’s research program are in advanced detection and prevention of traumatic brain injuries by providing accelerated translation from basic science discovery to civilian and warfighter protection solutions. 
-	\vspace*{2.5em}
+
 \end{myhlbox}
 \vfill
-\begin{center}
-	\Large
-	\textbullet \hspace*{0.5em} \href{https://calendar.google.com/calendar/embed?src=lms.seminaires%40gmail.com&ctz=Europe%2FZurich}{Google calendar link} \hspace*{0.5em} \textbullet \hspace*{0.5em} \href{http://lms-seminars.polytechnique.fr/}{Seminar webpage link} \hspace*{0.5em} \textbullet
-\end{center}
+
 \end{document}

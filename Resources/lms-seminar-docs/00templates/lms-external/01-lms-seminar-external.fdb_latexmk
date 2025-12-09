@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1762766482 "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-external/01-lms-seminar-external.tex" "01-lms-seminar-external.pdf" "01-lms-seminar-external" 1762766484 0
-  "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-external/01-lms-seminar-external.tex" 1762766480 6011 8883e27351e306d471a214b65c60f562 ""
+["pdflatex"] 1765205790 "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-external/01-lms-seminar-external.tex" "01-lms-seminar-external.pdf" "01-lms-seminar-external" 1765205792 0
+  "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-external/01-lms-seminar-external.tex" 1765205790 5616 f747c07b1853203a277e3b2fbcbd2d69 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -165,6 +165,7 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty" 1561238569 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/environ/environ.sty" 1399239813 4378 f429f0da968c278653359293040a8f52 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/eso-pic/eso-pic.sty" 1602711807 11772 8d0db0794e6aeb45348f60bbe3a3e093 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/eurosym/eurosym.sty" 1137110118 3028 8faeef64adee9b964b5e7f5e45921024 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1668028059 18450 88279bf67c81e69f8e3f1c1bad1a26c5 ""
@@ -257,13 +258,14 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1709642366 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1709642352 7883459 5194da3746845faa08b00b0b5777d268 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "01-lms-seminar-external.aux" 1762766484 554 e6f85c6f44bbe194532b4fa1fd8ca02c "pdflatex"
-  "01-lms-seminar-external.out" 1762766483 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "01-lms-seminar-external.tex" 1762766480 6011 8883e27351e306d471a214b65c60f562 ""
+  "01-lms-seminar-external.aux" 1765205792 589 b72b67807360294e38f1cde1b1aa5aef "pdflatex"
+  "01-lms-seminar-external.out" 1765205791 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "01-lms-seminar-external.tex" 1765205790 5616 f747c07b1853203a277e3b2fbcbd2d69 ""
   "format/defs.tex" 1757930410 12869 b8f6c24b6b741495127b2907ac965ef5 ""
+  "format/lms-bg.jpg" 1765199140 105570 8f823ed1c367376584449aa90195a1e4 ""
   "format/lms.png" 1707727288 494003 a695269bf4bc8ff6dd70d9a49a2e225b ""
   "format/lxipparis2.png" 1689060894 166793 f912f53ed4d474868076b6d9c3aeea34 ""
-  "images/rubino.png" 1762763025 482129 955e91b1c67f188e92953f42dfd443bf ""
+  "images/merkel.jpg" 1765195509 470249 19489ac5b16b69b02eaafd7d24447810 ""
   (generated)
   "01-lms-seminar-external.aux"
   "01-lms-seminar-external.log"

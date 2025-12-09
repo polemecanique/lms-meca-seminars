@@ -7,6 +7,7 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 \usepackage{lmodern}
 \usepackage[table]{xcolor}
 \usepackage{amssymb,amstext,amsmath}
+\usepackage{eso-pic}
 \usepackage{booktabs}
 \usepackage{bm}
 \usepackage{setspace}
@@ -99,39 +100,53 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 
 \pagestyle{plain}
 
+\newcommand\TitleBackground{%
+	\AddToShipoutPictureBG*{
+		\begin{tikzpicture}[remember picture,overlay]
+			\node[opacity=0.20, anchor=center] 
+			at (current page.center)
+			{\includegraphics[height=\paperheight,keepaspectratio]{format/lms-bg.jpg}};
+		\end{tikzpicture}
+	}
+}
+
 \begin{document}
 	\sffamily
-\thispagestyle{titlepage}
-\vspace*{-3em}
-\begin{center}
-	\huge \textbf{LMS Seminar}
-\end{center}
-\begin{center}
-	\large 
-	\textbf{Dynamic rupture behavior and friction evolution revealed by laboratory experiments using ultra high-speed digital image correlation} 
-\end{center}
-\begin{center}
-	\Large
-	Vito Rubino \\
-	{\large Ecole Centrale de Nantes} \\
-	\vspace*{1em}
-	{\Large
-	\textbf{Date and Time}:~November 20, 2025 (2 -- 3 pm) \\
-	\textbf{Venue}:~Amphi 104 (Pole Meca)}
-\end{center}
-\vspace*{-1em}
-\begin{myhlbox}{{Abstract}}
-	Shear cracks along interfaces are relevant to a broad class of engineering and geophysics applications, ranging from the failure of composite materials and bonded joints to earthquakes and landslides. Characterizing the rheology of interfaces and faults is of paramount importance to improve our understanding of frictional ruptures, as friction controls key processes of rupture nucleation, propagation, and arrest and influences various rupture outcomes, for example how damaging earthquakes can be.  In this presentation, I will discuss recent advances in the characterization of rupture behavior and friction evolution using our newly developed imaging technique, based on digital image correlation (DIC) coupled with ultrahigh speed photography. One of the highlights of this new approach is its ability to experimentally capture the full-field evolution of particle velocities and strains of spontaneously propagating dynamic ruptures achieving a level of detail that was previously only possible through numerical simulations. Dynamic imaging of stresses enables us to decode the nature of friction by tracking its evolution and studying its dependence on slip, slip velocity and their history. The measured friction behavior allows us to challenge existing friction laws and formulate new ones. This approach gives a new perspective on the study of friction and provides important insights into earthquake and rupture physics.
-\end{myhlbox}
+	\thispagestyle{titlepage}
+	\TitleBackground
+	\vspace*{-3em}
+	\begin{center}
+		\huge \textbf{LMS Seminar}
+	\end{center}
+	\begin{center}
+		\large 
+		\textbf{Plasticity, deformation and microstructures under deep planetary interior conditions} 
+	\end{center}
+	\begin{center}
+		\Large
+		Sébastien Merkel \\
+		{\large Université de Lille} \\
+		\vspace*{1em}
+		{\large \textbf{Date, time, and venue} \\
+		January 15, 2026 (2 -- 3 pm), Amphithéâtre Pole Mecanique}
+	\end{center}
+
+	\vspace*{-1em}
+	
+	\begin{myhlbox}{{Abstract}}
+		The deformation of solid materials and the induced microstructures are important in the geosciences as, combined with other observations, they can be used to unravel the history and geodynamical contexts of various regions of the Earth. The relevant thermodynamic conditions, however, are extreme with pressures over a megabar and temperatures of several thousands of K. To this end, our group in Lille has developed an expertise in the study of plastic deformation and microstructure under extreme conditions, using static compression devices (large volume press, diamond anvil cells, etc) and, more recently, shock compression. Experiments and sample properties are studied in situ, typically at large scale facilities such as synchrotrons and X-ray free electron lasers using powder or multigrain X-ray diffraction. In this presentation, I will show the methods we use and some of our recent results on oxides relevant to planetary mantles and iron for planetary cores.
+	\end{myhlbox}
 
 \vspace*{1em}
 
 	\begin{myhlbox}{{About the speaker}}
-		\begin{wrapfigure}{r}{0.30\textwidth}
+		\begin{wrapfigure}{r}{0.25\textwidth}
 			\vspace*{-2em}
-			\CircledImage{images/rubino}
+			\CircledImage{images/merkel}
 		\end{wrapfigure}
 
-		Vito Rubino is Associate Professor at École Centrale de Nantes, France, since September 2022. His research interests focus on experimental and computational mechanics to study fracture and friction phenomena. Dr Rubino received his undergraduate degree from Politecnico di Torino, Italy, while holding a research assistant position at Imperial College London on his final year. He obtained his Ph.D. from the University of Cambridge in 2008. After a brief experience in industry on R\&D with Airbus UK, in 2011 he started his postdoctoral studies at the California Institute of Technology (Caltech), in the Department of Aerospace (GALCIT). He then became Research Scientist at Caltech in 2015. He recently earned a NeXT Talent award at Centrale Nantes. 
+		S. Merkel is a professor of physics at Univ. Lille since 2010. He received a PhD in Earth science from the Ecole Normale Supérieure de Lyon in 2002 and has worked at ENS Lyon, the Carnegie Institution for Science and the University of California at Berkeley in the US, and the University of Tokyo in Japan. His research focuses on extreme conditions experiments, microstructures and their relations to phase transformations and plastic deformation, and the dynamics and history of the deep Earth.
+		\vspace{1em}
+		
 	\end{myhlbox}
 \end{document}

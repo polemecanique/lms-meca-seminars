@@ -10,6 +10,7 @@
 \usepackage{lmodern}
 \usepackage[table]{xcolor}
 \usepackage{amssymb,amstext,amsmath}
+\usepackage{eso-pic}
 \usepackage{booktabs}
 \usepackage{bm}
 \usepackage{setspace}
@@ -103,23 +104,35 @@
 
 \pagestyle{plain}
 
+\newcommand\TitleBackground{%
+	\AddToShipoutPictureBG*{
+		\begin{tikzpicture}[remember picture,overlay]
+			\node[opacity=0.15, anchor=center] 
+			at (current page.center)
+			{\includegraphics[height=1.1\paperheight,keepaspectratio]{format/lms-bg.jpg}};
+		\end{tikzpicture}
+	}
+}
+
+
 \begin{document}
 	\sffamily
 \thispagestyle{titlepage}
+\TitleBackground
 \vspace*{-2em}
 \begin{center}
 	\huge \textbf{LMS Seminar}
 \end{center}
 
 \begin{center}
-	\Large \textbf{Dynamic rupture behavior and friction evolution revealed by laboratory experiments using ultrahigh-speed digital image correlation} \\
+	\Large \textbf{Plasticity, deformation and microstructures under deep planetary interior conditions} \\
 \end{center}
 
 \begin{tikzpicture}[remember picture, overlay]
 	\begin{scope}
-		\node[anchor=west] (image) at (current page.west) [xshift=4em, yshift=-6em] {
+		\node[anchor=west] (image) at (current page.west) [xshift=4em, yshift=-6.5em] {
 			\begin{minipage}{0.25\linewidth}
-				\CircledImage{images/rubino}
+				\CircledImage{images/merkel}
 			\end{minipage}
 		};
 	\end{scope}
@@ -128,13 +141,13 @@
 		\begin{minipage}{0.75\linewidth}
 			\raggedright \large
 			\vspace*{0em}
-			{\Large \textbf{Vito Rubino} \\
+			{\Large \textbf{Sébastien Merkel} \\
 			\vspace*{0.5em}
-			\Large{Ecole Centrale de Nantes} \\}
+			\Large{Université de Lille} \\}
 			\vspace*{1em}
-			{\Large \textbf{Date and Time}:~November 20, 2025 (2 -- 3 pm) \\ 
+			{\Large \textbf{Date and Time}:~January 15, 2026 (2 -- 3 pm) \\ 
 				\vspace*{0.5em}
-			\textbf{Venue}:~Amphi 104 (Pole Meca) }
+			\textbf{Venue}:~Amphithéâtre Pole Mecanique}
 		\end{minipage}
 	};
 \end{tikzpicture}
