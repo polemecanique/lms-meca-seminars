@@ -22,16 +22,14 @@ This wiki serves as a central hub for the seminar series of the [Laboratoire de 
 
 :::: {.talk-card}
 
-### [December 11, 2025] A symposium to honor Prof. Patrick Le Tallec
+### [January 8, 2026] Thao (Vicky) Nguyen 
 
-**Date and Place:** December 11, 2025 at the Pole Mecanique amphitheatre<br>
-**Title:** Modeling in Applied Mechanics: A symposium in honor of Prof. Patrick Le Tallec
+**Date and Place:** January 8, 2026 at the Pole Mecanique amphitheatre<br>
+**Title:** Modeling the Unique Thermomechanical Behaviors of Liquid Crystal Elastomers
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](https://lms.ip-paris.fr/actualites/modeling-applied-mechanics-symposium-honour-patrick-le-tallec){.button target="_blank"}
-
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Program](https://lms.ip-paris.fr/sites/lms/files/actualites/Program-LMS%20Symposium%20in%20honour%20Patrick%20Le%20Tallec.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0107-VickyNguyen/01meca-seminar.pdf){.button target="_blank"}
 
 :::
 
