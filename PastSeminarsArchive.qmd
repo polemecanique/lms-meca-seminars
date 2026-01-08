@@ -9,9 +9,24 @@ format:
 
 :::: {.talk-card}
 
-### A symposium to honor Prof. Patrick Le Tallec
+### [January 08, 2026] Thao (Vicky) Nguyen (Johns Hopkins University)
 
-**Date and Place:** December 11, 2025 at the Pole Mecanique amphitheatre<br>
+**Title:** Modeling the Unique Thermomechanical Behaviors of Liquid Crystal Elastomers
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0107-VickyNguyen/01meca-seminar.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"}
+
+:::
+
+::::
+
+:::: {.talk-card}
+
+### [December 11, 2025] A symposium to honor Prof. Patrick Le Tallec
+
 **Title:** Modeling in Applied Mechanics: A symposium in honor of Prof. Patrick Le Tallec
 
 ::: {.button}
@@ -26,10 +41,9 @@ format:
 
 :::: {.talk-card}
 
-### LMS internal (Moderator: Kostas Danas)
+### [December 4, 2025] LMS internal (Moderator: Kostas Danas)
 
 **Title:** Architected materials <br>
-**Date:** December 4, 2025 
 
 ::: {.button}
 
@@ -43,10 +57,9 @@ format:
 
 :::: {.talk-card}
 
-### Vito Rubino (Ecole Centrale Nantes)
+### [November 20, 2025] Vito Rubino (Ecole Centrale Nantes)
  
 **Title:** Dynamic rupture behavior and friction evolution revealed by laboratory experiments using ultra high-speed digital image correlation <br>
-**Date:** November 20, 2025
 
 ::: {.button}
 
@@ -60,10 +73,9 @@ format:
 
 :::: {.talk-card}
 
-### LMS internal (Moderator: Julie Diani)
+### [November 06, 2025] LMS internal (Moderator: Julie Diani)
 
-**Title:** Microstructures <br>
-**Date:** November 06, 2025
+**Title:** Microstructures 
 
 ::: {.button}
 
@@ -77,10 +89,9 @@ format:
 
 :::: {.talk-card}
 
-### Rian Seghir (Ecole Centrale Nantes)
+### [October 16, 2025] Rian Seghir (Ecole Centrale Nantes)
  
 **Title:** If images could talk: An image-based approach for characterizing dynamic responses in solid mechanics <br>
-**Date:** October 16, 2025
 
 ::: {.button}
 
@@ -94,10 +105,9 @@ format:
 
 :::: {.talk-card}
 
-### Burigede Liu (University of Cambridge)
+### [October 09, 2025] Burigede Liu (University of Cambridge)
  
-**Title:** Operator learning in mechanics and materials <br>
-**Date:** October 09, 2025
+**Title:** Operator learning in mechanics and materials
 
 ::: {.button}
 
@@ -111,10 +121,9 @@ format:
 
 :::: {.talk-card}
 
-### Jonathan Cormier (ISAE-ENSMA)
+### [October 02, 2025] Jonathan Cormier (ISAE-ENSMA)
  
-**Title:** Factors controlling VHCF life of Ni-based single crystal superalloys <br>
-**Date:** October 02, 2025
+**Title:** Factors controlling VHCF life of Ni-based single crystal superalloys 
 
 ::: {.button}
 
@@ -128,10 +137,9 @@ format:
 
 ::::: {.talk-card}
 
-### LMS internal (Moderator: Laurent Guin)
+### [September 25, 2025] LMS internal (Moderator: Laurent Guin)
 
-**Title:** Multi-physical coupling in mechanics <br>
-**Date:** September 25, 2025 
+**Title:** Multi-physical coupling in mechanics
 
 ::: {.button}
 
@@ -145,10 +153,9 @@ format:
 
 ::::: {.talk-card}
 
-### Thomas Cornèlius (IM2NP, Aix-Marseilles University)
+### [September 18, 2025] Thomas Cornèlius (IM2NP, Aix-Marseilles University)
  
-**Title:** Mechanical behavior at the nanoscale in the light of synchrotron X-ray diffraction <br>
-**Date:** September 18, 2025
+**Title:** Mechanical behavior at the nanoscale in the light of synchrotron X-ray diffraction
 
 ::: {.button}
 
@@ -161,10 +168,9 @@ format:
 ::::
 
 ::::: {.talk-card}
-### Thèodore Cherrière (Centrale Supèlec, France)
+### [September 4, 2025] Thèodore Cherrière (Centrale Supèlec, France)
  
-**Title:** Adjoint variable method and applications: from design optimization to force computation <br>
-**Date:** September 4, 2025
+**Title:** Adjoint variable method and applications: from design optimization to force computation
 
 ::: {.button}
 
@@ -177,10 +183,9 @@ format:
 ::::
 
 ::::: {.talk-card}
-### Robert Style (ETH Zurich, Switzerland)
+### [July 3, 2025] Robert Style (ETH Zurich, Switzerland)
 
-**Title:** How freezing breaks soft, wet materials <br>
-**Date:** July 3, 2025 
+**Title:** How freezing breaks soft, wet materials 
 
 ::: {.button}
 
@@ -192,10 +197,9 @@ format:
 :::::
 
 ::::: {.talk-card}
-### Konstantinos Karapiperis (EPFL, Switzerland)
+### [June 26, 2025] Konstantinos Karapiperis (EPFL, Switzerland)
 
-**Title:** Physics-informed data-driven modeling for the mechanics of soils and structures <br>
-**Date:** June 26, 2025
+**Title:** Physics-informed data-driven modeling for the mechanics of soils and structures
 
 ::: {.button}
 
@@ -206,10 +210,9 @@ format:
 :::::
 
 ::::: {.talk-card}
-### Francois Barthelat (University of Colorado, Boulder, U.S.A.)
+### [June 19, 2025] Francois Barthelat (University of Colorado, Boulder, U.S.A.)
 
-**Title:** Two examples of granular materials “engineered” for strength: Granular crystals, entangled matter <br>
-**Date:** June 19, 2025
+**Title:** Two examples of granular materials “engineered” for strength: Granular crystals, entangled matter 
 
 ::: {.button}
 
@@ -220,10 +223,9 @@ format:
 :::::
 
 ::::: {.talk-card}
-### Antonio Somma (Ecole Polytechnique, France)
+### [June 12, 2025] Antonio Somma (Ecole Polytechnique, France)
 
-**Title:** Haptics and music <br>
-**Date:** June 12, 2025
+**Title:** Haptics and music 
 
 ::: {.button}
 
@@ -234,10 +236,9 @@ format:
 :::::
 
 ::::: {.talk-card}
-### Samuel Forest (Centre de Matèriaux, Mines Paris PSL, France)
+### [June 05, 2025] Samuel Forest (Centre de Matèriaux, Mines Paris PSL, France)
 
-**Title:** Stored energy vs dissipation in gradient crystal plasticity: Application to cyclic plasticity and recrystallization <br>
-**Date:** June 05, 2025
+**Title:** Stored energy vs dissipation in gradient crystal plasticity: Application to cyclic plasticity and recrystallization
 
 ::: {.button}
 
@@ -248,10 +249,9 @@ format:
 :::::
 
 ::::: {.talk-card}
-### Christos Vassilicos (LFML, Lille, France)
+### [May 22, 2025] Christos Vassilicos (LFML, Lille, France)
 
-**Title:** A certain prediction of production of uncertainty <br>
-**Date:** May 22, 2025
+**Title:** A certain prediction of production of uncertainty
 
 ::: {.button}
 
@@ -262,10 +262,9 @@ format:
 :::::
 
 ::::: {.talk-card}
-### Min Wu (Worcester Polytechnic Institute, U.S.A.)
+### [May 15, 2025] Min Wu (Worcester Polytechnic Institute, U.S.A.)
 
-**Title:** Continuum Modeling of Mechanical Feedback and Stress Relaxation in Growth-Elasticity: Theory and Applications <br>
-**Date:** May 15, 2025
+**Title:** Continuum Modeling of Mechanical Feedback and Stress Relaxation in Growth-Elasticity: Theory and Applications
 
 ::: {.button}
 
@@ -276,10 +275,9 @@ format:
 :::::
 
 ::::: {.talk-card}
-### Christian Franck (University of Wisconsin-Madison, U.S.A.)
+### [May 15, 2025] Christian Franck (University of Wisconsin-Madison, U.S.A.)
 
-**Title:** Inertial cavitation in Soft Matter – Friend or Foe? <br>
-**Date:** May 15, 2025
+**Title:** Inertial cavitation in Soft Matter – Friend or Foe?
 
 ::: {.button}
 
@@ -293,10 +291,9 @@ format:
 
 ::::: {.talk-card}
 
-### Francois Hild (Laboratoire de Mècanique Paris-Saclay, France)
+### [March 20, 2025] Francois Hild (Laboratoire de Mècanique Paris-Saclay, France)
  
-**Title:** Contributions of 4D imaging in mechanics of materials <br>
-**Date:** March 20, 2025
+**Title:** Contributions of 4D imaging in mechanics of materials
 
 ::: {.button}
 
@@ -310,10 +307,9 @@ format:
 
 ::::: {.talk-card}
 
-### Maria Teresa Pèrez Prado (IMDEA Materials Institute, Spain)
+### [March 13, 2025] Maria Teresa Pèrez Prado (IMDEA Materials Institute, Spain)
 
-**Title:** Metallurgy meets architecture: Unlocking the potential of 3D-printed metamaterials <br>
-**Date:** March 13, 2025
+**Title:** Metallurgy meets architecture: Unlocking the potential of 3D-printed metamaterials
 
 ::: {.button}
 
@@ -327,10 +323,9 @@ format:
 
 ::::: {.talk-card}
 
-### Marc Geers (TU Eindhoven, Netherlands)
+### [March 06, 2025] Marc Geers (TU Eindhoven, Netherlands)
  
-**Title:** A continuum consistent particle method for discrete fracture events and phase transformations in silicon <br>
-**Date:** March 06, 2025
+**Title:** A continuum consistent particle method for discrete fracture events and phase transformations in silicon
 
 ::: {.button}
 
@@ -342,10 +337,9 @@ format:
 
 ::::: {.talk-card}
 
-### John Kolinski (EPFL Lausanne, Switzerland)
+### [February 27, 2025] John Kolinski (EPFL Lausanne, Switzerland)
 
-**Title:** Make it and break it: Contact and Cracks at soft interfaces <br>
-**Date:** February 27, 2025 
+**Title:** Make it and break it: Contact and Cracks at soft interfaces
 
 ::: {.button}
 
@@ -357,10 +351,9 @@ format:
 
 ::::: {.talk-card}
 
-### Harsha Bhat (Ecole Normale Supèrieure, France)
+### [February 13, 2025] Harsha Bhat (Ecole Normale Supèrieure, France)
  
-**Title:** Fault Volume:  A paradigm for  Reconciling Modern Observations of Active Faults <br>
-**Date:** February 13, 2025
+**Title:** Fault Volume:  A paradigm for  Reconciling Modern Observations of Active Faults
 
 ::: {.button}
 
@@ -374,10 +367,9 @@ format:
 
 ::::: {.talk-card}
 
-### Arthur Lebèe (Ecole nationale des ponts et chaussées, France)
+### [February 06, 2025] Arthur Lebèe (Ecole nationale des ponts et chaussées, France)
 
-**Title:** Characterization of rolling and longitudinal shear creep for cross-laminated timber panels <br>
-**Date:** February 06, 2025
+**Title:** Characterization of rolling and longitudinal shear creep for cross-laminated timber panels
 
 ::: {.button}
 
@@ -389,10 +381,9 @@ format:
 
 ::::: {.talk-card}
 
-### Gwennou Coupier (University of Grenoble-Alpes, France)
+### [January 23, 2025] Gwennou Coupier (University of Grenoble-Alpes, France)
 
-**Title:** Flow generation through buckling instability: from beach balls to microswimmers <br>
-**Date:** January 23, 2025
+**Title:** Flow generation through buckling instability: from beach balls to microswimmers
 
 ::: {.button}
 
@@ -404,10 +395,9 @@ format:
 
 ::::: {.talk-card}
 
-### Antony Beris (University of Delaware, U.S.A.)
+### [January 16, 2025] Antony Beris (University of Delaware, U.S.A.)
 
-**Title:** On the use of the Single Generator Bracket Formalism of Non-Equilibrium Thermodynamics for the development of the equations of Continuum Mechanics <br>
-**Date:** January 16, 2025 
+**Title:** On the use of the Single Generator Bracket Formalism of Non-Equilibrium Thermodynamics for the development of the equations of Continuum Mechanics
 
 ::: {.button}
 
@@ -421,10 +411,9 @@ format:
 
 ::::: {.talk-card}
 
-### Laurent Stainier (Ecole Centrale Nantes, France)
+### [January 09, 2025] Laurent Stainier (Ecole Centrale Nantes, France)
  
-**Title:** Data-driven computational mechanics and physics of materials <br>
-**Date:** January 09, 2025
+**Title:** Data-driven computational mechanics and physics of materials
 
 ::: {.button}
 
@@ -437,10 +426,9 @@ format:
 
 ::::: {.talk-card}
 
-### Marie A. Charpagne (University of Illinois at Urbana-Champaign, U.S.A.)
+### [December 19, 2024] Marie A. Charpagne (University of Illinois at Urbana-Champaign, U.S.A.)
  
-**Title:** Grain boundary engineering in metal additive manufacturing <br>
-**Date:** December 19, 2024
+**Title:** Grain boundary engineering in metal additive manufacturing 
 
 ::: {.button}
 
@@ -452,10 +440,9 @@ format:
 
 ::::: {.talk-card}
 
-### Triona Lally (Trinity College Dublin)
+### [December 11, 2024] Triona Lally (Trinity College Dublin)
  
-**Title:** Made to measure: Designing and optimising 3D printed patient specific stents <br>
-**Date:** December 11, 2024
+**Title:** Made to measure: Designing and optimising 3D printed patient specific stents
 
 ::: {.button}
 
@@ -467,10 +454,9 @@ format:
 
 ::::: {.talk-card}
 
-### Joint talk: John Hutchinson (Harvard University, U.S.A.) and Pedro Reis (EPFL, Lausanne, Switzerland)
+### [December 05, 2024] Joint talk: John Hutchinson (Harvard University, U.S.A.) and Pedro Reis (EPFL, Lausanne, Switzerland)
  
-**Title:** Imperfection Sensitivity in Shell Buckling: Longstanding Questions and New Answers <br>
-**Date:** December 05, 2024
+**Title:** Imperfection Sensitivity in Shell Buckling: Longstanding Questions and New Answers
 
 ::: {.button}
 
