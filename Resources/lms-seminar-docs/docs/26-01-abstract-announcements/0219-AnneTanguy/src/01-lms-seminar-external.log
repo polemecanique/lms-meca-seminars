@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  14 JAN 2026 10:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  14 JAN 2026 09:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**02-lms-seminar-external.tex
-(./02-lms-seminar-external.tex
+**01-lms-seminar-external.tex
+(./01-lms-seminar-external.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -18,8 +18,8 @@ Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
 )
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -806,7 +806,7 @@ Package textpos Info: choosing support for LaTeX3 on input line 60.
 \TP@margin=\dimen296
 \TP@absmargin=\dimen297
 
-Grid set 16 x 16 = 37.34424pt x 26.67445pt
+Grid set 16 x 16 = 37.34424pt x 52.81541pt
 \TPboxrulesize=\dimen298
 \TP@ox=\dimen299
 \TP@oy=\dimen300
@@ -821,71 +821,17 @@ LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-(/usr/local/texlive/2023/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks41
-\XKV@tempa@toks=\toks42
-)
-\XKV@depth=\count340
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(/usr/local/texlive/2023/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
--ends (calc, etex, pgfmath)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/adjustbox/trimclip.sty
-Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/collectbox/collectbox.sty
-Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
-\collectedbox=\box72
-)
-\tc@llx=\dimen301
-\tc@lly=\dimen302
-\tc@urx=\dimen303
-\tc@ury=\dimen304
-Package trimclip Info: Using driver 'tc-pdftex.def'.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
-File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
-))
-\adjbox@Width=\dimen305
-\adjbox@Height=\dimen306
-\adjbox@Depth=\dimen307
-\adjbox@Totalheight=\dimen308
-\adjbox@pwidth=\dimen309
-\adjbox@pheight=\dimen310
-\adjbox@pdepth=\dimen311
-\adjbox@ptotalheight=\dimen312
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count341
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/varwidth/varwidth.sty
-Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box73
-\sift@deathcycles=\count342
-\@vwid@loff=\dimen313
-\@vwid@roff=\dimen314
-))
 (/usr/local/texlive/2023/texmf-dist/tex/latex/pgfplots/pgfplots.sty
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
 Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
-\t@pgfplots@toka=\toks43
-\t@pgfplots@tokb=\toks44
-\t@pgfplots@tokc=\toks45
-\pgfplots@tmpa=\dimen315
-\c@pgfplots@coordindex=\count343
-\c@pgfplots@scanlineindex=\count344
+\t@pgfplots@toka=\toks41
+\t@pgfplots@tokb=\toks42
+\t@pgfplots@tokc=\toks43
+\pgfplots@tmpa=\dimen301
+\c@pgfplots@coordindex=\count340
+\c@pgfplots@scanlineindex=\count341
 
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric
 .code.tex))
@@ -896,9 +842,9 @@ soldpgfsupp_loader.code.tex
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.cod
 e.tex)
 Package pgfplots: loading complementary utilities for your pgf version...
-\t@pgf@toka=\toks46
-\t@pgf@tokb=\toks47
-\t@pgf@tokc=\toks48
+\t@pgf@toka=\toks44
+\t@pgf@tokb=\toks45
+\t@pgf@tokc=\toks46
 
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
 soldpgfsupp_pgfutil-common-lists.tex))
@@ -910,14 +856,14 @@ liststructure.code.tex)
 liststructureext.code.tex)
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
 array.code.tex
-\c@pgfplotsarray@tmp=\count345
+\c@pgfplotsarray@tmp=\count342
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
 matrix.code.tex)
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
 shared.code.tex
-\c@pgfplotstable@counta=\count346
-\t@pgfplotstable@a=\toks49
+\c@pgfplotstable@counta=\count343
+\t@pgfplotstable@a=\toks47
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
 deque.code.tex)
@@ -929,7 +875,7 @@ ta.code.tex))
 .code.tex)
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplot
 s.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count347
+\c@pgfplotslibrarysurf@no=\count344
 
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
 .surfshading.pgfsys-pdftex.def)))
@@ -961,16 +907,16 @@ x)
 s/tikzlibrarydecorations.code.tex
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
 s.code.tex
-\pgfdecoratedcompleteddistance=\dimen316
-\pgfdecoratedremainingdistance=\dimen317
-\pgfdecoratedinputsegmentcompleteddistance=\dimen318
-\pgfdecoratedinputsegmentremainingdistance=\dimen319
-\pgf@decorate@distancetomove=\dimen320
-\pgf@decorate@repeatstate=\count348
-\pgfdecorationsegmentamplitude=\dimen321
-\pgfdecorationsegmentlength=\dimen322
+\pgfdecoratedcompleteddistance=\dimen302
+\pgfdecoratedremainingdistance=\dimen303
+\pgfdecoratedinputsegmentcompleteddistance=\dimen304
+\pgfdecoratedinputsegmentremainingdistance=\dimen305
+\pgf@decorate@distancetomove=\dimen306
+\pgf@decorate@repeatstate=\count345
+\pgfdecorationsegmentamplitude=\dimen307
+\pgfdecorationsegmentlength=\dimen308
 )
-\tikz@lib@dec@box=\box74
+\tikz@lib@dec@box=\box72
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarydecorations.pathmorphing.code.tex
@@ -982,13 +928,13 @@ s/tikzlibrarydecorations.pathreplacing.code.tex
 brarydecorations.pathreplacing.code.tex))
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplo
 ts.contourlua.code.tex)
-\pgfplots@numplots=\count349
-\pgfplots@xmin@reg=\dimen323
-\pgfplots@xmax@reg=\dimen324
-\pgfplots@ymin@reg=\dimen325
-\pgfplots@ymax@reg=\dimen326
-\pgfplots@zmin@reg=\dimen327
-\pgfplots@zmax@reg=\dimen328
+\pgfplots@numplots=\count346
+\pgfplots@xmin@reg=\dimen309
+\pgfplots@xmax@reg=\dimen310
+\pgfplots@ymin@reg=\dimen311
+\pgfplots@ymax@reg=\dimen312
+\pgfplots@zmin@reg=\dimen313
+\pgfplots@zmax@reg=\dimen314
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryplotmarks.code.tex
@@ -1004,36 +950,36 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LTright=\skip71
 \LTpre=\skip72
 \LTpost=\skip73
-\LTchunksize=\count350
-\LTcapwidth=\dimen329
-\LT@head=\box75
-\LT@firsthead=\box76
-\LT@foot=\box77
-\LT@lastfoot=\box78
-\LT@gbox=\box79
-\LT@cols=\count351
-\LT@rows=\count352
-\c@LT@tables=\count353
-\c@LT@chunks=\count354
-\LT@p@ftn=\toks50
+\LTchunksize=\count347
+\LTcapwidth=\dimen315
+\LT@head=\box73
+\LT@firsthead=\box74
+\LT@foot=\box75
+\LT@lastfoot=\box76
+\LT@gbox=\box77
+\LT@cols=\count348
+\LT@rows=\count349
+\c@LT@tables=\count350
+\c@LT@chunks=\count351
+\LT@p@ftn=\toks48
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/03/12 v3.6j Customizing captions (AR)
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
-\caption@tempdima=\dimen330
-\captionmargin=\dimen331
-\caption@leftmargin=\dimen332
-\caption@rightmargin=\dimen333
-\caption@width=\dimen334
-\caption@indent=\dimen335
-\caption@parindent=\dimen336
-\caption@hangindent=\dimen337
+\caption@tempdima=\dimen316
+\captionmargin=\dimen317
+\caption@leftmargin=\dimen318
+\caption@rightmargin=\dimen319
+\caption@width=\dimen320
+\caption@indent=\dimen321
+\caption@parindent=\dimen322
+\caption@hangindent=\dimen323
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count355
-\c@continuedfloat=\count356
+\c@caption@flags=\count352
+\c@continuedfloat=\count353
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 
@@ -1045,8 +991,8 @@ Package: tcolorbox 2023/02/12 version 6.0.1 text color boxes
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks51
-\verbatim@line=\toks52
+\every@verbatim=\toks49
+\verbatim@line=\toks50
 \verbatim@in@stream=\read3
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/environ/environ.sty
@@ -1057,26 +1003,26 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
 (/usr/local/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count357
+\etb@tempcnta=\count354
 )
-\tcb@titlebox=\box80
-\tcb@upperbox=\box81
-\tcb@lowerbox=\box82
-\tcb@phantombox=\box83
-\c@tcbbreakpart=\count358
-\c@tcblayer=\count359
-\c@tcolorbox@number=\count360
+\tcb@titlebox=\box78
+\tcb@upperbox=\box79
+\tcb@lowerbox=\box80
+\tcb@phantombox=\box81
+\c@tcbbreakpart=\count355
+\c@tcblayer=\count356
+\c@tcolorbox@number=\count357
+\tcb@temp=\box82
+\tcb@temp=\box83
 \tcb@temp=\box84
 \tcb@temp=\box85
-\tcb@temp=\box86
-\tcb@temp=\box87
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
 Library (tcolorbox): 'tcbraster.code.tex' version '6.0.1'
-\c@tcbrastercolumn=\count361
-\c@tcbrasterrow=\count362
-\c@tcbrasternum=\count363
-\c@tcbraster=\count364
+\c@tcbrastercolumn=\count358
+\c@tcbrasterrow=\count359
+\c@tcbrasternum=\count360
+\c@tcbraster=\count361
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
 Library (tcolorbox): 'tcbskins.code.tex' version '6.0.1'
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
@@ -1088,7 +1034,7 @@ Package: tikzfill-common 2022/07/20 v1.0.0 Auxiliary code for tikzfill
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.co
 de.tex
 File: tikzlibraryfill.image.code.tex 2022/07/20 v1.0.0 Image filling library
-\l__tikzfill_img_box=\box88
+\l__tikzfill_img_box=\box86
 ))
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.0.1'
@@ -1099,9 +1045,9 @@ Library (tcolorbox): 'tcbbreakable.code.tex' version '6.0.1'
 Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
 )
 Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
-\tcb@testbox=\box89
-\tcb@totalupperbox=\box90
-\tcb@totallowerbox=\box91
+\tcb@testbox=\box87
+\tcb@totalupperbox=\box88
+\tcb@totallowerbox=\box89
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
 Library (tcolorbox): 'tcbhooks.code.tex' version '6.0.1'
@@ -1109,10 +1055,10 @@ Library (tcolorbox): 'tcbhooks.code.tex' version '6.0.1'
 Library (tcolorbox): 'tcbtheorems.code.tex' version '6.0.1'
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
 Library (tcolorbox): 'tcbfitting.code.tex' version '6.0.1'
-\tcbfitdim=\dimen338
-\tcb@lowerfitdim=\dimen339
-\tcb@upperfitdim=\dimen340
-\tcb@cur@hbadness=\count365
+\tcbfitdim=\dimen324
+\tcb@lowerfitdim=\dimen325
+\tcb@upperfitdim=\dimen326
+\tcb@cur@hbadness=\count362
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.te
 x
@@ -1120,24 +1066,24 @@ Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.0.1'
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
 Library (tcolorbox): 'tcblistings.code.tex' version '6.0.1'
 (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count366
-\lst@gtempboxa=\box92
-\lst@token=\toks53
-\lst@length=\count367
-\lst@currlwidth=\dimen341
-\lst@column=\count368
-\lst@pos=\count369
-\lst@lostspace=\dimen342
-\lst@width=\dimen343
-\lst@newlines=\count370
-\lst@lineno=\count371
-\lst@maxwidth=\dimen344
+\lst@mode=\count363
+\lst@gtempboxa=\box90
+\lst@token=\toks51
+\lst@length=\count364
+\lst@currlwidth=\dimen327
+\lst@column=\count365
+\lst@pos=\count366
+\lst@lostspace=\dimen328
+\lst@width=\dimen329
+\lst@newlines=\count367
+\lst@lineno=\count368
+\lst@maxwidth=\dimen330
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count372
-\lst@skipnumbers=\count373
-\lst@framebox=\box93
+\c@lstnumber=\count369
+\lst@skipnumbers=\count370
+\lst@framebox=\box91
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
@@ -1153,7 +1099,7 @@ Library (tcolorbox): 'tcbprocessing.code.tex' version '6.0.1'
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 ))
-\c@tcblisting=\count374
+\c@tcblisting=\count371
 ))
 (/usr/local/texlive/2023/texmf-dist/tex/latex/listingsutf8/listingsutf8.sty
 Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
@@ -1186,11 +1132,11 @@ LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
 (Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen345
-\WF@size=\dimen346
-\c@WF@wrappedlines=\count375
-\WF@box=\box94
-\WF@everypar=\toks54
+\wrapoverhang=\dimen331
+\WF@size=\dimen332
+\c@WF@wrappedlines=\count372
+\WF@box=\box92
+\WF@everypar=\toks52
 Package: wrapfig 2003/01/31  v 3.6
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/ctable/ctable.sty
@@ -1200,14 +1146,25 @@ le and figure floats using key/value directives
 (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 )
+(/usr/local/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks53
+\XKV@tempa@toks=\toks54
+)
+\XKV@depth=\count373
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen347
-\TX@old@table=\dimen348
-\TX@old@col=\dimen349
-\TX@target=\dimen350
-\TX@delta=\dimen351
-\TX@cols=\count376
+\TX@col@width=\dimen333
+\TX@old@table=\dimen334
+\TX@old@col=\dimen335
+\TX@target=\dimen336
+\TX@delta=\dimen337
+\TX@cols=\count374
 \TX@ftn=\toks55
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/rotating.sty
@@ -1216,36 +1173,36 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count377
+\c@r@tfl@t=\count375
 \rotFPtop=\skip74
 \rotFPbot=\skip75
-\rot@float@box=\box95
+\rot@float@box=\box93
 \rot@mess@toks=\toks56
 )
 
 Package ctable Warning:  Transparency disabled: incompatible with tikz package 
  on input line 36.
 
-\@CTframesep=\dimen352
-\@dfltCTframesep=\dimen353
-\@CTframerule=\dimen354
-\@dfltCTframerule=\dimen355
-\@CTwidth=\dimen356
-\@dfltCTwidth=\dimen357
-\@CTcaptionskip=\dimen358
-\@dfltCTcaptionskip=\dimen359
-\@CTmaxwidth=\dimen360
-\@dfltCTmaxwidth=\dimen361
-\@CTmincapwidth=\dimen362
-\@dfltCTmincapwidth=\dimen363
-\@CTfooterwidth=\dimen364
-\@dfltCTfooterwidth=\dimen365
-\@CTw=\dimen366
-\@CTfloatwidth=\dimen367
-\@CToldsep=\dimen368
-\@CToldrule=\dimen369
-\CT@t=\box96
-\@CTcurftwidth=\dimen370
+\@CTframesep=\dimen338
+\@dfltCTframesep=\dimen339
+\@CTframerule=\dimen340
+\@dfltCTframerule=\dimen341
+\@CTwidth=\dimen342
+\@dfltCTwidth=\dimen343
+\@CTcaptionskip=\dimen344
+\@dfltCTcaptionskip=\dimen345
+\@CTmaxwidth=\dimen346
+\@dfltCTmaxwidth=\dimen347
+\@CTmincapwidth=\dimen348
+\@dfltCTmincapwidth=\dimen349
+\@CTfooterwidth=\dimen350
+\@dfltCTfooterwidth=\dimen351
+\@CTw=\dimen352
+\@CTfloatwidth=\dimen353
+\@CToldsep=\dimen354
+\@CToldrule=\dimen355
+\CT@t=\box94
+\@CTcurftwidth=\dimen356
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2023/02/25 v3.4 ragged2e Package
 \CenteringLeftskip=\skip76
@@ -1265,13 +1222,13 @@ Package: ragged2e 2023/02/25 v3.4 ragged2e Package
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
-\@eurobox=\box97
+\@eurobox=\box95
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
 \FN@temptoken=\toks57
-\footnotemargin=\dimen371
-\@outputbox@depth=\dimen372
+\footnotemargin=\dimen357
+\@outputbox@depth=\dimen358
 Package footmisc Info: Declaring symbol style bringhurst on input line 695.
 Package footmisc Info: Declaring symbol style chicago on input line 703.
 Package footmisc Info: Declaring symbol style wiley on input line 712.
@@ -1281,67 +1238,67 @@ Package footmisc Info: Declaring symbol style lamport* on input line 743.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
 .
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 69.
+Package hyperref Info: Option `colorlinks' set `true' on input line 65.
 
 (./format/defs.tex
 \boxwidth=\skip90
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-18.
+13.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count378
-\l__pdf_internal_box=\box98
+\l__color_backend_stack_int=\count376
+\l__pdf_internal_box=\box96
 )
-(./02-lms-seminar-external.aux)
-\openout1 = `02-lms-seminar-external.aux'.
+(./01-lms-seminar-external.aux)
+\openout1 = `01-lms-seminar-external.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: custom
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
-* v-part:(T,H,B)=(113.81102pt, 256.07481pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
 * \paperwidth=597.50787pt
-* \paperheight=426.79134pt
+* \paperheight=845.04684pt
 * \textwidth=512.14963pt
-* \textheight=256.07481pt
+* \textheight=702.78308pt
 * \oddsidemargin=-29.59087pt
 * \evensidemargin=-29.59087pt
-* \topmargin=-33.59085pt
+* \topmargin=-62.04361pt
 * \headheight=71.13188pt
 * \headsep=4.0pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=25.0pt
-* \marginparwidth=59.0pt
+* \marginparwidth=35.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1353,16 +1310,16 @@ LaTeX Font Info:    ... okay on input line 118.
 
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count379
-\scratchdimen=\dimen373
-\scratchbox=\box99
-\nofMPsegments=\count380
-\nofMParguments=\count381
+\scratchcounter=\count377
+\scratchdimen=\dimen359
+\scratchbox=\box97
+\nofMPsegments=\count378
+\nofMParguments=\count379
 \everyMPshowfont=\toks58
-\MPscratchCnt=\count382
-\MPscratchDim=\dimen374
-\MPnumerator=\count383
-\makeMPintoPDFobject=\count384
+\MPscratchCnt=\count380
+\MPscratchDim=\dimen360
+\MPnumerator=\count381
+\makeMPintoPDFobject=\count382
 \everyMPtoPDFconversion=\toks59
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1381,21 +1338,21 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 118.
+Package hyperref Info: Link coloring ON on input line 113.
 
-(./02-lms-seminar-external.out) (./02-lms-seminar-external.out)
+(./01-lms-seminar-external.out) (./01-lms-seminar-external.out)
 \@outlinefile=\write5
-\openout5 = `02-lms-seminar-external.out'.
+\openout5 = `01-lms-seminar-external.out'.
 
-LaTeX Info: Redefining \celsius on input line 118.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 118
+LaTeX Info: Redefining \celsius on input line 113.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 113
 .
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 118.
-Package gensymb Info: Using \Omega for \ohm on input line 118.
+LaTeX Info: Redefining \ohm on input line 113.
+Package gensymb Info: Using \Omega for \ohm on input line 113.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -1403,124 +1360,127 @@ Package gensymb Warning: Not defining \micro.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 118.
+ on input line 113.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count385
+\c@lstlisting=\count383
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks60
 \inpenc@posthook=\toks61
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-119.
+114.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<images/hemery.png, id=43, 161.60374pt x 174.6525pt>
-File: images/hemery.png Graphic file (type png)
-<use images/hemery.png>
-Package pdftex.def Info: images/hemery.png  used on input line 135.
-(pdftex.def)             Requested size: 161.60335pt x 174.65207pt.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-36.
+28.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-136.
+128.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-136.
+128.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 136.
+(Font)              <10.95> on input line 128.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 136.
+(Font)              <8> on input line 128.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 136.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 136
+(Font)              <6> on input line 128.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 128
 .
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 136
+LaTeX Font Info:    Trying to load font information for U+msb on input line 128
 .
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
-36.
+28.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+<images/tanguy.jpg, id=43, 2406.9925pt x 2420.04124pt>
+File: images/tanguy.jpg Graphic file (type jpg)
+<use images/tanguy.jpg>
+Package pdftex.def Info: images/tanguy.jpg  used on input line 145.
+(pdftex.def)             Requested size: 2406.98665pt x 2420.03535pt.
 <format/lxipparis2.png, id=44, 610.1997pt x 220.4235pt>
 File: format/lxipparis2.png Graphic file (type png)
 <use format/lxipparis2.png>
-Package pdftex.def Info: format/lxipparis2.png  used on input line 156.
+Package pdftex.def Info: format/lxipparis2.png  used on input line 151.
 (pdftex.def)             Requested size: 204.85672pt x 74.00124pt.
 <format/lms.png, id=46, 403.0257pt x 331.7193pt>
 File: format/lms.png Graphic file (type png)
 <use format/lms.png>
-Package pdftex.def Info: format/lms.png  used on input line 156.
+Package pdftex.def Info: format/lms.png  used on input line 151.
 (pdftex.def)             Requested size: 76.8193pt x 63.22472pt.
 
 
 Package fancyhdr Warning: \headheight is too small (71.13188pt): 
-(fancyhdr)                Make it at least 78.08127pt, for example:
-(fancyhdr)                \setlength{\headheight}{78.08127pt}.
+(fancyhdr)                Make it at least 78.35127pt, for example:
+(fancyhdr)                \setlength{\headheight}{78.35127pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-6.94939pt}.
+(fancyhdr)                \addtolength{\topmargin}{-7.21939pt}.
 
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
-156.
+151.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 <format/lms-bg.jpg, id=49, 722.7pt x 406.51875pt>
 File: format/lms-bg.jpg Graphic file (type jpg)
 <use format/lms-bg.jpg>
-Package pdftex.def Info: format/lms-bg.jpg  used on input line 156.
-(pdftex.def)             Requested size: 834.6494pt x 469.47307pt.
+Package pdftex.def Info: format/lms-bg.jpg  used on input line 151.
+(pdftex.def)             Requested size: 1502.36452pt x 845.04684pt.
  [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/202
 3/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./format/lms-bg.jpg> <./format/lxi
-pparis2.png> <./format/lms.png> <./images/hemery.png>] (./02-lms-seminar-extern
+pparis2.png> <./format/lms.png> <./images/tanguy.jpg>] (./01-lms-seminar-extern
 al.aux)
-Package rerunfilecheck Info: File `02-lms-seminar-external.out' has not changed
+Package rerunfilecheck Info: File `01-lms-seminar-external.out' has not changed
 .
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 45053 strings out of 476025
- 1045397 string characters out of 5790018
- 1860388 words of memory out of 5000000
- 64705 multiletter control sequences out of 15000+600000
- 552987 words of font info for 68 fonts, out of 8000000 for 9000
+ 44172 strings out of 476025
+ 1028975 string characters out of 5790018
+ 1872388 words of memory out of 5000000
+ 63844 multiletter control sequences out of 15000+600000
+ 564116 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,15n,117p,752b,1062s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/lo
-cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 02-lms-seminar-external.pdf (1 page, 741688 bytes).
+ 99i,15n,96p,1158b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/lo
+cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texliv
+e/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/tex
+mf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2023/texmf-dist/fon
+ts/type1/public/lm/lmssbx10.pfb>
+Output written on 01-lms-seminar-external.pdf (1 page, 4103389 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
+ 92 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  14 JAN 2026 10:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  14 JAN 2026 09:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1422,11 +1422,11 @@ LaTeX Font Info:    Trying to load font information for OT1+lmss on input line
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<images/hemery.png, id=43, 161.60374pt x 174.6525pt>
-File: images/hemery.png Graphic file (type png)
-<use images/hemery.png>
-Package pdftex.def Info: images/hemery.png  used on input line 135.
-(pdftex.def)             Requested size: 161.60335pt x 174.65207pt.
+<images/tanguy.jpg, id=43, 2406.9925pt x 2420.04124pt>
+File: images/tanguy.jpg Graphic file (type jpg)
+<use images/tanguy.jpg>
+Package pdftex.def Info: images/tanguy.jpg  used on input line 135.
+(pdftex.def)             Requested size: 2406.98665pt x 2420.03535pt.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
 36.
 
@@ -1467,6 +1467,12 @@ LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
 36.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 146.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 146.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 146.
 <format/lxipparis2.png, id=44, 610.1997pt x 220.4235pt>
 File: format/lxipparis2.png Graphic file (type png)
 <use format/lxipparis2.png>
@@ -1501,26 +1507,27 @@ Package pdftex.def Info: format/lms-bg.jpg  used on input line 156.
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/202
 3/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./format/lms-bg.jpg> <./format/lxi
-pparis2.png> <./format/lms.png> <./images/hemery.png>] (./02-lms-seminar-extern
+pparis2.png> <./format/lms.png> <./images/tanguy.jpg>] (./02-lms-seminar-extern
 al.aux)
 Package rerunfilecheck Info: File `02-lms-seminar-external.out' has not changed
 .
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 45053 strings out of 476025
- 1045397 string characters out of 5790018
+ 45096 strings out of 476025
+ 1045971 string characters out of 5790018
  1860388 words of memory out of 5000000
- 64705 multiletter control sequences out of 15000+600000
- 552987 words of font info for 68 fonts, out of 8000000 for 9000
+ 64739 multiletter control sequences out of 15000+600000
+ 581896 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,117p,752b,1062s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/lo
-cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 02-lms-seminar-external.pdf (1 page, 741688 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/lo
+cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texliv
+e/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on 02-lms-seminar-external.pdf (1 page, 4062702 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 81 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
