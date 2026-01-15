@@ -22,14 +22,14 @@ This wiki serves as a central hub for the seminar series of the [Laboratoire de 
 
 :::: {.talk-card}
 
-### [January 15, 2026] Sébastien Merkel (Université de Lille)
+### [January 22, 2026] Samuel Hemery (ISAE-ENSMA)
 
-**Date and Place:** January 15, 2026 at the Pole Mecanique amphitheatre <br>
-**Title:** Plasticity, deformation and microstructures under deep planetary interior conditions
+**Date and Place:** January 22, 2026 at the Pole Mecanique amphitheatre <br>
+**Title:** From cyclic deformation to fatigue crack nucleation at basal twist grain boundaries in the Ti-6Al-4V titanium alloy
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0115-SebastienMerkel/01-lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0122-Samuel-Hemery/01-lms-seminar-external.pdf){.button target="_blank"}
 
 <!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
 

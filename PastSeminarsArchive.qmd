@@ -9,6 +9,19 @@ format:
 
 :::: {.talk-card}
 
+### [January 15, 2026] Sébastien Merkel (Université de Lille)
+
+**Date and Place:** January 15, 2026 at the Pole Mecanique amphitheatre <br>
+**Title:** Plasticity, deformation and microstructures under deep planetary interior conditions
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0115-SebastienMerkel/01-lms-seminar-external.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/S6CjBQLrKbHEFag){.button target="_blank"}
+
+:::
+
 ### [January 08, 2026] Thao (Vicky) Nguyen (Johns Hopkins University)
 
 **Title:** Modeling the Unique Thermomechanical Behaviors of Liquid Crystal Elastomers
