@@ -11,7 +11,6 @@ format:
 
 ### [January 15, 2026] Sébastien Merkel (Université de Lille)
 
-**Date and Place:** January 15, 2026 at the Pole Mecanique amphitheatre <br>
 **Title:** Plasticity, deformation and microstructures under deep planetary interior conditions
 
 ::: {.button}
@@ -21,6 +20,9 @@ format:
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/S6CjBQLrKbHEFag){.button target="_blank"}
 
 :::
+::::
+
+:::: {.talk-card}
 
 ### [January 08, 2026] Thao (Vicky) Nguyen (Johns Hopkins University)
 
