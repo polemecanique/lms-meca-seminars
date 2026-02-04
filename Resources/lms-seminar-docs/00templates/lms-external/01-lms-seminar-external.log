@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  14 JAN 2026 16:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  4 FEB 2026 11:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1379,62 +1379,25 @@ LaTeX Font Info:    Trying to load font information for OT1+lmss on input line
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-37.
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-137.
+ []
 
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-137.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 137.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 137.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 137.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 137
-.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 137
-.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
-37.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
-<images/hemery.png, id=43, 161.60374pt x 174.6525pt>
-File: images/hemery.png Graphic file (type png)
-<use images/hemery.png>
-Package pdftex.def Info: images/hemery.png  used on input line 145.
-(pdftex.def)             Requested size: 161.60335pt x 174.65207pt.
+<images/freeman.jpg, id=43, 166.77692pt x 166.77692pt>
+File: images/freeman.jpg Graphic file (type jpg)
+<use images/freeman.jpg>
+Package pdftex.def Info: images/freeman.jpg  used on input line 147.
+(pdftex.def)             Requested size: 166.77649pt x 166.77649pt.
 <format/lxipparis2.png, id=44, 610.1997pt x 220.4235pt>
 File: format/lxipparis2.png Graphic file (type png)
 <use format/lxipparis2.png>
-Package pdftex.def Info: format/lxipparis2.png  used on input line 151.
+Package pdftex.def Info: format/lxipparis2.png  used on input line 153.
 (pdftex.def)             Requested size: 204.85672pt x 74.00124pt.
 <format/lms.png, id=46, 403.0257pt x 331.7193pt>
 File: format/lms.png Graphic file (type png)
 <use format/lms.png>
-Package pdftex.def Info: format/lms.png  used on input line 151.
+Package pdftex.def Info: format/lms.png  used on input line 153.
 (pdftex.def)             Requested size: 76.8193pt x 63.22472pt.
-
 
 Package fancyhdr Warning: \headheight is too small (71.13188pt): 
 (fancyhdr)                Make it at least 78.35127pt, for example:
@@ -1444,48 +1407,46 @@ Package fancyhdr Warning: \headheight is too small (71.13188pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.21939pt}.
 
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
-151.
+153.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<format/lms-bg-1-portrait.png, id=49, 2367.0834pt x 2073.1854pt>
-File: format/lms-bg-1-portrait.png Graphic file (type png)
-<use format/lms-bg-1-portrait.png>
-Package pdftex.def Info: format/lms-bg-1-portrait.png  used on input line 151.
-(pdftex.def)             Requested size: 964.83986pt x 845.04684pt.
+</Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/
+lms/lms-bg-1-portrait.png, id=49, 597.432pt x 845.3181pt>
+File: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg
+-img/lms/lms-bg-1-portrait.png Graphic file (type png)
+<use /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-
+img/lms/lms-bg-1-portrait.png>
+Package pdftex.def Info: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Te
+mplates/00-logos/bg-img/lms/lms-bg-1-portrait.png  used on input line 153.
+(pdftex.def)             Requested size: 895.92702pt x 1267.57027pt.
  [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/202
-3/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2023/texmf-di
-st/fonts/enc/dvips/lm/lm-ts1.enc} <./format/lms-bg-1-portrait.png
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./format/lms-bg-1-portrait.p
-ng): large interlaced PNG might cause out of memory (use non-interlaced PNG to 
-fix this)
-> <./format/lxipparis2.png> <./format/lms.png> <./images/hemery.png>]
-(./01-lms-seminar-external.aux)
+3/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage
+/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png> <./forma
+t/lxipparis2.png> <./format/lms.png> <./images/freeman.jpg>] (./01-lms-seminar-
+external.aux)
 Package rerunfilecheck Info: File `01-lms-seminar-external.out' has not changed
 .
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 44163 strings out of 476025
- 1028900 string characters out of 5790018
- 1874388 words of memory out of 5000000
- 63838 multiletter control sequences out of 15000+600000
- 553012 words of font info for 68 fonts, out of 8000000 for 9000
+ 44062 strings out of 476025
+ 1027498 string characters out of 5790018
+ 1873388 words of memory out of 5000000
+ 63778 multiletter control sequences out of 15000+600000
+ 532286 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,15n,96p,1156b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/lo
-cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive
-/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texm
-f-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fon
-ts/type1/public/lm/lmssbx10.pfb>
-Output written on 01-lms-seminar-external.pdf (1 page, 23590713 bytes).
+ 99i,15n,96p,752b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/lo
+cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texliv
+e/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on 01-lms-seminar-external.pdf (1 page, 11856936 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 82 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -25,11 +25,28 @@ This wiki serves as a central hub for the seminar series of the [Laboratoire de 
 ### [February 05, 2026] Felicity Freeman (University of Sheffield)
 
 **Date and Place:** February 05, 2026 at the Pole Mecanique amphitheatre <br>
-**Title:** tba
+**Title:** Microstructural Control for Functional Grading 
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0205-FelicityFreeman/01-lms-seminar-external.pdf){.button target="_blank"}
+
+<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
+
+:::
+
+::::
+
+:::: {.talk-card}
+
+### [February 19, 2026] Anne Tanguy (LaMCoS, INSA Lyon/ONERA, U. Paris-Saclay/LMS, Ecole Polytechnique)
+
+**Date and Place:** February 19, 2026 at the Pole Mecanique amphitheatre <br>
+**Title:** A mechanical description of thermal conductivity and its applications
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0219-AnneTanguy/01-lms-seminar-external.pdf){.button target="_blank"}
 
 <!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
 
