@@ -22,18 +22,20 @@ This wiki serves as a central hub for the seminar series of the [Laboratoire de 
 
 :::: {.talk-card}
 
-### [February 19, 2026] Anne Tanguy (LaMCoS, INSA Lyon/ONERA, U. Paris-Saclay/LMS, Ecole Polytechnique)
+### [March 19, 2026] Rémy Gauthier (INSA Lyon)
 
-**Date and Place:** February 19, 2026 at the Pole Mecanique amphitheatre <br>
-**Title:** A mechanical description of thermal conductivity and its applications
+**Date and Place:** March 19, 2026 at the Pole Mecanique amphitheatre <br>
+**Title:** Bone mechanobiology: toward new tools to learn more
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0219-AnneTanguy/01-lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Full anouncement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0319-RemyGauthier/01-lms-seminar-external.pdf){.button target="_blank"}
 
 <!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
 
 :::
+
+![](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0319-RemyGauthier/02-lms-seminar-external.png){fig-align="center" width="100%"}
 
 ::::
 
@@ -41,8 +43,4 @@ Access the full schedule for the current semester here -> [**Schedule**](Schedul
 
 Access the previous seminars and recordings here -> [**Archive**](PastSeminarsArchive.qmd)
 
-<div style="width: full; aspect-ratio: 16 / 9; overflow: hidden;">
-  <img src="Resources/Images/burigede.jpeg" style="width: 100%; object-fit: cover;">
-</div>
-<br>
 [**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.
