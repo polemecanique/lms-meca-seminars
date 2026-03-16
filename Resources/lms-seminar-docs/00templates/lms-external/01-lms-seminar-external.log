@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  13 MAR 2026 10:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  16 MAR 2026 08:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1430,17 +1430,17 @@ Package rerunfilecheck Info: File `01-lms-seminar-external.out' has not changed
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 44061 strings out of 476025
- 1027473 string characters out of 5790018
+ 44062 strings out of 476025
+ 1027489 string characters out of 5790018
  1873388 words of memory out of 5000000
- 63778 multiletter control sequences out of 15000+600000
- 532286 words of font info for 41 fonts, out of 8000000 for 9000
+ 63779 multiletter control sequences out of 15000+600000
+ 535001 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,96p,752b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/lo
 cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texliv
 e/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 01-lms-seminar-external.pdf (1 page, 11824464 bytes).
+Output written on 01-lms-seminar-external.pdf (1 page, 11824964 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
