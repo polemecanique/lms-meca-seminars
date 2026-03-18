@@ -43,4 +43,4 @@ Access the full schedule for the current semester here -> [**Schedule**](Schedul
 
 Access the previous seminars and recordings here -> [**Archive**](PastSeminarsArchive.qmd)
 
-[**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.
+[**Miscellaneous**](AdditionalResources.qmd): Additional information and tools to support your daily scientific activities.mec

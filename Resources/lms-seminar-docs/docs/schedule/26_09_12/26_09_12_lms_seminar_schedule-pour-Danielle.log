@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  18 MAR 2026 11:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  18 MAR 2026 08:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/docs/schedule/26_01_06/26_01_06_lms_seminar_schedule.tex
-(/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/docs/schedule/26_01_06/26_01_06_lms_seminar_schedule.tex
+**/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/docs/schedule/26_09_12/26_09_12_lms_seminar_schedule-pour-Danielle.tex
+(/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/docs/schedule/26_09_12/26_09_12_lms_seminar_schedule-pour-Danielle.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -932,8 +932,8 @@ File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count375
 \l__pdf_internal_box=\box95
-) (./26_01_06_lms_seminar_schedule.aux)
-\openout1 = `26_01_06_lms_seminar_schedule.aux'.
+) (./26_09_12_lms_seminar_schedule-pour-Danielle.aux)
+\openout1 = `26_09_12_lms_seminar_schedule-pour-Danielle.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
 LaTeX Font Info:    ... okay on input line 110.
@@ -1014,9 +1014,9 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring ON on input line 110.
- (./26_01_06_lms_seminar_schedule.out) (./26_01_06_lms_seminar_schedule.out)
+ (./26_09_12_lms_seminar_schedule-pour-Danielle.out) (./26_09_12_lms_seminar_schedule-pour-Danielle.out)
 \@outlinefile=\write5
-\openout5 = `26_01_06_lms_seminar_schedule.out'.
+\openout5 = `26_09_12_lms_seminar_schedule-pour-Danielle.out'.
 
 LaTeX Info: Redefining \celsius on input line 110.
 Package gensymb Info: Faking symbols for \degree and \celsius on input line 110.
@@ -1113,20 +1113,20 @@ Package pdftex.def Info: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Tem
 (pdftex.def)             Requested size: 895.92702pt x 1267.57027pt.
 [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png> <./format/lxipparis2.png> <./format/lms.png>] (./26_01_06_lms_seminar_schedule.aux)
-Package rerunfilecheck Info: File `26_01_06_lms_seminar_schedule.out' has not changed.
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png> <./format/lxipparis2.png> <./format/lms.png>] (./26_09_12_lms_seminar_schedule-pour-Danielle.aux)
+Package rerunfilecheck Info: File `26_09_12_lms_seminar_schedule-pour-Danielle.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  44020 strings out of 476025
- 1027315 string characters out of 5790018
+ 1027553 string characters out of 5790018
  1876388 words of memory out of 5000000
  63704 multiletter control sequences out of 15000+600000
  553221 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,15n,96p,915b,726s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,15n,96p,929b,726s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 26_01_06_lms_seminar_schedule.pdf (1 page, 11751936 bytes).
+Output written on 26_09_12_lms_seminar_schedule-pour-Danielle.pdf (1 page, 11751603 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream

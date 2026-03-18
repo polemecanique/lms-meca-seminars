@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  18 MAR 2026 11:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  18 MAR 2026 09:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/docs/schedule/26_01_06/26_01_06_lms_seminar_schedule.tex
-(/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/docs/schedule/26_01_06/26_01_06_lms_seminar_schedule.tex
+**/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/docs/schedule/27-01-06/27-01-06-lms-seminar-schedule.tex
+(/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/docs/schedule/27-01-06/27-01-06-lms-seminar-schedule.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -925,34 +925,34 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 64.
  (./format/defs.tex
 \boxwidth=\skip90
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 110.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 124.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count375
 \l__pdf_internal_box=\box95
-) (./26_01_06_lms_seminar_schedule.aux)
-\openout1 = `26_01_06_lms_seminar_schedule.aux'.
+) (./27-01-06-lms-seminar-schedule.aux)
+\openout1 = `27-01-06-lms-seminar-schedule.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1013,25 +1013,25 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 110.
- (./26_01_06_lms_seminar_schedule.out) (./26_01_06_lms_seminar_schedule.out)
+Package hyperref Info: Link coloring ON on input line 124.
+ (./27-01-06-lms-seminar-schedule.out) (./27-01-06-lms-seminar-schedule.out)
 \@outlinefile=\write5
-\openout5 = `26_01_06_lms_seminar_schedule.out'.
+\openout5 = `27-01-06-lms-seminar-schedule.out'.
 
-LaTeX Info: Redefining \celsius on input line 110.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 110.
+LaTeX Info: Redefining \celsius on input line 124.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 124.
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 110.
-Package gensymb Info: Using \Omega for \ohm on input line 110.
+LaTeX Info: Redefining \ohm on input line 124.
+Package gensymb Info: Using \Omega for \ohm on input line 124.
 
 Package gensymb Warning: Not defining \micro.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
- on input line 110.
+ on input line 124.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
@@ -1043,60 +1043,60 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks59
 \inpenc@posthook=\toks60
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 111.
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 125.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 121.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 135.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 121.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 135.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 121.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 135.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 121.
+(Font)              <14.4> on input line 135.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 121.
+(Font)              <10> on input line 135.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 121.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 121.
+(Font)              <7> on input line 135.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 135.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 121.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 135.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+stmry on input line 121.
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 135.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
-Overfull \hbox (13.77359pt too wide) in paragraph at lines 121--152
+Overfull \hbox (13.77359pt too wide) in paragraph at lines 135--182
  [] 
  []
 
 
-Overfull \hbox (52.45273pt too wide) in paragraph at lines 156--160
+Overfull \hbox (52.45273pt too wide) in paragraph at lines 186--190
  [] 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 161.
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 191.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 <format/lxipparis2.png, id=45, 610.1997pt x 220.4235pt>
 File: format/lxipparis2.png Graphic file (type png)
 <use format/lxipparis2.png>
-Package pdftex.def Info: format/lxipparis2.png  used on input line 165.
+Package pdftex.def Info: format/lxipparis2.png  used on input line 195.
 (pdftex.def)             Requested size: 204.85672pt x 74.00124pt.
 <format/lms.png, id=47, 403.0257pt x 331.7193pt>
 File: format/lms.png Graphic file (type png)
 <use format/lms.png>
-Package pdftex.def Info: format/lms.png  used on input line 165.
+Package pdftex.def Info: format/lms.png  used on input line 195.
 (pdftex.def)             Requested size: 76.8193pt x 63.22472pt.
 
 
@@ -1109,24 +1109,24 @@ Package fancyhdr Warning: \headheight is too small (71.13188pt):
 </Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png, id=48, 597.432pt x 845.3181pt>
 File: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png Graphic file (type png)
 <use /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png>
-Package pdftex.def Info: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png  used on input line 165.
+Package pdftex.def Info: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png  used on input line 195.
 (pdftex.def)             Requested size: 895.92702pt x 1267.57027pt.
 [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png> <./format/lxipparis2.png> <./format/lms.png>] (./26_01_06_lms_seminar_schedule.aux)
-Package rerunfilecheck Info: File `26_01_06_lms_seminar_schedule.out' has not changed.
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png> <./format/lxipparis2.png> <./format/lms.png>] (./27-01-06-lms-seminar-schedule.aux)
+Package rerunfilecheck Info: File `27-01-06-lms-seminar-schedule.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 44020 strings out of 476025
- 1027315 string characters out of 5790018
- 1876388 words of memory out of 5000000
- 63704 multiletter control sequences out of 15000+600000
+ 44023 strings out of 476025
+ 1027331 string characters out of 5790018
+ 1875388 words of memory out of 5000000
+ 63707 multiletter control sequences out of 15000+600000
  553221 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,96p,915b,726s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 26_01_06_lms_seminar_schedule.pdf (1 page, 11751936 bytes).
+Output written on 27-01-06-lms-seminar-schedule.pdf (1 page, 11748435 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
