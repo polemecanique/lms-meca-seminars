@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  18 MAR 2026 09:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  20 MAR 2026 11:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1120,13 +1120,13 @@ Package rerunfilecheck Info: File `26-09-12-lms-seminar-schedule.out' has not ch
 Here is how much of TeX's memory you used:
  44023 strings out of 476025
  1027331 string characters out of 5790018
- 1869388 words of memory out of 5000000
+ 1870388 words of memory out of 5000000
  63707 multiletter control sequences out of 15000+600000
  553221 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,96p,915b,726s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 26-09-12-lms-seminar-schedule.pdf (1 page, 11748366 bytes).
+Output written on 26-09-12-lms-seminar-schedule.pdf (1 page, 11748811 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
