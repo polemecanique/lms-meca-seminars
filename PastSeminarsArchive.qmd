@@ -7,6 +7,40 @@ format:
 
 ## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past talks
 
+This page serves as an archive of past talks in the LMS seminar series. It includes links to the announcements and recordings (when available) of the past seminars.
+
+:::: {.talk-card}
+
+### Rémy Gauthier (INSA Lyon)
+
+**Title:** Bone mechanobiology: toward new tools to learn more
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0319-RemyGauthier/01-lms-seminar-external.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/tp2Smk32k5XQYXc){.button target="_blank"}
+
+:::
+
+::::
+
+:::: {.talk-card}
+
+### Claude Delangle (Conservatoire de Paris)
+
+**Title:** Les voies du saxophone
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](/Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0312-ClaudeDelangle/AfficheSemCD.pdf){.button target="_blank"}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/bKRQAGZHmcYkgqa){.button target="_blank"}
+
+:::
+
+::::
+
 :::: {.talk-card}
 
 ### Anne Tanguy (LaMCoS, INSA Lyon/ONERA, U. Paris-Saclay/LMS, Ecole Polytechnique)
@@ -15,7 +49,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0219-AnneTanguy/01-lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0219-AnneTanguy/01-lms-seminar-external.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/SzW9z8rZH3x48jZ){.button target="_blank"}
 
@@ -31,7 +65,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0205-FelicityFreeman/01-lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0205-FelicityFreeman/01-lms-seminar-external.pdf){.button target="_blank"}
 
 <!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
 
@@ -47,7 +81,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0122-Samuel-Hemery/01-lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0122-Samuel-Hemery/01-lms-seminar-external.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/zEwkaE6RS5ToiNR){.button target="_blank"}
 
@@ -63,7 +97,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0115-SebastienMerkel/01-lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0115-SebastienMerkel/01-lms-seminar-external.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/S6CjBQLrKbHEFag){.button target="_blank"}
 
@@ -78,7 +112,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0107-VickyNguyen/01meca-seminar.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0107-VickyNguyen/01meca-seminar.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"}
 
@@ -94,7 +128,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](https://lms.ip-paris.fr/actualites/modeling-applied-mechanics-symposium-honour-patrick-le-tallec){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](https://lms.ip-paris.fr/actualites/modeling-applied-mechanics-symposium-honour-patrick-le-tallec){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Program](https://lms.ip-paris.fr/sites/lms/files/actualites/Program-LMS%20Symposium%20in%20honour%20Patrick%20Le%20Tallec.pdf){.button target="_blank"}
 
@@ -110,7 +144,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1204-internal-architected/01lms-seminar-internal.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1204-internal-architected/01lms-seminar-internal.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/xZ7CanJt3itTNQf){.button target="_blank"}
 
@@ -126,7 +160,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1120-VitoRubino/01-lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1120-VitoRubino/01-lms-seminar-external.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Slides](https://sdrive.cnrs.fr/s/Dpy3qaj3A5NggXN){.button target="_blank"}
 
@@ -142,7 +176,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1106-internal-microstructures/01lms-seminar-internal.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1106-internal-microstructures/01lms-seminar-internal.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/Xiszf9rxsFZ8KzP){.button target="_blank"}
 
@@ -158,7 +192,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1016-RianSeghir/01lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1016-RianSeghir/01lms-seminar-external.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/bpbnsH2NrYD4sn7){.button target="_blank"}
 
@@ -174,7 +208,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1009-BurigedeLiu/01lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1009-BurigedeLiu/01lms-seminar-external.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/F83JCszERFaYiFc){.button target="_blank"}
 
@@ -190,7 +224,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1002-JonathanCormier/01lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-1002-JonathanCormier/01lms-seminar-external.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/byzeBfe2EBkoDaq){.button target="_blank"}
 
@@ -206,7 +240,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-0924-lms-internal-multiphysics/lms-internal-multiphysics.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-0924-lms-internal-multiphysics/lms-internal-multiphysics.pdf){.button target="_blank"}
 
 <!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/H7FDm7mdjr37dzD){.button target="_blank"} -->
 
@@ -222,7 +256,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-0918-ThomasCornelius/cornelius.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-0918-ThomasCornelius/cornelius.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/H7FDm7mdjr37dzD){.button target="_blank"}
 
@@ -237,7 +271,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-0904-TheodoreCherriere/cherriere.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25-0904-TheodoreCherriere/cherriere.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/pEPm3rjLwFrZe97){.button target="_blank"}
 
@@ -252,7 +286,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0703_RobStyle/style.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0703_RobStyle/style.pdf){.button target="_blank"}
 
 :::
 
@@ -266,7 +300,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0626_Kostas/kostas.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0626_Kostas/kostas.pdf){.button target="_blank"}
 
 :::
 
@@ -279,7 +313,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0619_FrancoisBarthelat/barthelat.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0619_FrancoisBarthelat/barthelat.pdf){.button target="_blank"}
 
 :::
 
@@ -292,7 +326,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](){.button target="_blank"}
 
 :::
 
@@ -305,7 +339,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0605_SamuelForest/forest.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0605_SamuelForest/forest.pdf){.button target="_blank"}
 
 :::
 
@@ -318,7 +352,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0522_ChristosVassilicos/vassilicos.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0522_ChristosVassilicos/vassilicos.pdf){.button target="_blank"}
 
 :::
 
@@ -331,7 +365,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0515_MinWu/wu.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0515_MinWu/wu.pdf){.button target="_blank"}
 
 :::
 
@@ -344,7 +378,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0408_ChristianFranck/franck.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0408_ChristianFranck/franck.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/3Sr4SYF7KWCW5xE){.button target="_blank"}
 
@@ -360,7 +394,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0320_FrancoisHild/hild.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0320_FrancoisHild/hild.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/fWfTiXfT2sid4WW){.button target="_blank"}
 
@@ -376,7 +410,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0313_MariaTeresa/teresa.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0313_MariaTeresa/teresa.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/6P8LBtENDWjcKyA){.button target="_blank"}
 
@@ -392,7 +426,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0306_MarcGeers/geers.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0306_MarcGeers/geers.pdf){.button target="_blank"}
 
 :::
 
@@ -406,7 +440,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0227_JohnKolinski/kolinski.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0227_JohnKolinski/kolinski.pdf){.button target="_blank"}
 
 :::
 
@@ -420,7 +454,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/KSLepEsCJyeRxof){.button target="_blank"}
 
@@ -436,7 +470,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0206_ArthurLebee/lebee.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0206_ArthurLebee/lebee.pdf){.button target="_blank"}
 
 :::
 
@@ -450,7 +484,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0123_GwennouCoupier/coupier.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0123_GwennouCoupier/coupier.pdf){.button target="_blank"}
 
 :::
 
@@ -464,7 +498,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0113_AntonyBeris/beris.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0113_AntonyBeris/beris.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/XkS27xSAR86TKf7){.button target="_blank"}
 
@@ -480,7 +514,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0109_LaurentStainier/stainier.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/25_0109_LaurentStainier/stainier.pdf){.button target="_blank"}
 
 
 :::
@@ -495,7 +529,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/24_1912_MarieACharpagne/charpagne.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/24_1912_MarieACharpagne/charpagne.pdf){.button target="_blank"}
 
 :::
 
@@ -509,7 +543,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/24_1211_MECA_TrionaLally/lally.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/24_1211_MECA_TrionaLally/lally.pdf){.button target="_blank"}
 
 :::
 
@@ -523,7 +557,7 @@ format:
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Announcement](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/24_1205_PedroReis/24_1205_PedroResiJohnHutchinson.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/AbstractsProfileAnnouncements/24_1205_PedroReis/24_1205_PedroResiJohnHutchinson.pdf){.button target="_blank"}
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="recording"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/tErLGesFbNraARg){.button target="_blank"}
 

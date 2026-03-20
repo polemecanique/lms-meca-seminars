@@ -22,22 +22,26 @@ This wiki serves as a central hub for the seminar series of the [Laboratoire de 
 
 :::: {.talk-card}
 
-### [March 19, 2026] Rémy Gauthier (INSA Lyon)
+### Isaac Chenchiah (University of Bristol)
 
-**Date and Place:** March 19, 2026 at the Pole Mecanique amphitheatre <br>
-**Title:** Bone mechanobiology: toward new tools to learn more
+[announcement]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0326-IsaacChenchiah/01-lms-seminar-external.pdf
+[img]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0326-IsaacChenchiah/02-lms-seminar-external.png
+
+**Date and Place:** March 26, 2026 at the Pole Mecanique amphitheatre <br>
+**Title:** Morphing structures: From art to science
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Full anouncement](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0319-RemyGauthier/01-lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio][announcement]{.button target="_blank"}
 
 <!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
 
 :::
 
-![](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0319-RemyGauthier/02-lms-seminar-external.png){fig-align="center" width="100%"}
+[![][img]{fig-align="left" width="60%"}][img]
 
 ::::
+
 
 Access the full schedule for the current semester here -> [**Schedule**](Schedule.qmd)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  18 MAR 2026 11:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  20 MAR 2026 10:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1075,28 +1075,28 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+stmry on input line 121.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
-Overfull \hbox (13.77359pt too wide) in paragraph at lines 121--152
+Overfull \hbox (13.77359pt too wide) in paragraph at lines 121--149
  [] 
  []
 
 
-Overfull \hbox (52.45273pt too wide) in paragraph at lines 156--160
+Overfull \hbox (52.45273pt too wide) in paragraph at lines 153--157
  [] 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 161.
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 158.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 <format/lxipparis2.png, id=45, 610.1997pt x 220.4235pt>
 File: format/lxipparis2.png Graphic file (type png)
 <use format/lxipparis2.png>
-Package pdftex.def Info: format/lxipparis2.png  used on input line 165.
+Package pdftex.def Info: format/lxipparis2.png  used on input line 162.
 (pdftex.def)             Requested size: 204.85672pt x 74.00124pt.
 <format/lms.png, id=47, 403.0257pt x 331.7193pt>
 File: format/lms.png Graphic file (type png)
 <use format/lms.png>
-Package pdftex.def Info: format/lms.png  used on input line 165.
+Package pdftex.def Info: format/lms.png  used on input line 162.
 (pdftex.def)             Requested size: 76.8193pt x 63.22472pt.
 
 
@@ -1109,7 +1109,7 @@ Package fancyhdr Warning: \headheight is too small (71.13188pt):
 </Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png, id=48, 597.432pt x 845.3181pt>
 File: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png Graphic file (type png)
 <use /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png>
-Package pdftex.def Info: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png  used on input line 165.
+Package pdftex.def Info: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png  used on input line 162.
 (pdftex.def)             Requested size: 895.92702pt x 1267.57027pt.
 [1
 
@@ -1120,13 +1120,13 @@ Package rerunfilecheck Info: File `26_01_06_lms_seminar_schedule.out' has not ch
 Here is how much of TeX's memory you used:
  44020 strings out of 476025
  1027315 string characters out of 5790018
- 1876388 words of memory out of 5000000
+ 1874388 words of memory out of 5000000
  63704 multiletter control sequences out of 15000+600000
  553221 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,96p,915b,726s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 26_01_06_lms_seminar_schedule.pdf (1 page, 11751936 bytes).
+Output written on 26_01_06_lms_seminar_schedule.pdf (1 page, 11751519 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
