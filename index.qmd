@@ -24,13 +24,13 @@ This wiki serves as a central hub for the seminar series of the [Laboratoire de 
 
 ### Isaac Chenchiah (University of Bristol)
 
-[announcement]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0326-IsaacChenchiah/01-lms-seminar-external.pdf
-[img]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0326-IsaacChenchiah/02-lms-seminar-external.png
-
 **Date and Place:** March 26, 2026 at the Pole Mecanique amphitheatre <br>
 **Title:** Morphing structures: From art to science
 
 ::: {.button}
+
+[announcement]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0326-IsaacChenchiah/01-lms-seminar-external.pdf
+[img]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0326-IsaacChenchiah/02-lms-seminar-external.png
 
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio][announcement]{.button target="_blank"}
 
@@ -41,6 +41,52 @@ This wiki serves as a central hub for the seminar series of the [Laboratoire de 
 [![][img]{fig-align="left" width="60%"}][img]
 
 ::::
+
+:::: {.talk-card}
+
+### Franciso Lopez Jiménez (University of Colorado Boulder)
+
+[announcement1]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0402-FranciscoLopezJimenez/01-lms-seminar-external.pdf
+[img1]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0402-FranciscoLopezJimenez/02-lms-seminar-external.png
+
+**Date and Place:** April 02, 2026 at the Pole Mecanique amphitheatre <br>
+**Title:** Cellular solids under geometric frustration: Animal architecture and bio-inspired designs
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio][announcement1]{.button target="_blank"}
+
+<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
+
+:::
+
+[![][img1]{fig-align="left" width="60%"}][img1]
+
+::::
+
+
+:::: {.talk-card}
+
+### Tom Shearer (University of Manchester)
+
+[announcement2]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0416-TomShearer/01-lms-seminar-external.pdf
+[img2]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0416-TomShearer/02-lms-seminar-external.png
+
+**Date and Place:** April 16, 2026 at the Pole Mecanique amphitheatre <br>
+**Title:** Scaling up distributed quantities from the micro to the macro in mechanics and economics
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio][announcement2]{.button target="_blank"}
+
+<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
+
+:::
+
+[![][img2]{fig-align="left" width="60%"}][img2]
+
+::::
+
 
 
 Access the full schedule for the current semester here -> [**Schedule**](Schedule.qmd)

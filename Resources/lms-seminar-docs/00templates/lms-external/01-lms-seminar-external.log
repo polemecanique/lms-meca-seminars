@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  18 MAR 2026 13:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  24 MAR 2026 09:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1379,20 +1379,20 @@ LaTeX Font Info:    Trying to load font information for OT1+lmss on input line
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<images/chenchiah.jpeg, id=43, 2007.5pt x 2006.49625pt>
-File: images/chenchiah.jpeg Graphic file (type jpg)
-<use images/chenchiah.jpeg>
-Package pdftex.def Info: images/chenchiah.jpeg  used on input line 147.
-(pdftex.def)             Requested size: 2007.49512pt x 2006.49138pt.
+<images/shearer.png, id=43, 361.35pt x 361.35pt>
+File: images/shearer.png Graphic file (type png)
+<use images/shearer.png>
+Package pdftex.def Info: images/shearer.png  used on input line 145.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
 <format/lxipparis2.png, id=44, 610.1997pt x 220.4235pt>
 File: format/lxipparis2.png Graphic file (type png)
 <use format/lxipparis2.png>
-Package pdftex.def Info: format/lxipparis2.png  used on input line 153.
+Package pdftex.def Info: format/lxipparis2.png  used on input line 151.
 (pdftex.def)             Requested size: 204.85672pt x 74.00124pt.
 <format/lms.png, id=46, 403.0257pt x 331.7193pt>
 File: format/lms.png Graphic file (type png)
 <use format/lms.png>
-Package pdftex.def Info: format/lms.png  used on input line 153.
+Package pdftex.def Info: format/lms.png  used on input line 151.
 (pdftex.def)             Requested size: 76.8193pt x 63.22472pt.
 
 
@@ -1404,7 +1404,7 @@ Package fancyhdr Warning: \headheight is too small (71.13188pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.21939pt}.
 
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
-153.
+151.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1415,7 +1415,7 @@ File: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg
 <use /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-
 img/lms/lms-bg-1-portrait.png>
 Package pdftex.def Info: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Te
-mplates/00-logos/bg-img/lms/lms-bg-1-portrait.png  used on input line 153.
+mplates/00-logos/bg-img/lms/lms-bg-1-portrait.png  used on input line 151.
 (pdftex.def)             Requested size: 895.92702pt x 1267.57027pt.
  [1
 
@@ -1423,24 +1423,24 @@ mplates/00-logos/bg-img/lms/lms-bg-1-portrait.png  used on input line 153.
 al/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/202
 3/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage
 /Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png> <./forma
-t/lxipparis2.png> <./format/lms.png> <./images/chenchiah.jpeg>] (./01-lms-semin
-ar-external.aux)
+t/lxipparis2.png> <./format/lms.png> <./images/shearer.png>] (./01-lms-seminar-
+external.aux)
 Package rerunfilecheck Info: File `01-lms-seminar-external.out' has not changed
 .
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 44070 strings out of 476025
- 1027678 string characters out of 5790018
- 1872388 words of memory out of 5000000
- 63784 multiletter control sequences out of 15000+600000
+ 44062 strings out of 476025
+ 1027500 string characters out of 5790018
+ 1873388 words of memory out of 5000000
+ 63779 multiletter control sequences out of 15000+600000
  537716 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,15n,96p,922b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,15n,96p,1300b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/lo
 cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texliv
 e/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 01-lms-seminar-external.pdf (1 page, 12489051 bytes).
+Output written on 01-lms-seminar-external.pdf (1 page, 12238973 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
