@@ -11,6 +11,25 @@ This page serves as an archive of past talks in the LMS seminar series. It inclu
 
 :::: {.talk-card}
 
+### Isaac Chenchiah (University of Bristol)
+
+**Title:** Morphing structures: From art to science
+
+::: {.button}
+
+[announcement]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0326-IsaacChenchiah/01-lms-seminar-external.pdf
+[img]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0326-IsaacChenchiah/02-lms-seminar-external.png
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio][announcement]{.button target="_blank"}
+
+<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
+
+:::
+
+::::
+
+:::: {.talk-card}
+
 ### Rémy Gauthier (INSA Lyon)
 
 **Title:** Bone mechanobiology: toward new tools to learn more
