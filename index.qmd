@@ -22,28 +22,6 @@ This wiki serves as a central hub for the seminar series of the [Laboratoire de 
 
 :::: {.talk-card}
 
-### Franciso Lopez Jiménez (University of Colorado Boulder)
-
-[announcement1]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0402-FranciscoLopezJimenez/01-lms-seminar-external.pdf
-[img1]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0402-FranciscoLopezJimenez/02-lms-seminar-external.png
-
-**Date and Place:** April 02, 2026 at the Pole Mecanique amphitheatre <br>
-**Title:** Cellular solids under geometric frustration: Animal architecture and bio-inspired designs
-
-::: {.button}
-
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio][announcement1]{.button target="_blank"}
-
-<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
-
-:::
-
-[![][img1]{fig-align="left" width="60%"}][img1]
-
-::::
-
-:::: {.talk-card}
-
 ### Minh-Son Pham (Imperial College London)
 
 [announcement3]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0403-MinhSonPham/01-lms-seminar-external.pdf
