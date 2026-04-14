@@ -11,6 +11,26 @@ This page serves as an archive of past talks in the LMS seminar series. It inclu
 
 :::: {.talk-card}
 
+### Minh-Son Pham (Imperial College London)
+
+[announcement]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0403-MinhSonPham/01-lms-seminar-external.pdf
+[img]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0403-MinhSonPham/02-lms-seminar-external.png
+
+**Title:** Self-similar metamaterials with spatial and temporal hierarchy
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0403-MinhSonPham/01-lms-seminar-external.pdf){.button target="_blank"}
+
+<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
+
+:::
+
+::::
+
+
+:::: {.talk-card}
+
 ### Franciso Lopez Jiménez (University of Colorado Boulder)
 
 **Title:** Cellular solids under geometric frustration: Animal architecture and bio-inspired designs
