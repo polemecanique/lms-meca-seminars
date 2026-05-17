@@ -22,23 +22,20 @@ This wiki serves as a central hub for the seminar series of the [Laboratoire de 
 
 :::: {.talk-card}
 
-### Tom Shearer (University of Manchester)
+### Anirudh Raju Natarajan (EPFL)
 
-[announcement2]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0416-TomShearer/01-lms-seminar-external.pdf
-[img2]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0416-TomShearer/02-lms-seminar-external.png
-
-**Date and Place:** April 16, 2026 at the Pole Mecanique amphitheatre <br>
-**Title:** Scaling up distributed quantities from the micro to the macro in mechanics and economics
+**Date and Place:** May 21, 2026 at the Pole Mecanique amphitheatre <br>
+**Title:** From electrons to microstructure: predicting properties of multi-principal element alloys through statistical mechanics and machine learning
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio][announcement2]{.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0521-AnirudhNatarajan/01-lms-seminar-external.pdf){.button target="_blank"}
 
 <!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
 
 :::
 
-[![][img2]{fig-align="left" width="60%"}][img2]
+[![](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0521-AnirudhNatarajan/02-lms-seminar-external.png){fig-align="left" width="60%"}](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0521-AnirudhNatarajan/02-lms-seminar-external.png)
 
 ::::
 
