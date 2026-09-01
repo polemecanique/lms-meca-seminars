@@ -1,6 +1,5 @@
 % !TeX spellcheck = en_us
 \documentclass[a4paper,11pt,fleqn]{article}
-
 \usepackage[left=1.50cm, right=1.50cm, top=3cm, bottom=1cm, 
 headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 \usepackage{fancyhdr}
@@ -100,7 +99,7 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 		\begin{tikzpicture}[remember picture,overlay]
 			\node[opacity=0.20, anchor=center, rotate=-90] 
 			at (current page.center) [xshift=0em, yshift=0em]
-			{\includegraphics[height=1.5\paperheight,keepaspectratio]{/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png}};
+			{\includegraphics[height=1.5\paperheight,keepaspectratio]{/Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf}};
 		\end{tikzpicture}
 	}
 }
@@ -111,12 +110,12 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 
 \newcommand{\lmsint}[2]{
 	\rowcolor{cyan}
-	\textcolor{docColor}{#1} & \textcolor{docColor}{lms internal:~#2} \\
+	\textcolor{docColor}{#1} & \textcolor{docColor}{[lms internal]~#2} \\
 }
 
 \newcommand{\meca}[2]{
 	\rowcolor{docColor!99}
-	\textcolor{white}{#1} & \textcolor{white}{meca:~#2} \\
+	\textcolor{white}{#1} & \textcolor{white}{[meca]~#2} \\
 }
 
 \setlength\arrayrulewidth{2pt}
@@ -135,27 +134,27 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 		\begin{tabular}{| p{3.5cm} p{14cm} |}
 			\hline
 
-			\lmsint{September 03}{Fabrication capabilities for experiments (Vignesh)} 
+			\lmsext{September 03}{Nicolas Auffray (Institut Jean le Rond d'Alembert, Sorbonne)} 
 			
-			\meca{September 10}{(t) Costantino Creton (ESPCI Paris)}
+			\meca{September 10}{Pole M{\'e}canique journ{\'e}e scientifique}
 			
-			\lmsext{September 17}{}
+			\lmsint{September 17}{Fabrication capabilities for experiments (Vignesh)}
 			
-			\lmsext{September 24}{(t) Alexander Erlich (University of Grenoble Alpes)}
+			\lmsext{September 24}{Alexander Erlich (University of Grenoble Alpes)}
 			
-			\lmsext{October 1}{}
+			\lmsint{October 1}{}
 			
-			\lmsint{October 8}{}
+			\lmsext{October 8}{Christelle Combescure (Saint-Cyr Co{\"e}tquidan Military Academy)}
 			
-			\lmsext{October 15}{}
+			\lmsext{October 15}{Gowtham Nimmal Haribabu (TU Delft)}
 			
 			\meca{November 05}{}
 			
-			\lmsext{November 12}{}
+			\lmsext{November 12}{Sathiskumar Ponnusami (City University of London)}
 			
-			\lmsext{November 19}{}
+			\lmsext{November 19}{Jorge Grasa (University of Zaragoza)}
 			
-			\lmsext{November 26}{}
+			\lmsext{November 26}{Adrian Buganza Tepole (Columbia University)}
 			
 			\meca{December 03}{}
 			
@@ -178,4 +177,4 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 	\end{center}
 	
 	
-\end{document}
+ \end{document}

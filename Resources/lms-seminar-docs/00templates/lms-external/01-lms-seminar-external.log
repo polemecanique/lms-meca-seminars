@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  17 MAY 2026 16:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  1 SEP 2026 11:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1379,11 +1379,11 @@ LaTeX Font Info:    Trying to load font information for OT1+lmss on input line
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<images/natarajan.png, id=43, 602.25pt x 410.53375pt>
-File: images/natarajan.png Graphic file (type png)
-<use images/natarajan.png>
-Package pdftex.def Info: images/natarajan.png  used on input line 145.
-(pdftex.def)             Requested size: 602.24852pt x 410.53275pt.
+<images/auffray.jpeg, id=43, 408.52625pt x 412.54124pt>
+File: images/auffray.jpeg Graphic file (type jpg)
+<use images/auffray.jpeg>
+Package pdftex.def Info: images/auffray.jpeg  used on input line 145.
+(pdftex.def)             Requested size: 408.52525pt x 412.54024pt.
 <format/lxipparis2.png, id=44, 610.1997pt x 220.4235pt>
 File: format/lxipparis2.png Graphic file (type png)
 <use format/lxipparis2.png>
@@ -1408,42 +1408,42 @@ LaTeX Font Info:    Trying to load font information for TS1+lmss on input line
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-</Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/
-lms/lms-bg-1-portrait.png, id=49, 597.432pt x 845.3181pt>
-File: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg
--img/lms/lms-bg-1-portrait.png Graphic file (type png)
-<use /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-
-img/lms/lms-bg-1-portrait.png>
-Package pdftex.def Info: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Te
-mplates/00-logos/bg-img/lms/lms-bg-1-portrait.png  used on input line 151.
-(pdftex.def)             Requested size: 895.92702pt x 1267.57027pt.
+</Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/
+lms/lms-bg-1-portrait.pdf, id=49, 597.23125pt x 845.1575pt>
+File: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg
+-img/lms/lms-bg-1-portrait.pdf Graphic file (type pdf)
+<use /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-
+img/lms/lms-bg-1-portrait.pdf>
+Package pdftex.def Info: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-te
+mplates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf  used on input line 151.
+(pdftex.def)             Requested size: 895.75354pt x 1267.57027pt.
  [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/202
 3/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage
-/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png> <./forma
-t/lxipparis2.png> <./format/lms.png> <./images/natarajan.png>] (./01-lms-semina
-r-external.aux)
+/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf> <./forma
+t/lxipparis2.png> <./format/lms.png> <./images/auffray.jpeg>] (./01-lms-seminar
+-external.aux)
 Package rerunfilecheck Info: File `01-lms-seminar-external.out' has not changed
 .
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 44062 strings out of 476025
- 1027522 string characters out of 5790018
+ 44071 strings out of 476025
+ 1027684 string characters out of 5790018
  1872388 words of memory out of 5000000
- 63779 multiletter control sequences out of 15000+600000
+ 63785 multiletter control sequences out of 15000+600000
  537716 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,15n,96p,1307b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,15n,96p,1006b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/lo
 cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texliv
 e/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 01-lms-seminar-external.pdf (1 page, 11803669 bytes).
+Output written on 01-lms-seminar-external.pdf (1 page, 899841 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 86 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)
 

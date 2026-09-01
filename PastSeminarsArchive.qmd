@@ -11,6 +11,25 @@ This page serves as an archive of past talks in the LMS seminar series. It inclu
 
 :::: {.talk-card}
 
+### Anirudh Raju Natarajan (EPFL)
+
+**Title:** From electrons to microstructure: predicting properties of multi-principal element alloys through statistical mechanics and machine learning
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0521-AnirudhNatarajan/01-lms-seminar-external.pdf){.button target="_blank"}
+
+<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
+
+:::
+
+[![](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0521-AnirudhNatarajan/02-lms-seminar-external.png){fig-align="left" width="60%"}](Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0521-AnirudhNatarajan/02-lms-seminar-external.png)
+
+::::
+
+
+:::: {.talk-card}
+
 ### Tom Shearer (University of Manchester)
 
 [announcement2]: Resources/lms-seminar-docs/docs/26-01-abstract-announcements/0416-TomShearer/01-lms-seminar-external.pdf
