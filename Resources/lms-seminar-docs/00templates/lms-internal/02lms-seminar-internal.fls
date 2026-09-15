@@ -1,8 +1,8 @@
-PWD /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-internal
+PWD /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-admin-logistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-internal
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-internal/02lms-seminar-internal.tex
+INPUT /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-admin-logistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-internal/02lms-seminar-internal.tex
 OUTPUT 02lms-seminar-internal.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -1517,7 +1517,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmss10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmss17.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmss12.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmss12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmr8.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmr6.tfm
@@ -1580,14 +1579,8 @@ INPUT ./format/lms.png
 INPUT format/lms.png
 INPUT ./format/lms.png
 INPUT ./format/lms.png
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ts1-lmss12.tfm
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT 02lms-seminar-internal.aux
 INPUT ./02lms-seminar-internal.out
 INPUT ./02lms-seminar-internal.out

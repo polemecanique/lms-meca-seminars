@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  2 DEC 2025 16:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  15 SEP 2026 18:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-internal/02lms-seminar-internal.tex
-(/Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-internal/02lms-seminar-internal.tex
+**/Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-admin-logistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-internal/02lms-seminar-internal.tex
+(/Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-admin-logistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-internal/02lms-seminar-internal.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -1132,28 +1132,25 @@ Package fancyhdr Warning: \headheight is too small (71.13188pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-6.94939pt}.
 
-LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 138.
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
-File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [1
+[1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./format/lxipparis2.png> <./format/lms.png>] (./02lms-seminar-internal.aux)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc} <./format/lxipparis2.png> <./format/lms.png>] (./02lms-seminar-internal.aux)
 Package rerunfilecheck Info: File `02lms-seminar-internal.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 44887 strings out of 476025
- 1042790 string characters out of 5790018
+ 44858 strings out of 476025
+ 1042153 string characters out of 5790018
  1857388 words of memory out of 5000000
- 64547 multiletter control sequences out of 15000+600000
- 552987 words of font info for 68 fonts, out of 8000000 for 9000
+ 64523 multiletter control sequences out of 15000+600000
+ 549875 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,15n,117p,910b,669s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,15n,117p,911b,644s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 02lms-seminar-internal.pdf (1 page, 628246 bytes).
+Output written on 02lms-seminar-internal.pdf (1 page, 628836 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 68 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  167 words of extra memory for PDF output out of 10000 (max. 10000000)
 
