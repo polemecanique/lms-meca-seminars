@@ -1,8 +1,8 @@
-PWD /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/docs/schedule/26_09_12
+PWD /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-admin-logistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/docs/schedule/26_09_12
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00AdminLogistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/docs/schedule/26_09_12/26-09-12-lms-seminar-schedule.tex
+INPUT /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-admin-logistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/docs/schedule/26_09_12/26-09-12-lms-seminar-schedule.tex
 OUTPUT 26-09-12-lms-seminar-schedule.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -1506,11 +1506,11 @@ INPUT ./format/lms.png
 INPUT format/lms.png
 INPUT ./format/lms.png
 INPUT ./format/lms.png
-INPUT /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png
-INPUT /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png
-INPUT /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png
-INPUT /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png
-INPUT /Users/kannan/Library/CloudStorage/Dropbox/Kannan/00Templates/00-logos/bg-img/lms/lms-bg-1-portrait.png
+INPUT /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf
+INPUT /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf
+INPUT /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf
+INPUT /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf
+INPUT /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
