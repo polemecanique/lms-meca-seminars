@@ -22,20 +22,20 @@ This wiki serves as a central hub for the seminar series of the [Laboratoire de 
 
 :::: {.talk-card}
 
-### LMS internal seminar (Moderator: Vignesh Kannan)
+### Alexander Erlich (LiPhy, Universite Grenoble Alpes)
 
-**Date and Place:** September 17, 2026 at the Pole Mecanique amphitheatre <br>
-**Title:** Fabrication across scales for mechanics and materials research: Current capabilities and future needs
+**Date and Place:** September 24, 2026 at the Pole Mecanique amphitheatre <br>
+**Title:** The geometric nature of residual stress in growing tissues
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-0917-internal/01-lms-seminar-internal.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-0924-AlexErlich/01-lms-seminar-external.pdf){.button target="_blank"}
 
 <!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
 
 :::
 
-[![](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-0917-internal/02-lms-seminar-internal.png){fig-align="left" width="60%"}](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-0917-internal/02-lms-seminar-internal.png)
+[![](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-0924-AlexErlich/02-lms-seminar-external.png){fig-align="left" width="60%"}](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-0924-AlexErlich/02-lms-seminar-external.png)
 
 ::::
 
