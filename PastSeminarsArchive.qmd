@@ -11,6 +11,23 @@ This page serves as an archive of past talks in the LMS seminar series. It inclu
 
 :::: {.talk-card}
 
+### Alexander Erlich (LiPhy, Universite Grenoble Alpes)
+
+**Date and Place:** September 24, 2026 at the Pole Mecanique amphitheatre <br>
+**Title:** The geometric nature of residual stress in growing tissues
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-0924-AlexErlich/01-lms-seminar-external.pdf){.button target="_blank"}
+
+<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
+
+:::
+
+::::
+
+:::: {.talk-card}
+
 ### LMS internal seminar (Moderator: Vignesh Kannan)
 
 **Title:** Fabrication across scales for mechanics and materials research: Current capabilities and future needs

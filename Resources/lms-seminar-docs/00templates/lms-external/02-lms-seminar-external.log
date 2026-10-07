@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  23 SEP 2026 10:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  7 OCT 2026 23:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1090,11 +1090,11 @@ LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 1
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<images/erlich.png, id=43, 879.285pt x 791.95876pt>
-File: images/erlich.png Graphic file (type png)
-<use images/erlich.png>
-Package pdftex.def Info: images/erlich.png  used on input line 135.
-(pdftex.def)             Requested size: 879.28287pt x 791.95683pt.
+<images/combescure.png, id=43, 188.705pt x 200.75pt>
+File: images/combescure.png Graphic file (type png)
+<use images/combescure.png>
+Package pdftex.def Info: images/combescure.png  used on input line 135.
+(pdftex.def)             Requested size: 188.70453pt x 200.7495pt.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 136.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1123,7 +1123,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+stmry on input line 136.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
-<format/lxipparis2.png, id=44, 610.1997pt x 220.4235pt>
+<format/lxipparis2.png, id=45, 610.1997pt x 220.4235pt>
 File: format/lxipparis2.png Graphic file (type png)
 <use format/lxipparis2.png>
 Package pdftex.def Info: format/lxipparis2.png  used on input line 156.
@@ -1152,22 +1152,22 @@ Package pdftex.def Info: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-tem
 (pdftex.def)             Requested size: 614.57799pt x 869.7611pt.
  [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf> <./format/lxipparis2.png> <./format/lms.png> <./images/erlich.png>] (./02-lms-seminar-external.aux)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf> <./format/lxipparis2.png> <./format/lms.png> <./images/combescure.png>] (./02-lms-seminar-external.aux)
 Package rerunfilecheck Info: File `02-lms-seminar-external.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 45058 strings out of 476025
- 1046589 string characters out of 5790018
+ 45059 strings out of 476025
+ 1046641 string characters out of 5790018
  1860388 words of memory out of 5000000
- 64709 multiletter control sequences out of 15000+600000
+ 64710 multiletter control sequences out of 15000+600000
  552987 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,117p,912b,1062s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 02-lms-seminar-external.pdf (1 page, 1794553 bytes).
+Output written on 02-lms-seminar-external.pdf (1 page, 821183 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
+ 81 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)

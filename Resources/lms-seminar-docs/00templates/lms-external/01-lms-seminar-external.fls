@@ -1453,10 +1453,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmss12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
-INPUT ./images/erlich.png
-INPUT images/erlich.png
-INPUT ./images/erlich.png
-INPUT ./images/erlich.png
+INPUT ./images/combescure.png
+INPUT images/combescure.png
+INPUT ./images/combescure.png
+INPUT ./images/combescure.png
 INPUT ./format/lxipparis2.png
 INPUT ./format/lxipparis2.png
 INPUT format/lxipparis2.png

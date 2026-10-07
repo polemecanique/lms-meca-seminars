@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  23 SEP 2026 10:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  7 OCT 2026 23:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1055,20 +1055,20 @@ LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 1
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<images/erlich.png, id=43, 879.285pt x 791.95876pt>
-File: images/erlich.png Graphic file (type png)
-<use images/erlich.png>
-Package pdftex.def Info: images/erlich.png  used on input line 152.
-(pdftex.def)             Requested size: 879.28287pt x 791.95683pt.
-<format/lxipparis2.png, id=44, 610.1997pt x 220.4235pt>
+<images/combescure.png, id=43, 188.705pt x 200.75pt>
+File: images/combescure.png Graphic file (type png)
+<use images/combescure.png>
+Package pdftex.def Info: images/combescure.png  used on input line 147.
+(pdftex.def)             Requested size: 188.70453pt x 200.7495pt.
+<format/lxipparis2.png, id=45, 610.1997pt x 220.4235pt>
 File: format/lxipparis2.png Graphic file (type png)
 <use format/lxipparis2.png>
-Package pdftex.def Info: format/lxipparis2.png  used on input line 158.
+Package pdftex.def Info: format/lxipparis2.png  used on input line 153.
 (pdftex.def)             Requested size: 204.85672pt x 74.00124pt.
 <format/lms.png, id=46, 403.0257pt x 331.7193pt>
 File: format/lms.png Graphic file (type png)
 <use format/lms.png>
-Package pdftex.def Info: format/lms.png  used on input line 158.
+Package pdftex.def Info: format/lms.png  used on input line 153.
 (pdftex.def)             Requested size: 76.8193pt x 63.22472pt.
 
 
@@ -1078,34 +1078,34 @@ Package fancyhdr Warning: \headheight is too small (71.13188pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-7.21939pt}.
 
-LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 158.
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 153.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 </Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf, id=49, 597.23125pt x 845.1575pt>
 File: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf Graphic file (type pdf)
 <use /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf>
-Package pdftex.def Info: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf  used on input line 158.
+Package pdftex.def Info: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf  used on input line 153.
 (pdftex.def)             Requested size: 895.75354pt x 1267.57027pt.
  [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf> <./format/lxipparis2.png> <./format/lms.png>] [2 <./images/erlich.png>] (./01-lms-seminar-external.aux)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf> <./format/lxipparis2.png> <./format/lms.png> <./images/combescure.png>] (./01-lms-seminar-external.aux)
 Package rerunfilecheck Info: File `01-lms-seminar-external.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 44065 strings out of 476025
- 1028016 string characters out of 5790018
+ 44064 strings out of 476025
+ 1028033 string characters out of 5790018
  1872388 words of memory out of 5000000
  63780 multiletter control sequences out of 15000+600000
  537716 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,15n,96p,1233b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,15n,96p,912b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 01-lms-seminar-external.pdf (2 pages, 1820560 bytes).
+Output written on 01-lms-seminar-external.pdf (1 page, 845270 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
+ 87 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
