@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  7 OCT 2026 23:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  13 OCT 2026 23:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -931,8 +931,8 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 764.
 Package hyperref Info: Option `colorlinks' set `true' on input line 65.
  (./format/defs.tex
 \boxwidth=\skip90
-)
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 113.
+) (./seminar-info.tex)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 114.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -942,24 +942,24 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 ) (./01-lms-seminar-external.aux)
 \openout1 = `01-lms-seminar-external.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1020,25 +1020,25 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 113.
+Package hyperref Info: Link coloring ON on input line 114.
  (./01-lms-seminar-external.out) (./01-lms-seminar-external.out)
 \@outlinefile=\write5
 \openout5 = `01-lms-seminar-external.out'.
 
-LaTeX Info: Redefining \celsius on input line 113.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 113.
+LaTeX Info: Redefining \celsius on input line 114.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 114.
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 113.
-Package gensymb Info: Using \Omega for \ohm on input line 113.
+LaTeX Info: Redefining \ohm on input line 114.
+Package gensymb Info: Using \Omega for \ohm on input line 114.
 
 Package gensymb Warning: Not defining \micro.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
- on input line 113.
+ on input line 114.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
@@ -1051,16 +1051,16 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks60
 \inpenc@posthook=\toks61
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 114.
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 115.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<images/combescure.png, id=43, 188.705pt x 200.75pt>
-File: images/combescure.png Graphic file (type png)
-<use images/combescure.png>
-Package pdftex.def Info: images/combescure.png  used on input line 147.
-(pdftex.def)             Requested size: 188.70453pt x 200.7495pt.
-<format/lxipparis2.png, id=45, 610.1997pt x 220.4235pt>
+<images/nh.jpg, id=43, 1377.145pt x 1387.1825pt>
+File: images/nh.jpg Graphic file (type jpg)
+<use images/nh.jpg>
+Package pdftex.def Info: images/nh.jpg  used on input line 147.
+(pdftex.def)             Requested size: 1377.14165pt x 1387.17912pt.
+<format/lxipparis2.png, id=44, 610.1997pt x 220.4235pt>
 File: format/lxipparis2.png Graphic file (type png)
 <use format/lxipparis2.png>
 Package pdftex.def Info: format/lxipparis2.png  used on input line 153.
@@ -1089,22 +1089,22 @@ Package pdftex.def Info: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-tem
 (pdftex.def)             Requested size: 895.75354pt x 1267.57027pt.
  [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf> <./format/lxipparis2.png> <./format/lms.png> <./images/combescure.png>] (./01-lms-seminar-external.aux)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf> <./format/lxipparis2.png> <./format/lms.png> <./images/nh.jpg>] (./01-lms-seminar-external.aux)
 Package rerunfilecheck Info: File `01-lms-seminar-external.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 44064 strings out of 476025
- 1028033 string characters out of 5790018
- 1872388 words of memory out of 5000000
- 63780 multiletter control sequences out of 15000+600000
+ 44080 strings out of 476025
+ 1028193 string characters out of 5790018
+ 1873388 words of memory out of 5000000
+ 63792 multiletter control sequences out of 15000+600000
  537716 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,96p,912b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 01-lms-seminar-external.pdf (1 page, 845270 bytes).
+Output written on 01-lms-seminar-external.pdf (1 page, 1182916 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 86 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)

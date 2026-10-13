@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1791407083 "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-admin-logistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-external/01-lms-seminar-external.tex" "01-lms-seminar-external.pdf" "01-lms-seminar-external" 1791407086 0
-  "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-admin-logistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-external/01-lms-seminar-external.tex" 1791407083 5708 c265f3323a95aceab020cb2df0e9e7df ""
+["pdflatex"] 1791926646 "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-admin-logistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-external/01-lms-seminar-external.tex" "01-lms-seminar-external.pdf" "01-lms-seminar-external" 1791926648 0
+  "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-admin-logistics/04SeminarOrganization/lms-meca-seminars/Resources/lms-seminar-docs/00templates/lms-external/01-lms-seminar-external.tex" 1791926646 4213 c4c4151ecc631449aac765ab1dbccc5a ""
   "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf" 1770198707 176657 e37e4d0a5c269d5b94f7fc94478e529a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
@@ -259,13 +259,14 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1709642366 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1709642352 7883459 5194da3746845faa08b00b0b5777d268 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "01-lms-seminar-external.aux" 1791407085 589 b72b67807360294e38f1cde1b1aa5aef "pdflatex"
-  "01-lms-seminar-external.out" 1791407085 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "01-lms-seminar-external.tex" 1791407083 5708 c265f3323a95aceab020cb2df0e9e7df ""
+  "01-lms-seminar-external.aux" 1791926648 589 b72b67807360294e38f1cde1b1aa5aef "pdflatex"
+  "01-lms-seminar-external.out" 1791926647 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "01-lms-seminar-external.tex" 1791926646 4213 c4c4151ecc631449aac765ab1dbccc5a ""
   "format/defs.tex" 1757930410 12869 b8f6c24b6b741495127b2907ac965ef5 ""
   "format/lms.png" 1707727288 494003 a695269bf4bc8ff6dd70d9a49a2e225b ""
   "format/lxipparis2.png" 1689060894 166793 f912f53ed4d474868076b6d9c3aeea34 ""
-  "images/combescure.png" 1790624431 45863 718189eef738863cfc3366a4a8d5270f ""
+  "images/nh.jpg" 1791926548 356532 0e3bee26fcfc7f01457e9d18a0ef54b5 ""
+  "seminar-info.tex" 1791926605 2419 bc72100676306a4f68403bb64a5a965e ""
   (generated)
   "01-lms-seminar-external.aux"
   "01-lms-seminar-external.log"

@@ -89,6 +89,7 @@
 }
 
 \input{format/defs}
+\input{seminar-info.tex}
 
 \fancypagestyle{titlepage}{
 	\fancyhf{}
@@ -125,14 +126,14 @@
 \end{center}
 
 \begin{center}
-	\Large \textbf{Exploring homogenization of quasiperiodic architected materials} \\
+	\Large \textbf{\includetitle} \\
 \end{center}
 
 \begin{tikzpicture}[remember picture, overlay]
 	\begin{scope}
 		\node[anchor=west] (image) at (current page.west) [xshift=2em, yshift=-6.5em] {
 			\begin{minipage}{0.3\linewidth}
-				\CircledImage{images/combescure}
+				\CircledImage{\includephoto}
 			\end{minipage}
 		};
 	\end{scope}
@@ -141,13 +142,13 @@
 		\begin{minipage}{0.7\linewidth}
 			\raggedright \large
 			\vspace*{0em}
-			\Large \textbf{Christelle Combescure} \\
+			\Large \textbf{\includeauthor} \\
 			\vspace*{0.5em}
-			\Large{Saint-Cyr Coëtquidan Military Academy} \\
+			\Large{\includeaffiliation} \\
 			\vspace*{1em}
-			{\Large \textbf{Date and Time}:~October 08, 2026 (2 -- 3 pm) \\ 
+			{\Large \textbf{Date and Time}:~\includedate (\includetime) \\ 
 				\vspace*{0.5em}
-			\textbf{Venue}:~Amphithéâtre Pole Mecanique}
+			\textbf{Venue}:~\includevenue}
 		\end{minipage}
 	};
 \end{tikzpicture}

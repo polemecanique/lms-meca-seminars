@@ -85,6 +85,7 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 }
 
 \input{format/defs}
+\input{seminar-info.tex}
 
 \fancypagestyle{titlepage}{
 	\fancyhf{}
@@ -120,22 +121,21 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 	\end{center}
 	\begin{center}
 		\Large 
-		\textbf{Exploring homogenization of quasiperiodic architected materials} 
+		\textbf{\includetitle} 
 	\end{center}
 	\begin{center}
-		\Large Christelle Combescure \\ 
-		{\large Saint-Cyr Coëtquidan Military Academy} \\
+		\Large \includeauthor \\ 
+		{\large \includeaffiliation} \\
 		\vspace*{0.5em}
 		{\large \textbf{Date, time, and venue} \\
-		October 08, 2026 (2 -- 3 pm), Amphithéâtre Pole Mecanique}
+		\includedate~(\includetime), \includevenue}
 	\end{center}
 
 	\vspace*{-1em}
 	
 	\begin{myhlbox}{\textbf{Abstract}}
-		Quasiperiodic architected materials represent an intermediate configuration between perfectly periodic and completely random mesoscopic geometric arrangement. They combine the advantages of both arrangements by allowing for isotropic mechanical properties, high resistance to crack propagation while retaining deterministic geometries. The quasiperiodic arrangement has attracted great interest in the scientific community since the discovery of quasicrystals in 1982 by  Daniel Schechtman (Nobel Prize) however, to this day, the question of determining their emergent mechanical properties via dedicated homogenization procedures has not been properly addressed.
-		After reviewing briefly the various ways of generating quasiperiodicity, we will expose two new homogenization methods dedicated to quasiperiodic architectured based on these constructions.
-		The presented work results from the doctoral work of Markus Husert directed by Nicolas Auffray and Renald Brenner which I co-supervised.
+
+		\includeabstract
 		
 	\end{myhlbox}
 
@@ -144,10 +144,10 @@ headheight= 2.5cm, headsep= 4pt, footskip=25pt]{geometry}
 	\begin{myhlbox}{\textbf{About the speaker}}
 		\begin{wrapfigure}{r}{0.25\textwidth}
 			\vspace*{-2em}
-			\CircledImage{images/combescure}
+			\CircledImage{\includephoto}
 		\end{wrapfigure}
 
-		Christelle Combescure (ENS Paris-Saclay 2007) has always been fascinated by architecture and human constructions, and is now a Maître de Conférence in Mechanics and Civil Engineering at the Saint-Cyr Coëtquidan Military Academy. Her research focuses on new, complex materials - architectured materials - the behavior of which, particularly instability phenomena under compressive loads, is modelled to guarantee the safety of people and infrastructures. 
+		\includebio
 		
 	\end{myhlbox}
 \end{document}

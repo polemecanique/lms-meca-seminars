@@ -1363,6 +1363,10 @@ INPUT format/defs.tex
 INPUT ./format/defs.tex
 INPUT ./format/defs.tex
 INPUT format/defs.tex
+INPUT ./seminar-info.tex
+INPUT seminar-info.tex
+INPUT ./seminar-info.tex
+INPUT seminar-info.tex
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
@@ -1453,10 +1457,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmss12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
-INPUT ./images/combescure.png
-INPUT images/combescure.png
-INPUT ./images/combescure.png
-INPUT ./images/combescure.png
+INPUT ./images/nh.jpg
+INPUT images/nh.jpg
+INPUT ./images/nh.jpg
+INPUT ./images/nh.jpg
 INPUT ./format/lxipparis2.png
 INPUT ./format/lxipparis2.png
 INPUT format/lxipparis2.png
