@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  13 OCT 2026 23:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  18 NOV 2026 09:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1055,12 +1055,12 @@ LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 1
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<images/nh.jpg, id=43, 1377.145pt x 1387.1825pt>
-File: images/nh.jpg Graphic file (type jpg)
-<use images/nh.jpg>
-Package pdftex.def Info: images/nh.jpg  used on input line 147.
-(pdftex.def)             Requested size: 1377.14165pt x 1387.17912pt.
-<format/lxipparis2.png, id=44, 610.1997pt x 220.4235pt>
+<images/grasa.png, id=43, 125.1585pt x 111.69pt>
+File: images/grasa.png Graphic file (type png)
+<use images/grasa.png>
+Package pdftex.def Info: images/grasa.png  used on input line 147.
+(pdftex.def)             Requested size: 125.15817pt x 111.68971pt.
+<format/lxipparis2.png, id=45, 610.1997pt x 220.4235pt>
 File: format/lxipparis2.png Graphic file (type png)
 <use format/lxipparis2.png>
 Package pdftex.def Info: format/lxipparis2.png  used on input line 153.
@@ -1089,22 +1089,22 @@ Package pdftex.def Info: /Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-tem
 (pdftex.def)             Requested size: 895.75354pt x 1267.57027pt.
  [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf> <./format/lxipparis2.png> <./format/lms.png> <./images/nh.jpg>] (./01-lms-seminar-external.aux)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} </Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/lms/lms-bg-1-portrait.pdf> <./format/lxipparis2.png> <./format/lms.png> <./images/grasa.png>] (./01-lms-seminar-external.aux)
 Package rerunfilecheck Info: File `01-lms-seminar-external.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 44080 strings out of 476025
- 1028193 string characters out of 5790018
- 1873388 words of memory out of 5000000
- 63792 multiletter control sequences out of 15000+600000
- 537716 words of font info for 43 fonts, out of 8000000 for 9000
+ 44076 strings out of 476025
+ 1028165 string characters out of 5790018
+ 1875388 words of memory out of 5000000
+ 63789 multiletter control sequences out of 15000+600000
+ 535001 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,15n,96p,912b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,15n,96p,1001b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 01-lms-seminar-external.pdf (1 page, 1182916 bytes).
+Output written on 01-lms-seminar-external.pdf (1 page, 984569 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
+ 87 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)

@@ -11,6 +11,23 @@ This page serves as an archive of past talks in the LMS seminar series. It inclu
 
 :::: {.talk-card}
 
+### Gowtham Nimmal Haribabu (TU Delft)
+
+**Date and Place:** October 15, 2026 at the Pole Mecanique amphitheatre <br>
+**Title:** Generative modeling of microstructures: From image to texture to graphs
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-1015-Gowtham/01-lms-seminar-external.pdf){.button target="_blank"}
+
+<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
+
+:::
+
+::::
+
+:::: {.talk-card}
+
 ### Christelle Combescure (Saint-Cyr Coëtquidan Military Academy)
 
 **Date and Place:** October 8, 2026 at the Pole Mecanique amphitheatre <br>
@@ -23,8 +40,6 @@ This page serves as an archive of past talks in the LMS seminar series. It inclu
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/JpGe5AMPG3TJqWA){.button target="_blank"}
 
 :::
-
-[![](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-1008-Christelle/02-lms-seminar-external.png){fig-align="left" width="60%"}](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-1008-Christelle/02-lms-seminar-external.png)
 
 ::::
 

@@ -1452,15 +1452,13 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmss.fd
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmss12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmss17.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmss17.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmss12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
-INPUT ./images/nh.jpg
-INPUT images/nh.jpg
-INPUT ./images/nh.jpg
-INPUT ./images/nh.jpg
+INPUT ./images/grasa.png
+INPUT images/grasa.png
+INPUT ./images/grasa.png
+INPUT ./images/grasa.png
 INPUT ./format/lxipparis2.png
 INPUT ./format/lxipparis2.png
 INPUT format/lxipparis2.png
@@ -1471,6 +1469,7 @@ INPUT ./format/lms.png
 INPUT format/lms.png
 INPUT ./format/lms.png
 INPUT ./format/lms.png
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmss17.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
