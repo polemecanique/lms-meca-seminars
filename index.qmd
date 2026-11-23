@@ -22,20 +22,39 @@ This wiki serves as a central hub for the seminar series of the [Laboratoire de 
 
 :::: {.talk-card}
 
-### Jorge Grasa (University of Zaragoza)
+### Christos Athanasiou (Georgia Tech)
 
-**Date and Place:** November 19, 2026 at the Pole Mecanique amphitheatre <br>
-**Title:** Bridging Biology and Engineering Through Computational Modeling
+**Date and Place:** November 25, 2026 at the Pole Mecanique amphitheatre <br>
+**Title:** Mechanics for Plastics Circularity: Designing Against Variability, Predicting Service Failure & Rethinking Polymer Fracture Criteria
 
 ::: {.button}
 
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-1119-JorgeGrasa/01-lms-seminar-external.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-1125-Christos/01-lms-seminar-external.pdf){.button target="_blank"}
 
 <!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
 
 :::
 
-[![](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-1119-JorgeGrasa/02-lms-seminar-external.png){fig-align="left" width="60%"}](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-1119-JorgeGrasa/02-lms-seminar-external.png)
+[![](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-1125-Christos/02-lms-seminar-external.png){fig-align="left" width="60%"}](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-1125-Christos/02-lms-seminar-external.png)
+
+::::
+
+:::: {.talk-card}
+
+### Adrian Buganza-Tepole (Columbia University)
+
+**Date and Place:** November 26, 2026 at the Pole Mecanique amphitheatre <br>
+**Title:** Physics-augmented neural network learning of skin biophysics 
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-1126-Adrian/01-lms-seminar-external.pdf){.button target="_blank"}
+
+<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
+
+:::
+
+[![](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-1126-Adrian/02-lms-seminar-external.png){fig-align="left" width="60%"}](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-1126-Adrian/02-lms-seminar-external.png)
 
 ::::
 

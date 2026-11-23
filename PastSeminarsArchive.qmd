@@ -11,6 +11,23 @@ This page serves as an archive of past talks in the LMS seminar series. It inclu
 
 :::: {.talk-card}
 
+### Jorge Grasa (University of Zaragoza)
+
+**Date and Place:** November 19, 2026 at the Pole Mecanique amphitheatre <br>
+**Title:** Bridging Biology and Engineering Through Computational Modeling
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="announcement"></iconify-icon> Abstract & Bio](Resources/lms-seminar-docs/docs/26-09-12-abstract-announcements/26-1119-JorgeGrasa/01-lms-seminar-external.pdf){.button target="_blank"}
+
+<!-- [<iconify-icon icon="fa-solid:chalkboard" aria-label="slides"></iconify-icon> Recording](https://sdrive.cnrs.fr/s/LspL5itra83aozH){.button target="_blank"} -->
+
+:::
+
+::::
+
+:::: {.talk-card}
+
 ### Gowtham Nimmal Haribabu (TU Delft)
 
 **Date and Place:** October 15, 2026 at the Pole Mecanique amphitheatre <br>

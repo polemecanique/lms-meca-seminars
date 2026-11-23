@@ -1455,10 +1455,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmss12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
-INPUT ./images/grasa.png
-INPUT images/grasa.png
-INPUT ./images/grasa.png
-INPUT ./images/grasa.png
+INPUT ./images/tepole.jpg
+INPUT images/tepole.jpg
+INPUT ./images/tepole.jpg
+INPUT ./images/tepole.jpg
 INPUT ./format/lxipparis2.png
 INPUT ./format/lxipparis2.png
 INPUT format/lxipparis2.png
